@@ -1,0 +1,122 @@
+NUTS_ID;name
+AL;Albania
+AT1;East Austria
+AT2;Sud Austria
+AT3;West Austria
+BE2;Vlaams Gewest
+BE3;Région Wallonne
+BG;Bulgaria
+CH;Schweiz
+CY;Cyprus
+CZ;Czeckia
+DE1;Baden-Würtenberg
+DE2;Bayern
+DE4;Brandenburg
+DE7;Hessen
+DE8;Mecklenburg-Vorpmmern
+DE9;Niedersachsen
+DEA;Nordhein-Westfalen
+DEB;Rheinland-Pfalz
+DEC;Saarland
+DED;Sachsen
+DEE;Sachsen-Anhalt
+DEF;Schleswig-Holstein
+DEG;Thüringen
+DK;Denmark
+EE;Estonia
+EL;Greece
+ES11;Galicia
+ES12;Principado de Asturias
+ES13;Cantabria
+ES21;País Vasco
+ES22;Comunidad Foral de Navarra
+ES23;La Rioja
+ES24;Aragón
+ES30;Comunidad de Madrid
+ES41;Castilla y León
+ES42;Castilla-La Mancha
+ES43;Extremadura
+ES51;Cataluña
+ES52;Comunidad Valenciana
+ES53;Illes Balears
+ES61;Andalucía
+ES62;Región de Murcia
+FI;Finland
+FR10;Ile-de-France
+FRB0;Centre - Val de Loire
+FRC1;Bourgogne
+FRC2;Franche-Comté
+FRD1;Basse-Normandie
+FRD2;Haute-Normandie
+FRE1;Nord-Pas de Calais
+FRE2;Picardie
+FRF1;Alsace
+FRF2;Champagne-Ardenne
+FRF3;Lorraine
+FRG0;Pays de la Loire
+FRH0;Bretagne
+FRI1;Aquitaine
+FRI2;Limousin
+FRI3;Poitou-Charentes
+FRJ1;Languedoc-Roussillon
+FRJ2;Midi-Pyrénées
+FRK1;Auvergne
+FRK2;Rhône-Alpes
+FRL0;Provence-Alpes-Côte d’Azur
+FRM0;Corse
+HR;Croatia
+HU1;Közep-Magyaroszag
+HU2;Dunantul
+HU3;Alföld Es Eszak
+IE04;NW Ireland
+IE05;South Ireland
+IE06;Eastern and Midland Ireland
+ITC;Nord-Ovest Italia
+ITF;Sud Italia
+ITG;Isole Italia
+ITH;Nord-Est Italia
+ITI;Centro Italia
+LT;Lithuania
+LU;Luxembourg
+LV;Latvija
+ME;Montenegro
+MK;North Macedonia
+NL;Nederland
+NO;Norge
+PL2;Poludniowy
+PL4;Polnocno-Zachodni
+PL5;Poludniowa-Zachodni
+PL6;Polnocny
+PL7;Centralny
+PL8;Wshodni
+PL9;Wojewodztwo Mazowieckie
+PT11;Norte Portugal
+PT15;Algarve
+PT16;Centro Portugal
+PT17;AM Lisboa
+PT18;Alentejo
+RO11;Nord-Vest Romania
+RO12;Centru Romania
+RO21;Nord-Est Romania
+RO22;Sud-Est Romania
+RO31;Sud - Muntenia Romania
+RO32;Bucureşti - Ilfov
+RO41;Sud-Vest Oltenia
+RO42;Vest Romania
+RS;Serbia
+SE1;Östra Sverige
+SE2;Södra Sverige
+SE3;Norra Sverige
+SI;Slovenia
+SK;Slovakia
+UKC;NE England
+UKD;NW England
+UKE;Yorkshire and Humber
+UKF;East Midland England
+UKG;West Midlands England
+UKH;East England
+UKJ;Saout East England
+UKK;South West England
+UKL;Wales
+UKM;Scotland
+UKN;Northern Ireland

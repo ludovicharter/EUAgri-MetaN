@@ -1,0 +1,50 @@
+Dataset name
+------------
+
+land_areas
+
+
+
+Description
+-----------
+
+Agricultural land areas
+
+- Csum: Sum of harvested crop areas.
+- Ctot: Cropland area (total area used for arable crops + permanent crops + fallow)
+- C: Cropland in use. C = min(Csum, Ctot).
+
+  If Ctot > Csum, the difference (Ctot - Csum) usually roughly equals fallow.
+  Csum sometimes exceeds Ctot, most likely due to multicropping and intercropping.
+  In most cases where
+
+- PG: Permanent grassland, defined as grassland lasting more than five years.
+- TG: Temporary grassland, including grass-legume mixtures. Temporary grassland is
+  part of arable land.
+
+Total agricultural land use = Ctot + PG.
+
+
+
+Variables
+---------
+
+Symbol: C
+Label: Cropland in use
+Unit: Mha
+
+Symbol: Ctot
+Label: FAOSTAT cropland
+Unit: Mha
+
+Symbol: Csum
+Label: Crop area sum
+Unit: Mha
+
+Symbol: PG
+Label: Permanent grassland
+Unit: Mha
+
+Symbol: TG
+Label: Temporary grassland
+Unit: Mha

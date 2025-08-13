@@ -1,0 +1,20 @@
+Dataset name
+------------
+
+symbiotic_fixation_by_crop_category
+
+
+
+Description
+-----------
+
+Symbiotic nitrogen (N) fixation by crop category.
+
+
+
+Variables
+---------
+
+Symbol: B
+Label: Symbiotic fixation
+Unit: Gg N

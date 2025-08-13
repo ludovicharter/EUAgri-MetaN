@@ -1,0 +1,250 @@
+Region;Region name;Animal_simple;Destination_simple;Symbol;Value;Label;Unit
+AT;Austria;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+AT;Austria;Pigs;Grassland;destination_share;0.5755930934124619;Share of stored manure to destination;-
+AT;Austria;Pigs;Non grassland;destination_share;0.42440690658753805;Share of stored manure to destination;-
+AT;Austria;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+AT;Austria;Poultry and rabbits;Grassland;destination_share;0.05;Share of stored manure to destination;-
+AT;Austria;Poultry and rabbits;Non grassland;destination_share;0.9500000000000001;Share of stored manure to destination;-
+AT;Austria;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+AT;Austria;Ruminants and equines;Grassland;destination_share;0.46789374755444774;Share of stored manure to destination;-
+AT;Austria;Ruminants and equines;Non grassland;destination_share;0.5321062524455523;Share of stored manure to destination;-
+BE;Belgium;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE;Belgium;Pigs;Grassland;destination_share;0.19430615463592266;Share of stored manure to destination;-
+BE;Belgium;Pigs;Non grassland;destination_share;0.8056938453640773;Share of stored manure to destination;-
+BE;Belgium;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE;Belgium;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+BE;Belgium;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+BE;Belgium;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE;Belgium;Ruminants and equines;Grassland;destination_share;0.060869079712457363;Share of stored manure to destination;-
+BE;Belgium;Ruminants and equines;Non grassland;destination_share;0.9391309202875426;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Pigs;Grassland;destination_share;0.19826446126756597;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Pigs;Non grassland;destination_share;0.801735538732434;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Ruminants and equines;Grassland;destination_share;0.08269345516982489;Share of stored manure to destination;-
+BE_LU;Belgium and Luxembourg;Ruminants and equines;Non grassland;destination_share;0.917306544830175;Share of stored manure to destination;-
+BG;Bulgaria;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BG;Bulgaria;Pigs;Grassland;destination_share;0.16579061147498064;Share of stored manure to destination;-
+BG;Bulgaria;Pigs;Non grassland;destination_share;0.8342093885250195;Share of stored manure to destination;-
+BG;Bulgaria;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BG;Bulgaria;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+BG;Bulgaria;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+BG;Bulgaria;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+BG;Bulgaria;Ruminants and equines;Grassland;destination_share;0.015002292070944508;Share of stored manure to destination;-
+BG;Bulgaria;Ruminants and equines;Non grassland;destination_share;0.9849977079290554;Share of stored manure to destination;-
+CZ;Czechia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ;Czechia;Pigs;Grassland;destination_share;0.6606060606060606;Share of stored manure to destination;-
+CZ;Czechia;Pigs;Non grassland;destination_share;0.3393939393939393;Share of stored manure to destination;-
+CZ;Czechia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ;Czechia;Poultry and rabbits;Grassland;destination_share;0.1;Share of stored manure to destination;-
+CZ;Czechia;Poultry and rabbits;Non grassland;destination_share;0.9;Share of stored manure to destination;-
+CZ;Czechia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ;Czechia;Ruminants and equines;Grassland;destination_share;0.399027476848059;Share of stored manure to destination;-
+CZ;Czechia;Ruminants and equines;Non grassland;destination_share;0.6009725231519409;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Pigs;Grassland;destination_share;0.5053050812378719;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Pigs;Non grassland;destination_share;0.494694918762128;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Poultry and rabbits;Grassland;destination_share;0.06879772558715717;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Poultry and rabbits;Non grassland;destination_share;0.9312022744128429;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Ruminants and equines;Grassland;destination_share;0.28804851907316636;Share of stored manure to destination;-
+CZ_SK;Former Czechoslovakia;Ruminants and equines;Non grassland;destination_share;0.7119514809268337;Share of stored manure to destination;-
+DE;Germany;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DE;Germany;Pigs;Grassland;destination_share;0.15;Share of stored manure to destination;-
+DE;Germany;Pigs;Non grassland;destination_share;0.85;Share of stored manure to destination;-
+DE;Germany;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DE;Germany;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+DE;Germany;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+DE;Germany;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DE;Germany;Ruminants and equines;Grassland;destination_share;0.15;Share of stored manure to destination;-
+DE;Germany;Ruminants and equines;Non grassland;destination_share;0.8500000000000001;Share of stored manure to destination;-
+DK;Denmark;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DK;Denmark;Pigs;Grassland;destination_share;0.25;Share of stored manure to destination;-
+DK;Denmark;Pigs;Non grassland;destination_share;0.75;Share of stored manure to destination;-
+DK;Denmark;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DK;Denmark;Poultry and rabbits;Grassland;destination_share;0.03;Share of stored manure to destination;-
+DK;Denmark;Poultry and rabbits;Non grassland;destination_share;0.97;Share of stored manure to destination;-
+DK;Denmark;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+DK;Denmark;Ruminants and equines;Grassland;destination_share;0.25;Share of stored manure to destination;-
+DK;Denmark;Ruminants and equines;Non grassland;destination_share;0.7499999999999999;Share of stored manure to destination;-
+EE;Estonia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EE;Estonia;Pigs;Grassland;destination_share;0.6864038379948436;Share of stored manure to destination;-
+EE;Estonia;Pigs;Non grassland;destination_share;0.31359616200515644;Share of stored manure to destination;-
+EE;Estonia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EE;Estonia;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+EE;Estonia;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+EE;Estonia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EE;Estonia;Ruminants and equines;Grassland;destination_share;0.3034385586621643;Share of stored manure to destination;-
+EE;Estonia;Ruminants and equines;Non grassland;destination_share;0.6965614413378356;Share of stored manure to destination;-
+ES;Spain;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+ES;Spain;Pigs;Grassland;destination_share;0.1358326216697187;Share of stored manure to destination;-
+ES;Spain;Pigs;Non grassland;destination_share;0.8641673783302812;Share of stored manure to destination;-
+ES;Spain;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+ES;Spain;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+ES;Spain;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+ES;Spain;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+ES;Spain;Ruminants and equines;Grassland;destination_share;0.08428495501421707;Share of stored manure to destination;-
+ES;Spain;Ruminants and equines;Non grassland;destination_share;0.9157150449857829;Share of stored manure to destination;-
+FI;Finland;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FI;Finland;Pigs;Grassland;destination_share;0.1623810610278687;Share of stored manure to destination;-
+FI;Finland;Pigs;Non grassland;destination_share;0.8376189389721312;Share of stored manure to destination;-
+FI;Finland;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FI;Finland;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+FI;Finland;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+FI;Finland;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FI;Finland;Ruminants and equines;Grassland;destination_share;0.14024769395895448;Share of stored manure to destination;-
+FI;Finland;Ruminants and equines;Non grassland;destination_share;0.8597523060410455;Share of stored manure to destination;-
+FR;France;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FR;France;Pigs;Grassland;destination_share;0.18280450889261976;Share of stored manure to destination;-
+FR;France;Pigs;Non grassland;destination_share;0.8171954911073803;Share of stored manure to destination;-
+FR;France;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FR;France;Poultry and rabbits;Grassland;destination_share;0.02;Share of stored manure to destination;-
+FR;France;Poultry and rabbits;Non grassland;destination_share;0.98;Share of stored manure to destination;-
+FR;France;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+FR;France;Ruminants and equines;Grassland;destination_share;0.07419031714238118;Share of stored manure to destination;-
+FR;France;Ruminants and equines;Non grassland;destination_share;0.9258096828576188;Share of stored manure to destination;-
+UK;United Kingdom;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+UK;United Kingdom;Pigs;Grassland;destination_share;0.2992119908817837;Share of stored manure to destination;-
+UK;United Kingdom;Pigs;Non grassland;destination_share;0.7007880091182163;Share of stored manure to destination;-
+UK;United Kingdom;Poultry and rabbits;Discharged;destination_share;0.1;Share of stored manure to destination;-
+UK;United Kingdom;Poultry and rabbits;Grassland;destination_share;0.4;Share of stored manure to destination;-
+UK;United Kingdom;Poultry and rabbits;Non grassland;destination_share;0.5;Share of stored manure to destination;-
+UK;United Kingdom;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+UK;United Kingdom;Ruminants and equines;Grassland;destination_share;0.6934926925558936;Share of stored manure to destination;-
+UK;United Kingdom;Ruminants and equines;Non grassland;destination_share;0.3065073074441065;Share of stored manure to destination;-
+EL;Greece;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EL;Greece;Pigs;Grassland;destination_share;0.7999999999999999;Share of stored manure to destination;-
+EL;Greece;Pigs;Non grassland;destination_share;0.19999999999999998;Share of stored manure to destination;-
+EL;Greece;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EL;Greece;Poultry and rabbits;Grassland;destination_share;0.5;Share of stored manure to destination;-
+EL;Greece;Poultry and rabbits;Non grassland;destination_share;0.5;Share of stored manure to destination;-
+EL;Greece;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+EL;Greece;Ruminants and equines;Grassland;destination_share;0.8;Share of stored manure to destination;-
+EL;Greece;Ruminants and equines;Non grassland;destination_share;0.2;Share of stored manure to destination;-
+HR;Croatia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+HR;Croatia;Pigs;Grassland;destination_share;0.16579061147498064;Share of stored manure to destination;-
+HR;Croatia;Pigs;Non grassland;destination_share;0.8342093885250195;Share of stored manure to destination;-
+HR;Croatia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+HR;Croatia;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+HR;Croatia;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+HR;Croatia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+HR;Croatia;Ruminants and equines;Grassland;destination_share;0.015002292070944508;Share of stored manure to destination;-
+HR;Croatia;Ruminants and equines;Non grassland;destination_share;0.9849977079290554;Share of stored manure to destination;-
+HU;Hungary;Pigs;Discharged;destination_share;0.09817765249813641;Share of stored manure to destination;-
+HU;Hungary;Pigs;Grassland;destination_share;0.1727220656226705;Share of stored manure to destination;-
+HU;Hungary;Pigs;Non grassland;destination_share;0.729100281879193;Share of stored manure to destination;-
+HU;Hungary;Poultry and rabbits;Discharged;destination_share;0.1;Share of stored manure to destination;-
+HU;Hungary;Poultry and rabbits;Grassland;destination_share;0.2;Share of stored manure to destination;-
+HU;Hungary;Poultry and rabbits;Non grassland;destination_share;0.7;Share of stored manure to destination;-
+HU;Hungary;Ruminants and equines;Discharged;destination_share;0.010597518880560788;Share of stored manure to destination;-
+HU;Hungary;Ruminants and equines;Grassland;destination_share;0.06324689860070098;Share of stored manure to destination;-
+HU;Hungary;Ruminants and equines;Non grassland;destination_share;0.9261555825187382;Share of stored manure to destination;-
+IE;Ireland;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+IE;Ireland;Poultry and rabbits;Grassland;destination_share;0.6;Share of stored manure to destination;-
+IE;Ireland;Poultry and rabbits;Non grassland;destination_share;0.4;Share of stored manure to destination;-
+IE;Ireland;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+IE;Ireland;Ruminants and equines;Grassland;destination_share;1.0;Share of stored manure to destination;-
+IE;Ireland;Ruminants and equines;Non grassland;destination_share;0.0;Share of stored manure to destination;-
+IT;Italy;Pigs;Discharged;destination_share;0.05;Share of stored manure to destination;-
+IT;Italy;Pigs;Grassland;destination_share;0.25;Share of stored manure to destination;-
+IT;Italy;Pigs;Non grassland;destination_share;0.7;Share of stored manure to destination;-
+IT;Italy;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+IT;Italy;Poultry and rabbits;Grassland;destination_share;0.19999999999999998;Share of stored manure to destination;-
+IT;Italy;Poultry and rabbits;Non grassland;destination_share;0.7999999999999999;Share of stored manure to destination;-
+IT;Italy;Ruminants and equines;Discharged;destination_share;0.02140372082564601;Share of stored manure to destination;-
+IT;Italy;Ruminants and equines;Grassland;destination_share;0.16421116247693804;Share of stored manure to destination;-
+IT;Italy;Ruminants and equines;Non grassland;destination_share;0.8143851166974159;Share of stored manure to destination;-
+LT;Lithuania;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LT;Lithuania;Pigs;Grassland;destination_share;0.6864038379948436;Share of stored manure to destination;-
+LT;Lithuania;Pigs;Non grassland;destination_share;0.31359616200515644;Share of stored manure to destination;-
+LT;Lithuania;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LT;Lithuania;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+LT;Lithuania;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+LT;Lithuania;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LT;Lithuania;Ruminants and equines;Grassland;destination_share;0.3034385586621643;Share of stored manure to destination;-
+LT;Lithuania;Ruminants and equines;Non grassland;destination_share;0.6965614413378356;Share of stored manure to destination;-
+LU;Luxembourg;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LU;Luxembourg;Pigs;Grassland;destination_share;0.6699999999999999;Share of stored manure to destination;-
+LU;Luxembourg;Pigs;Non grassland;destination_share;0.33;Share of stored manure to destination;-
+LU;Luxembourg;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LU;Luxembourg;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+LU;Luxembourg;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+LU;Luxembourg;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LU;Luxembourg;Ruminants and equines;Grassland;destination_share;0.4153925934557875;Share of stored manure to destination;-
+LU;Luxembourg;Ruminants and equines;Non grassland;destination_share;0.5846074065442125;Share of stored manure to destination;-
+LV;Latvia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LV;Latvia;Pigs;Grassland;destination_share;0.6864038379948436;Share of stored manure to destination;-
+LV;Latvia;Pigs;Non grassland;destination_share;0.31359616200515644;Share of stored manure to destination;-
+LV;Latvia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LV;Latvia;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+LV;Latvia;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+LV;Latvia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+LV;Latvia;Ruminants and equines;Grassland;destination_share;0.3034385586621643;Share of stored manure to destination;-
+LV;Latvia;Ruminants and equines;Non grassland;destination_share;0.6965614413378356;Share of stored manure to destination;-
+NL;Netherlands;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+NL;Netherlands;Pigs;Grassland;destination_share;0.09999999999999999;Share of stored manure to destination;-
+NL;Netherlands;Pigs;Non grassland;destination_share;0.9;Share of stored manure to destination;-
+NL;Netherlands;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+NL;Netherlands;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+NL;Netherlands;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+NL;Netherlands;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+NL;Netherlands;Ruminants and equines;Grassland;destination_share;0.9;Share of stored manure to destination;-
+NL;Netherlands;Ruminants and equines;Non grassland;destination_share;0.09999999999999999;Share of stored manure to destination;-
+PL;Poland;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+PL;Poland;Pigs;Grassland;destination_share;0.12289876383465623;Share of stored manure to destination;-
+PL;Poland;Pigs;Non grassland;destination_share;0.8771012361653439;Share of stored manure to destination;-
+PL;Poland;Poultry and rabbits;Discharged;destination_share;0.1;Share of stored manure to destination;-
+PL;Poland;Poultry and rabbits;Grassland;destination_share;0.1;Share of stored manure to destination;-
+PL;Poland;Poultry and rabbits;Non grassland;destination_share;0.8;Share of stored manure to destination;-
+PL;Poland;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+PL;Poland;Ruminants and equines;Grassland;destination_share;0.10344299269758787;Share of stored manure to destination;-
+PL;Poland;Ruminants and equines;Non grassland;destination_share;0.8965570073024122;Share of stored manure to destination;-
+PT;Portugal;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+PT;Portugal;Pigs;Grassland;destination_share;0.1358326216697187;Share of stored manure to destination;-
+PT;Portugal;Pigs;Non grassland;destination_share;0.8641673783302812;Share of stored manure to destination;-
+PT;Portugal;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+PT;Portugal;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+PT;Portugal;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+PT;Portugal;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+PT;Portugal;Ruminants and equines;Grassland;destination_share;0.08428495501421707;Share of stored manure to destination;-
+PT;Portugal;Ruminants and equines;Non grassland;destination_share;0.9157150449857829;Share of stored manure to destination;-
+RO;Romania;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+RO;Romania;Pigs;Grassland;destination_share;0.16579061147498064;Share of stored manure to destination;-
+RO;Romania;Pigs;Non grassland;destination_share;0.8342093885250195;Share of stored manure to destination;-
+RO;Romania;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+RO;Romania;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+RO;Romania;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+RO;Romania;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+RO;Romania;Ruminants and equines;Grassland;destination_share;0.015002292070944508;Share of stored manure to destination;-
+RO;Romania;Ruminants and equines;Non grassland;destination_share;0.9849977079290554;Share of stored manure to destination;-
+SE;Sweden;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SE;Sweden;Pigs;Grassland;destination_share;0.2957571281837339;Share of stored manure to destination;-
+SE;Sweden;Pigs;Non grassland;destination_share;0.7042428718162661;Share of stored manure to destination;-
+SE;Sweden;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SE;Sweden;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+SE;Sweden;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+SE;Sweden;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SE;Sweden;Ruminants and equines;Grassland;destination_share;0.7764962764032974;Share of stored manure to destination;-
+SE;Sweden;Ruminants and equines;Non grassland;destination_share;0.22350372359670245;Share of stored manure to destination;-
+SI;Slovenia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SI;Slovenia;Pigs;Grassland;destination_share;0.5755930934124619;Share of stored manure to destination;-
+SI;Slovenia;Pigs;Non grassland;destination_share;0.42440690658753805;Share of stored manure to destination;-
+SI;Slovenia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SI;Slovenia;Poultry and rabbits;Grassland;destination_share;0.05;Share of stored manure to destination;-
+SI;Slovenia;Poultry and rabbits;Non grassland;destination_share;0.9500000000000001;Share of stored manure to destination;-
+SI;Slovenia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SI;Slovenia;Ruminants and equines;Grassland;destination_share;0.46789374755444774;Share of stored manure to destination;-
+SI;Slovenia;Ruminants and equines;Non grassland;destination_share;0.5321062524455523;Share of stored manure to destination;-
+SK;Slovakia;Pigs;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SK;Slovakia;Pigs;Grassland;destination_share;0.16579061147498064;Share of stored manure to destination;-
+SK;Slovakia;Pigs;Non grassland;destination_share;0.8342093885250195;Share of stored manure to destination;-
+SK;Slovakia;Poultry and rabbits;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SK;Slovakia;Poultry and rabbits;Grassland;destination_share;0.0;Share of stored manure to destination;-
+SK;Slovakia;Poultry and rabbits;Non grassland;destination_share;1.0;Share of stored manure to destination;-
+SK;Slovakia;Ruminants and equines;Discharged;destination_share;0.0;Share of stored manure to destination;-
+SK;Slovakia;Ruminants and equines;Grassland;destination_share;0.015002292070944508;Share of stored manure to destination;-
+SK;Slovakia;Ruminants and equines;Non grassland;destination_share;0.9849977079290554;Share of stored manure to destination;-

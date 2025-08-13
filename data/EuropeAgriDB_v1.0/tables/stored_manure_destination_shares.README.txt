@@ -1,0 +1,25 @@
+Dataset name
+------------
+
+stored_manure_destination_shares
+
+
+
+Description
+-----------
+
+Partitioning of stored manure nitrogen (N) uses, by livestock category.
+
+Stored manure N is assumed partitioned between three uses:
+- application to grassland (temporary and permanent)
+- application non-grassland (arable and permanent crops except grassland)
+- discharged outside agriculture
+
+
+
+Variables
+---------
+
+Symbol: destination_share
+Label: Share of stored manure to destination
+Unit: -

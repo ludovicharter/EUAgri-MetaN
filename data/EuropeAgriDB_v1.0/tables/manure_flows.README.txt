@@ -1,0 +1,54 @@
+Dataset name
+------------
+
+manure_flows
+
+
+
+Description
+-----------
+
+Manure nitrogen (N) flows in the agricultural system.
+
+Quantities applied (A_C and A_PG) are before application-related losses.
+
+E_total = E_house + E_grazing
+E_house = L_storage + A_C + A_PG
+E_grazing = G_C + G_PG
+
+
+
+Variables
+---------
+
+Symbol: E_house
+Unit: Gg N
+Label: Excreted in house
+
+Symbol: E_grazing
+Unit: Gg N
+Label: Excreted grazing
+
+Symbol: E_total
+Unit: Gg N
+Label: Excreted total
+
+Symbol: L_storage
+Unit: Gg N
+Label: Lost from houses and storage
+
+Symbol: A_C
+Unit: Gg N
+Label: Applied to cropland
+
+Symbol: A_PG
+Unit: Gg N
+Label: Applied to permanent grassland
+
+Symbol: G_C
+Unit: Gg N
+Label: Excreted grazing on cropland
+
+Symbol: G_PG
+Unit: Gg N
+Label: Excreted grazing on permanent grassland

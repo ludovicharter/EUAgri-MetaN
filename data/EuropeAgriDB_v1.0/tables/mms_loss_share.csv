@@ -1,0 +1,29 @@
+Region;Region name;Symbol;Value;Label;Unit
+AT;Austria;loss_share;0.2894736842105263;Share lost from houses and storage;-
+BE;Belgium;loss_share;0.2564102564102564;Share lost from houses and storage;-
+BE_LU;Belgium and Luxembourg;loss_share;0.2572544171339882;Share lost from houses and storage;-
+BG;Bulgaria;loss_share;0.3125;Share lost from houses and storage;-
+CZ;Czechia;loss_share;0.2926829268292683;Share lost from houses and storage;-
+CZ_SK;Former Czechoslovakia;loss_share;0.29547498051063753;Share lost from houses and storage;-
+DE;Germany;loss_share;0.2535211267605634;Share lost from houses and storage;-
+DK;Denmark;loss_share;0.2282608695652174;Share lost from houses and storage;-
+EE;Estonia;loss_share;0.2916666666666667;Share lost from houses and storage;-
+ES;Spain;loss_share;0.3333333333333333;Share lost from houses and storage;-
+FI;Finland;loss_share;0.275;Share lost from houses and storage;-
+FR;France;loss_share;0.3076923076923077;Share lost from houses and storage;-
+UK;United Kingdom;loss_share;0.3142857142857143;Share lost from houses and storage;-
+EL;Greece;loss_share;0.33333333333333337;Share lost from houses and storage;-
+HR;Croatia;loss_share;0.3150684931506849;Share lost from houses and storage;-
+HU;Hungary;loss_share;0.3333333333333333;Share lost from houses and storage;-
+IE;Ireland;loss_share;0.2037037037037037;Share lost from houses and storage;-
+IT;Italy;loss_share;0.33333333333333337;Share lost from houses and storage;-
+LT;Lithuania;loss_share;0.3157894736842105;Share lost from houses and storage;-
+LU;Luxembourg;loss_share;0.28301886792452835;Share lost from houses and storage;-
+LV;Latvia;loss_share;0.35714285714285715;Share lost from houses and storage;-
+NL;Netherlands;loss_share;0.19704433497536944;Share lost from houses and storage;-
+PL;Poland;loss_share;0.35294117647058826;Share lost from houses and storage;-
+PT;Portugal;loss_share;0.34375;Share lost from houses and storage;-
+RO;Romania;loss_share;0.31578947368421056;Share lost from houses and storage;-
+SE;Sweden;loss_share;0.2702702702702703;Share lost from houses and storage;-
+SI;Slovenia;loss_share;0.3150684931506849;Share lost from houses and storage;-
+SK;Slovakia;loss_share;0.3043478260869565;Share lost from houses and storage;-

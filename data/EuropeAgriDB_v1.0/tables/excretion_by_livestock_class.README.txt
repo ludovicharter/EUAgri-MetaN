@@ -1,0 +1,22 @@
+Dataset name
+------------
+
+excretion_by_livestock_class
+
+
+
+Description
+-----------
+
+Livestock excretion of nitrogen (N).
+
+Sum by country and year to obtain totals, reported in dataset manure_flows.
+
+
+
+Variables
+---------
+
+Symbol: E
+Label: Excretion
+Unit: Gg N

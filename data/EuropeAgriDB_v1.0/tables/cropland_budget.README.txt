@@ -1,0 +1,44 @@
+Dataset name
+------------
+
+cropland_budget
+
+
+
+Description
+-----------
+
+Cropland nitrogen (N) budgets.
+
+Manure and synthetic fertilizer inputs are before application-related losses.
+
+Suggested reference area (A) is the "Cropland in use" (see dataset land_areas).
+
+
+
+Variables
+---------
+
+Symbol: A
+Label: Cropland in use
+Unit: Mha
+
+Symbol: H
+Label: Cropland harvest
+Unit: Gg N
+
+Symbol: M
+Label: Manure to cropland
+Unit: Gg N
+
+Symbol: F
+Label: Synthetic fertilizer to cropland
+Unit: Gg N
+
+Symbol: B
+Label: Symbiotic fixation in cropland
+Unit: Gg N
+
+Symbol: D
+Label: Atmospheric deposition to cropland
+Unit: Gg N

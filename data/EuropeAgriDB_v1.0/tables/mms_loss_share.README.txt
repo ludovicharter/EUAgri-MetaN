@@ -1,0 +1,23 @@
+Dataset name
+------------
+
+mms_loss_share
+
+
+
+Description
+-----------
+
+Shares of manure nitrogen (N) lost in manure houses and storage.
+
+These shares apply to all N excreted in livestock houses, i.e., they equal
+(lost in manure houses and storage) / (excreted in livestock houses).
+
+
+
+Variables
+---------
+
+Symbol: loss_share
+Unit: -
+Label: Share lost from houses and storage

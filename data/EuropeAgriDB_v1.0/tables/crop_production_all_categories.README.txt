@@ -1,0 +1,34 @@
+Dataset name
+------------
+
+crop_production_all_categories
+
+
+
+Description
+-----------
+
+Crop production in 17 crop categories.
+
+Harvested areas may add up to more than the total cropland area due to
+multicropping or intercropping.
+
+Harvests and yields are given in terms of nitrogen (N) contained in the primary
+crop product (e.g., grain N in the case of cereals).
+
+
+
+Variables
+---------
+
+Symbol: A
+Label: Harvested area
+Unit: Mha
+
+Symbol: H
+Label: Harvested quantity
+Unit: Gg N
+
+Symbol: Y
+Label: Yield
+Unit: kg N / ha
