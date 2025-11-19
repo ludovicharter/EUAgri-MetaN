@@ -133,7 +133,81 @@ def run_yield():
     # Clean up helper column
     crop_production.drop(columns=['_key'], inplace=True)
 
-    #%% --- Calculate production or surface values when production or surface and yield are available ---
+    # %% --- Replace yields for prior crops (moisture-rich) in countries not in euragri ---
+
+    prior_crops = ['Fodder crops', 'Vegetables and other', 'Forage legumes', 'Temporary grassland']
+
+    # mapping of countries_not_in_euragri -> substitute region
+    substitute_region = {
+        'AL': 'EL',
+        'CH': 'FRC2',
+        'CY': 'EL',
+        'ME': 'HR',
+        'MK': 'BG',
+        'MT': 'ITF',
+        'NO': 'SE3',
+        'RS': 'RO41'
+    }
+
+    # Filter only yield rows
+    mask_Y = crop_production['symbol'] == 'Y'
+
+    for bad_region, good_region in substitute_region.items():
+
+        # Mask for rows to replace
+        mask_bad = (
+                mask_Y &
+                crop_production['region'].eq(bad_region) &
+                crop_production['crop'].isin(prior_crops)
+        )
+
+        if mask_bad.any():
+            # rows concerned (crop, year)
+            df_bad = crop_production.loc[mask_bad, ['crop', 'year']]
+
+            # Get yields from substitute region
+            df_good = crop_production[
+                (crop_production['region'] == good_region) &
+                (crop_production['symbol'] == 'Y')
+                ][['crop', 'year', 'value']]
+
+            # Merge to match crop + year
+            df_merge = df_bad.merge(df_good, on=['crop', 'year'], how='left')
+
+            # Assign substituted yields
+            crop_production.loc[mask_bad, 'value'] = df_merge['value'].values
+            crop_production.loc[mask_bad, 'confidence'] = 'substituted'
+
+            # Recompute productions H = Y * A
+            for (crop, year, new_Y) in zip(df_bad['crop'], df_bad['year'], df_merge['value']):
+
+                # Select area (A) value for same region/crop/year
+                mask_A = (
+                        (crop_production['region'] == bad_region) &
+                        (crop_production['crop'] == crop) &
+                        (crop_production['year'] == year) &
+                        (crop_production['symbol'] == 'A')
+                )
+
+                if mask_A.any():
+                    A_value = crop_production.loc[mask_A, 'value'].values[0]
+
+                    # If A is valid, compute new H
+                    if pd.notna(A_value):
+                        new_H = new_Y * A_value
+
+                        # Update H
+                        mask_H = (
+                                (crop_production['region'] == bad_region) &
+                                (crop_production['crop'] == crop) &
+                                (crop_production['year'] == year) &
+                                (crop_production['symbol'] == 'H')
+                        )
+
+                        crop_production.loc[mask_H, 'value'] = new_H
+                        crop_production.loc[mask_H, 'confidence'] = 'corrected (e\')'
+
+    #%% --- Correction f: production or surface values when production or surface and yield are available ---
 
     # Loop over each crop of interest
     for crop in final_crops:

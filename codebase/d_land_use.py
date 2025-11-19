@@ -18,7 +18,7 @@ import codebase.utils as utils
 def run_land_use():
     print("Running land use workflow...")
 
-    # %% --- Define a new dataset to store animal excretions ---
+    # %% --- Define a new dataset to store land use ---
 
     # Import regions and years
     regions = pd.read_csv('data/regions.csv', sep=';')
@@ -125,21 +125,6 @@ def run_land_use():
     # Update the 'confidence' column with the extracted confidence
     final_land_use.loc[mask, 'confidence'] = merged['tg_confidence'].values
 
-    # Correct AL, CH and NO, TG from Eurostat
-    for year in years:
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'AL') & (final_land_use['year'] == year), 'value'] = 0.1437
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'AL') & (final_land_use['year'] == year), 'confidence'] = 'interpolated'
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'CH') & (final_land_use['year'] == year), 'value'] = 0.125
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'CH') & (final_land_use['year'] == year), 'confidence'] = 'interpolated'
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'NO') & (final_land_use['year'] == year), 'value'] = 0.66
-        final_land_use.loc[
-            (mask) & (final_land_use['region'] == 'NO') & (final_land_use['year'] == year), 'confidence'] = 'interpolated'
-
     #%% --- Permanent grassland areas ---
 
     # Load Eurostat dataset
@@ -224,7 +209,6 @@ def run_land_use():
     # Store normalized coefficients in a new DataFrame
     pegrass_coeff = normalized_coefficients.to_frame(name='normalized_coefficient')
 
-
     # Import Euragri data
     euragri = pd.read_csv('data/EuropeAgriDB_v1.0/tables/land_areas.csv', sep=';')
     euragri = euragri[euragri['Symbol'] == 'PG']
@@ -247,7 +231,7 @@ def run_land_use():
                 pg_rows.loc[mask, 'value'] = value
                 pg_rows.loc[mask, 'confidence'] = 'EuropeAgri'
 
-    r = ['AL', 'CH', 'ME', 'MK', 'MT', 'NO', 'RS']
+    r = ['AL', 'CH', 'MK', 'MT', 'NO', 'RS']
     # Replace missing values from Eurostat
     for region in r:
         for year in years:

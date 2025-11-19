@@ -171,9 +171,12 @@ def run_areas():
 
     # List of crops for which euragri data is prioritized
     prior_crops = ['Fodder crops', 'Vegetables and other', 'Forage legumes', 'Temporary grassland']
+    # List of territories not in euragri
+    countries_not_in_euragri = ['AL', 'CH', 'CY', 'ME', 'MK', 'MT', 'NO', 'RS']
     # Delete these crops in the current surface dataset
     for year, df in high_confidence_areas.items():
-        high_confidence_areas[year][prior_crops] = np.nan
+        mask = ~df['region'].isin(countries_not_in_euragri)
+        df.loc[mask, prior_crops] = np.nan
 
     # fill values and set confidence to 'high'
     final_areas = utils.fill_template(final_areas, high_confidence_areas, confidence_label='unprocessed')
@@ -257,27 +260,28 @@ def run_areas():
                 areas[year].at[region, crop] = new_value
                 print(f"Corrected: Year {year}, Region {region}, Crop {crop} -> New value = {new_value:.2f}")
 
-        #%% Save surface (flag confidence: "filled (a)")
+    #%% Save surface (flag confidence: "filled (a)")
 
-        # Create a copy of areas
-        filled_a_confidence_areas = {year: df.copy() for year, df in areas.items()}
-        # Crop combinations 1
-        filled_a_confidence_areas = utils.merge_crops(filled_a_confidence_areas, crop_combinations_1)
+    # Create a copy of areas
+    filled_a_confidence_areas = {year: df.copy() for year, df in areas.items()}
+    # Crop combinations 1
+    filled_a_confidence_areas = utils.merge_crops(filled_a_confidence_areas, crop_combinations_1)
 
-        # Convert areas values to Mha
-        for year in filled_a_confidence_areas:
-            for crop in crops_intermediate:
-                filled_a_confidence_areas[year][crop] = filled_a_confidence_areas[year][crop] / 1000  # Mha
+    # Convert areas values to Mha
+    for year in filled_a_confidence_areas:
+        for crop in crops_intermediate:
+            filled_a_confidence_areas[year][crop] = filled_a_confidence_areas[year][crop] / 1000  # Mha
 
-        # Crop combinations 2
-        filled_a_confidence_areas = utils.merge_crops(filled_a_confidence_areas, crop_combinations_2)
+    # Crop combinations 2
+    filled_a_confidence_areas = utils.merge_crops(filled_a_confidence_areas, crop_combinations_2)
 
-        # Delete prior crops in the current surface dataset
-        for year, df in filled_a_confidence_areas.items():
-            filled_a_confidence_areas[year][prior_crops] = np.nan
+    # Delete prior crops in the current surface dataset
+    for year, df in filled_a_confidence_areas.items():
+        mask = ~df.index.isin(countries_not_in_euragri)
+        df.loc[mask, prior_crops] = np.nan
 
-        # fill values and set confidence to 'filled (a)'
-        final_areas = utils.fill_template(final_areas, filled_a_confidence_areas, confidence_label='filled (a)')
+    # fill values and set confidence to 'filled (a)'
+    final_areas = utils.fill_template(final_areas, filled_a_confidence_areas, confidence_label='filled (a)')
 
     # %% --- (b) Correct some cereal surface using the Eurostat 'grain cereals' surface category ---
 
@@ -366,7 +370,8 @@ def run_areas():
 
     # Delete prior crops in the current surface dataset
     for year, df in filled_b_confidence_areas.items():
-        filled_b_confidence_areas[year][prior_crops] = np.nan
+        mask = ~df.index.isin(countries_not_in_euragri)
+        df.loc[mask, prior_crops] = np.nan
 
     # fill values and set confidence to 'filled (a)'
     final_areas = utils.fill_template(final_areas, filled_b_confidence_areas, confidence_label='filled (b)')
@@ -426,7 +431,8 @@ def run_areas():
 
     # Delete prior crops in the current surface dataset
     for year, df in filled_c_confidence_areas.items():
-        filled_c_confidence_areas[year][prior_crops] = np.nan
+        mask = ~df.index.isin(countries_not_in_euragri)
+        df.loc[mask, prior_crops] = np.nan
 
     # fill values and set confidence to 'filled (a)'
     final_areas = utils.fill_template(final_areas, filled_c_confidence_areas, confidence_label='filled (c)')
@@ -554,7 +560,8 @@ def run_areas():
 
     # Delete prior crops in the current surface dataset
     for year, df in filled_c_confidence_areas.items():
-        areas[year][prior_crops] = np.nan
+        mask = ~df.index.isin(countries_not_in_euragri)
+        areas[year].loc[mask, prior_crops] = np.nan
 
     final_areas = utils.fill_template(final_areas, areas, confidence_label='filled (d)')
 

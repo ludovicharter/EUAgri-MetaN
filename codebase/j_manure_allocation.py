@@ -298,8 +298,8 @@ def run_manure():
         manure_allocation[year]['1:goats'] = values_goats
 
         # Correct some values (Billen et al., 2024)
-        r = ['AL', 'CY', 'LT', 'LU', 'ME', 'MK']
-        v = [0.796, 0.338, 0.177, 0.238, 0.229, 0.362]
+        r = ['AL', 'CY', 'LT', 'LU', 'MK']
+        v = [0.796, 0.338, 0.177, 0.238, 0.362]
         for i, region in enumerate(r):
             manure_allocation[year].loc[region, '1:dairy'] = v[i]
             manure_allocation[year].loc[region, '1:bovine'] = v[i]
@@ -332,8 +332,8 @@ def run_manure():
         manure_allocation[year]['4: A_G/A'] = AG_AC[year]
 
         # Correct some values from Billen et al., 2024
-        r = ['AL', 'CH', 'CY', 'ME', 'MK', 'NO']
-        v = [0.1, 0.357, 0.06, 0.1, 0.1, 0.357]
+        r = ['AL', 'CH', 'CY', 'MK', 'NO']
+        v = [0.1, 0.357, 0.06, 0.1, 0.357]
         for i, region in enumerate(r):
             manure_allocation[year].loc[region, '4: grassland storage destination'] = v[i]
 
