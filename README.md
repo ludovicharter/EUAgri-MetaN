@@ -1,7 +1,7 @@
 ## Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
 
 **Description :**  
-Python project to process territorial nitrogen (N) fluxes in European agricultural systems (121 territories, 30 years). 
+Python project to process territorial nitrogen (N) flows in European agricultural systems (120 territories, 30 years). 
 
 ---
 
@@ -10,8 +10,11 @@ Python project to process territorial nitrogen (N) fluxes in European agricultur
 EUAgri-MetaN/
 ├── codebase
 ├── data
+├── figures
 └── main.py
 ```
+
+`EUAgri-MetaN/figures` contains standalone scripts for generating each figure independently.
 
 `EUAgri-MetaN/codebase` contains scripts which, if run in alphabetical order, reproduces all the model results.
 
