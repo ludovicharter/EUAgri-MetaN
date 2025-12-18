@@ -1,3 +1,14 @@
+"""
+Script name: Figure_3_territorial_typology.py
+Description: Figure 3 workflow
+Author: Ludovic Harter
+Created: 2025-12-18
+Last modified: 2025-12-18
+Version: 1.0
+Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
+License: MIT
+"""
+
 #%% --- Libraries ---
 import geopandas as gpd
 import pandas as pd

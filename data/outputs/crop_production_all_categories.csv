@@ -52835,18 +52835,18 @@
 52833,ES53,Illes Balears,Forage legumes,1991,A,harvested area,Mha,0.0012116107383376,corrected (e)
 52834,ES53,Illes Balears,Forage legumes,1991,H,harvested quantity,Gg N,0.5082876430260146,corrected (e)
 52835,ES53,Illes Balears,Forage legumes,1991,Y,yield,kg N / ha,419.5139799795887,calculated
-52836,ES53,Illes Balears,Forage legumes,1992,A,harvested area,Mha,0.0011217307361361,corrected (e)
-52837,ES53,Illes Balears,Forage legumes,1992,H,harvested quantity,Gg N,0.4834163119794052,corrected (e)
-52838,ES53,Illes Balears,Forage legumes,1992,Y,yield,kg N / ha,430.95575114984825,calculated
-52839,ES53,Illes Balears,Forage legumes,1993,A,harvested area,Mha,0.00110315317662595,corrected (f)
-52840,ES53,Illes Balears,Forage legumes,1993,H,harvested quantity,Gg N,0.4795123506711608,corrected (f)
-52841,ES53,Illes Balears,Forage legumes,1993,Y,yield,kg N / ha,429.11912015398775,corrected (f)
-52842,ES53,Illes Balears,Forage legumes,1994,A,harvested area,Mha,0.001035831639543975,corrected (f)
-52843,ES53,Illes Balears,Forage legumes,1994,H,harvested quantity,Gg N,0.4561562828844853,corrected (f)
-52844,ES53,Illes Balears,Forage legumes,1994,Y,yield,kg N / ha,427.2824891581273,corrected (f)
-52845,ES53,Illes Balears,Forage legumes,1995,A,harvested area,Mha,0.0010051786663522375,corrected (f)
-52846,ES53,Illes Balears,Forage legumes,1995,H,harvested quantity,Gg N,0.43448717930900554,corrected (f)
-52847,ES53,Illes Balears,Forage legumes,1995,Y,yield,kg N / ha,425.4458581622668,corrected (f)
+52836,ES53,Illes Balears,Forage legumes,1992,A,harvested area,Mha,0.00117781727294295,corrected (f)
+52837,ES53,Illes Balears,Forage legumes,1992,H,harvested quantity,Gg N,0.5081921679860919,corrected (f)
+52838,ES53,Illes Balears,Forage legumes,1992,Y,yield,kg N / ha,420.33302941695223,corrected (f)
+52839,ES53,Illes Balears,Forage legumes,1993,A,harvested area,Mha,0.001131196445029375,corrected (f)
+52840,ES53,Illes Balears,Forage legumes,1993,H,harvested quantity,Gg N,0.4919002786745042,corrected (f)
+52841,ES53,Illes Balears,Forage legumes,1993,Y,yield,kg N / ha,421.15207885431573,corrected (f)
+52842,ES53,Illes Balears,Forage legumes,1994,A,harvested area,Mha,0.0010498532737456875,corrected (f)
+52843,ES53,Illes Balears,Forage legumes,1994,H,harvested quantity,Gg N,0.46235024688615695,corrected (f)
+52844,ES53,Illes Balears,Forage legumes,1994,Y,yield,kg N / ha,421.9711282916793,corrected (f)
+52845,ES53,Illes Balears,Forage legumes,1995,A,harvested area,Mha,0.0010121894834530937,corrected (f)
+52846,ES53,Illes Balears,Forage legumes,1995,H,harvested quantity,Gg N,0.43758416130984135,corrected (f)
+52847,ES53,Illes Balears,Forage legumes,1995,Y,yield,kg N / ha,422.7901777290428,corrected (f)
 52848,ES53,Illes Balears,Forage legumes,1996,A,harvested area,Mha,0.0009745256931605,corrected (e)
 52849,ES53,Illes Balears,Forage legumes,1996,H,harvested quantity,Gg N,0.4128180757335258,corrected (e)
 52850,ES53,Illes Balears,Forage legumes,1996,Y,yield,kg N / ha,423.6092271664063,calculated
@@ -98281,94 +98281,94 @@
 98279,ITC,Nord-Ovest Italia,Sugar beet,2019,Y,yield,kg N / ha,118.36397905759156,calculated
 98280,ITC,Nord-Ovest Italia,Temporary grassland,1990,A,harvested area,Mha,0.0543958467457308,corrected (f)
 98281,ITC,Nord-Ovest Italia,Temporary grassland,1990,H,harvested quantity,Gg N,19.249541558545808,corrected (f)
-98282,ITC,Nord-Ovest Italia,Temporary grassland,1990,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98282,ITC,Nord-Ovest Italia,Temporary grassland,1990,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98283,ITC,Nord-Ovest Italia,Temporary grassland,1991,A,harvested area,Mha,0.054190287417178004,corrected (f)
 98284,ITC,Nord-Ovest Italia,Temporary grassland,1991,H,harvested quantity,Gg N,19.23076471073591,corrected (f)
-98285,ITC,Nord-Ovest Italia,Temporary grassland,1991,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98285,ITC,Nord-Ovest Italia,Temporary grassland,1991,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98286,ITC,Nord-Ovest Italia,Temporary grassland,1992,A,harvested area,Mha,0.053881948424348805,corrected (f)
 98287,ITC,Nord-Ovest Italia,Temporary grassland,1992,H,harvested quantity,Gg N,19.201777483022745,corrected (f)
-98288,ITC,Nord-Ovest Italia,Temporary grassland,1992,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98288,ITC,Nord-Ovest Italia,Temporary grassland,1992,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98289,ITC,Nord-Ovest Italia,Temporary grassland,1993,A,harvested area,Mha,0.05352221959938135,corrected (f)
 98290,ITC,Nord-Ovest Italia,Temporary grassland,1993,H,harvested quantity,Gg N,19.166863109359618,corrected (f)
-98291,ITC,Nord-Ovest Italia,Temporary grassland,1993,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98291,ITC,Nord-Ovest Italia,Temporary grassland,1993,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98292,ITC,Nord-Ovest Italia,Temporary grassland,1994,A,harvested area,Mha,0.053136795858344826,corrected (f)
 98293,ITC,Nord-Ovest Italia,Temporary grassland,1994,H,harvested quantity,Gg N,19.128163206723187,corrected (f)
-98294,ITC,Nord-Ovest Italia,Temporary grassland,1994,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98294,ITC,Nord-Ovest Italia,Temporary grassland,1994,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98295,ITC,Nord-Ovest Italia,Temporary grassland,1995,A,harvested area,Mha,0.05273852465927376,corrected (f)
 98296,ITC,Nord-Ovest Italia,Temporary grassland,1995,H,harvested quantity,Gg N,19.086748583601775,corrected (f)
-98297,ITC,Nord-Ovest Italia,Temporary grassland,1995,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98297,ITC,Nord-Ovest Italia,Temporary grassland,1995,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98298,ITC,Nord-Ovest Italia,Temporary grassland,1996,A,harvested area,Mha,0.05233382973118543,corrected (f)
 98299,ITC,Nord-Ovest Italia,Temporary grassland,1996,H,harvested quantity,Gg N,19.043154644239543,corrected (f)
-98300,ITC,Nord-Ovest Italia,Temporary grassland,1996,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98300,ITC,Nord-Ovest Italia,Temporary grassland,1996,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98301,ITC,Nord-Ovest Italia,Temporary grassland,1997,A,harvested area,Mha,0.05192592293858847,corrected (f)
 98302,ITC,Nord-Ovest Italia,Temporary grassland,1997,H,harvested quantity,Gg N,18.997649090758586,corrected (f)
-98303,ITC,Nord-Ovest Italia,Temporary grassland,1997,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98303,ITC,Nord-Ovest Italia,Temporary grassland,1997,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98304,ITC,Nord-Ovest Italia,Temporary grassland,1998,A,harvested area,Mha,0.05151641021373714,corrected (f)
 98305,ITC,Nord-Ovest Italia,Temporary grassland,1998,H,harvested quantity,Gg N,18.950365774219932,corrected (f)
-98306,ITC,Nord-Ovest Italia,Temporary grassland,1998,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98306,ITC,Nord-Ovest Italia,Temporary grassland,1998,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98307,ITC,Nord-Ovest Italia,Temporary grassland,1999,A,harvested area,Mha,0.05110609452275867,corrected (f)
 98308,ITC,Nord-Ovest Italia,Temporary grassland,1999,H,harvested quantity,Gg N,18.90137162015411,corrected (f)
-98309,ITC,Nord-Ovest Italia,Temporary grassland,1999,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98309,ITC,Nord-Ovest Italia,Temporary grassland,1999,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98310,ITC,Nord-Ovest Italia,Temporary grassland,2000,A,harvested area,Mha,0.05069537734871664,corrected (f)
 98311,ITC,Nord-Ovest Italia,Temporary grassland,2000,H,harvested quantity,Gg N,18.85070009132637,corrected (f)
-98312,ITC,Nord-Ovest Italia,Temporary grassland,2000,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98312,ITC,Nord-Ovest Italia,Temporary grassland,2000,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98313,ITC,Nord-Ovest Italia,Temporary grassland,2001,A,harvested area,Mha,0.05028445943314282,corrected (f)
 98314,ITC,Nord-Ovest Italia,Temporary grassland,2001,H,harvested quantity,Gg N,18.798367919119354,corrected (f)
-98315,ITC,Nord-Ovest Italia,Temporary grassland,2001,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98315,ITC,Nord-Ovest Italia,Temporary grassland,2001,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98316,ITC,Nord-Ovest Italia,Temporary grassland,2002,A,harvested area,Mha,0.04987344114680311,corrected (f)
 98317,ITC,Nord-Ovest Italia,Temporary grassland,2002,H,harvested quantity,Gg N,18.744383469224367,corrected (f)
-98318,ITC,Nord-Ovest Italia,Temporary grassland,2002,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98318,ITC,Nord-Ovest Italia,Temporary grassland,2002,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98319,ITC,Nord-Ovest Italia,Temporary grassland,2003,A,harvested area,Mha,0.049462372675080406,corrected (f)
 98320,ITC,Nord-Ovest Italia,Temporary grassland,2003,H,harvested quantity,Gg N,18.68875092448707,corrected (f)
-98321,ITC,Nord-Ovest Italia,Temporary grassland,2003,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98321,ITC,Nord-Ovest Italia,Temporary grassland,2003,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98322,ITC,Nord-Ovest Italia,Temporary grassland,2004,A,harvested area,Mha,0.04905127911066626,corrected (f)
 98323,ITC,Nord-Ovest Italia,Temporary grassland,2004,H,harvested quantity,Gg N,18.6314723763303,corrected (f)
-98324,ITC,Nord-Ovest Italia,Temporary grassland,2004,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98324,ITC,Nord-Ovest Italia,Temporary grassland,2004,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98325,ITC,Nord-Ovest Italia,Temporary grassland,2005,A,harvested area,Mha,0.048640172999906375,corrected (f)
 98326,ITC,Nord-Ovest Italia,Temporary grassland,2005,H,harvested quantity,Gg N,18.57254887046546,corrected (f)
-98327,ITC,Nord-Ovest Italia,Temporary grassland,2005,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98327,ITC,Nord-Ovest Italia,Temporary grassland,2005,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98328,ITC,Nord-Ovest Italia,Temporary grassland,2006,A,harvested area,Mha,0.04822906061597364,corrected (f)
 98329,ITC,Nord-Ovest Italia,Temporary grassland,2006,H,harvested quantity,Gg N,18.511980929748262,corrected (f)
-98330,ITC,Nord-Ovest Italia,Temporary grassland,2006,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98330,ITC,Nord-Ovest Italia,Temporary grassland,2006,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98331,ITC,Nord-Ovest Italia,Temporary grassland,2007,A,harvested area,Mha,0.04781794509545442,corrected (f)
 98332,ITC,Nord-Ovest Italia,Temporary grassland,2007,H,harvested quantity,Gg N,18.44976881560656,corrected (f)
-98333,ITC,Nord-Ovest Italia,Temporary grassland,2007,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98333,ITC,Nord-Ovest Italia,Temporary grassland,2007,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98334,ITC,Nord-Ovest Italia,Temporary grassland,2008,A,harvested area,Mha,0.04740682800664201,corrected (f)
 98335,ITC,Nord-Ovest Italia,Temporary grassland,2008,H,harvested quantity,Gg N,18.385912658754282,corrected (f)
-98336,ITC,Nord-Ovest Italia,Temporary grassland,2008,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98336,ITC,Nord-Ovest Italia,Temporary grassland,2008,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98337,ITC,Nord-Ovest Italia,Temporary grassland,2009,A,harvested area,Mha,0.046995710133683005,corrected (f)
 98338,ITC,Nord-Ovest Italia,Temporary grassland,2009,H,harvested quantity,Gg N,18.320412524548388,corrected (f)
-98339,ITC,Nord-Ovest Italia,Temporary grassland,2009,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98339,ITC,Nord-Ovest Italia,Temporary grassland,2009,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98340,ITC,Nord-Ovest Italia,Temporary grassland,2010,A,harvested area,Mha,0.0465845918686507,corrected (f)
 98341,ITC,Nord-Ovest Italia,Temporary grassland,2010,H,harvested quantity,Gg N,18.25326844566736,corrected (f)
-98342,ITC,Nord-Ovest Italia,Temporary grassland,2010,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98342,ITC,Nord-Ovest Italia,Temporary grassland,2010,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98343,ITC,Nord-Ovest Italia,Temporary grassland,2011,A,harvested area,Mha,0.04617347340758175,corrected (f)
 98344,ITC,Nord-Ovest Italia,Temporary grassland,2011,H,harvested quantity,Gg N,18.184480438450436,corrected (f)
-98345,ITC,Nord-Ovest Italia,Temporary grassland,2011,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98345,ITC,Nord-Ovest Italia,Temporary grassland,2011,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98346,ITC,Nord-Ovest Italia,Temporary grassland,2012,A,harvested area,Mha,0.045762354848494474,corrected (f)
 98347,ITC,Nord-Ovest Italia,Temporary grassland,2012,H,harvested quantity,Gg N,18.114048511067246,corrected (f)
-98348,ITC,Nord-Ovest Italia,Temporary grassland,2012,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98348,ITC,Nord-Ovest Italia,Temporary grassland,2012,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98349,ITC,Nord-Ovest Italia,Temporary grassland,2013,A,harvested area,Mha,0.08741837168361753,corrected (f)
 98350,ITC,Nord-Ovest Italia,Temporary grassland,2013,H,harvested quantity,Gg N,34.8630697948238,corrected (f)
-98351,ITC,Nord-Ovest Italia,Temporary grassland,2013,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98351,ITC,Nord-Ovest Italia,Temporary grassland,2013,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98352,ITC,Nord-Ovest Italia,Temporary grassland,2014,A,harvested area,Mha,0.10788593729792992,corrected (f)
 98353,ITC,Nord-Ovest Italia,Temporary grassland,2014,H,harvested quantity,Gg N,43.221762232123,corrected (f)
-98354,ITC,Nord-Ovest Italia,Temporary grassland,2014,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98354,ITC,Nord-Ovest Italia,Temporary grassland,2014,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98355,ITC,Nord-Ovest Italia,Temporary grassland,2015,A,harvested area,Mha,0.12631755231928246,corrected (f)
 98356,ITC,Nord-Ovest Italia,Temporary grassland,2015,H,harvested quantity,Gg N,50.84020912996608,corrected (f)
-98357,ITC,Nord-Ovest Italia,Temporary grassland,2015,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98357,ITC,Nord-Ovest Italia,Temporary grassland,2015,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98358,ITC,Nord-Ovest Italia,Temporary grassland,2016,A,harvested area,Mha,0.13874775647087456,corrected (f)
 98359,ITC,Nord-Ovest Italia,Temporary grassland,2016,H,harvested quantity,Gg N,56.098730757590275,corrected (f)
-98360,ITC,Nord-Ovest Italia,Temporary grassland,2016,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98360,ITC,Nord-Ovest Italia,Temporary grassland,2016,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98361,ITC,Nord-Ovest Italia,Temporary grassland,2017,A,harvested area,Mha,0.14600114900976147,corrected (f)
 98362,ITC,Nord-Ovest Italia,Temporary grassland,2017,H,harvested quantity,Gg N,59.302595381801524,corrected (f)
-98363,ITC,Nord-Ovest Italia,Temporary grassland,2017,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98363,ITC,Nord-Ovest Italia,Temporary grassland,2017,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98364,ITC,Nord-Ovest Italia,Temporary grassland,2018,A,harvested area,Mha,0.15133053404380725,corrected (f)
 98365,ITC,Nord-Ovest Italia,Temporary grassland,2018,H,harvested quantity,Gg N,61.75559335022552,corrected (f)
-98366,ITC,Nord-Ovest Italia,Temporary grassland,2018,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98366,ITC,Nord-Ovest Italia,Temporary grassland,2018,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98367,ITC,Nord-Ovest Italia,Temporary grassland,2019,A,harvested area,Mha,0.15133053404380725,corrected (f)
 98368,ITC,Nord-Ovest Italia,Temporary grassland,2019,H,harvested quantity,Gg N,61.75559335022552,corrected (f)
-98369,ITC,Nord-Ovest Italia,Temporary grassland,2019,Y,yield,kg N / ha,142.81673949966884,corrected (f)
+98369,ITC,Nord-Ovest Italia,Temporary grassland,2019,Y,yield,kg N / ha,142.9645775053979,corrected (f)
 98370,ITC,Nord-Ovest Italia,Vegetables and other,1990,A,harvested area,Mha,0.0951332751294089,corrected (e)
 98371,ITC,Nord-Ovest Italia,Vegetables and other,1990,H,harvested quantity,Gg N,6.402958604003767,corrected (e)
 98372,ITC,Nord-Ovest Italia,Vegetables and other,1990,Y,yield,kg N / ha,67.30514213132979,calculated
@@ -110791,184 +110791,184 @@
 110789,NO,Norge,Barley,2019,Y,yield,kg N / ha,75.38329501915709,calculated
 110790,NO,Norge,Fodder crops,1990,A,harvested area,Mha,0.0,filled (d)
 110791,NO,Norge,Fodder crops,1990,H,harvested quantity,Gg N,0.0,corrected (e')
-110792,NO,Norge,Fodder crops,1990,Y,yield,kg N / ha,64.07663837099754,substituted
+110792,NO,Norge,Fodder crops,1990,Y,yield,kg N / ha,0.0,substituted
 110793,NO,Norge,Fodder crops,1991,A,harvested area,Mha,0.0,filled (d)
 110794,NO,Norge,Fodder crops,1991,H,harvested quantity,Gg N,0.0,corrected (e')
-110795,NO,Norge,Fodder crops,1991,Y,yield,kg N / ha,64.4407101799316,substituted
+110795,NO,Norge,Fodder crops,1991,Y,yield,kg N / ha,0.0,substituted
 110796,NO,Norge,Fodder crops,1992,A,harvested area,Mha,0.0,filled (d)
 110797,NO,Norge,Fodder crops,1992,H,harvested quantity,Gg N,0.0,corrected (e')
-110798,NO,Norge,Fodder crops,1992,Y,yield,kg N / ha,64.80478198883806,substituted
+110798,NO,Norge,Fodder crops,1992,Y,yield,kg N / ha,51.74199919858871,substituted
 110799,NO,Norge,Fodder crops,1993,A,harvested area,Mha,0.0,filled (d)
 110800,NO,Norge,Fodder crops,1993,H,harvested quantity,Gg N,0.0,corrected (e')
-110801,NO,Norge,Fodder crops,1993,Y,yield,kg N / ha,65.16885379779058,substituted
+110801,NO,Norge,Fodder crops,1993,Y,yield,kg N / ha,50.991438948740786,substituted
 110802,NO,Norge,Fodder crops,1994,A,harvested area,Mha,0.0,filled (d)
 110803,NO,Norge,Fodder crops,1994,H,harvested quantity,Gg N,0.0,corrected (e')
-110804,NO,Norge,Fodder crops,1994,Y,yield,kg N / ha,65.53292560671026,substituted
+110804,NO,Norge,Fodder crops,1994,Y,yield,kg N / ha,50.944475898739704,substituted
 110805,NO,Norge,Fodder crops,1995,A,harvested area,Mha,0.0,filled (d)
 110806,NO,Norge,Fodder crops,1995,H,harvested quantity,Gg N,0.0,corrected (e')
-110807,NO,Norge,Fodder crops,1995,Y,yield,kg N / ha,65.89699741562922,substituted
+110807,NO,Norge,Fodder crops,1995,Y,yield,kg N / ha,49.4043420506905,substituted
 110808,NO,Norge,Fodder crops,1996,A,harvested area,Mha,0.0,filled (d)
 110809,NO,Norge,Fodder crops,1996,H,harvested quantity,Gg N,0.0,corrected (e')
-110810,NO,Norge,Fodder crops,1996,Y,yield,kg N / ha,66.26106922454788,substituted
+110810,NO,Norge,Fodder crops,1996,Y,yield,kg N / ha,50.243994266416635,substituted
 110811,NO,Norge,Fodder crops,1997,A,harvested area,Mha,0.0,filled (d)
 110812,NO,Norge,Fodder crops,1997,H,harvested quantity,Gg N,0.0,corrected (e')
-110813,NO,Norge,Fodder crops,1997,Y,yield,kg N / ha,66.6251410335049,substituted
+110813,NO,Norge,Fodder crops,1997,Y,yield,kg N / ha,53.6402337725559,substituted
 110814,NO,Norge,Fodder crops,1998,A,harvested area,Mha,0.0,filled (d)
 110815,NO,Norge,Fodder crops,1998,H,harvested quantity,Gg N,0.0,corrected (e')
-110816,NO,Norge,Fodder crops,1998,Y,yield,kg N / ha,66.98921284241642,substituted
+110816,NO,Norge,Fodder crops,1998,Y,yield,kg N / ha,56.27825778242543,substituted
 110817,NO,Norge,Fodder crops,1999,A,harvested area,Mha,0.0,filled (d)
 110818,NO,Norge,Fodder crops,1999,H,harvested quantity,Gg N,0.0,corrected (e')
-110819,NO,Norge,Fodder crops,1999,Y,yield,kg N / ha,67.35328465135758,substituted
+110819,NO,Norge,Fodder crops,1999,Y,yield,kg N / ha,37.682180662007674,substituted
 110820,NO,Norge,Fodder crops,2000,A,harvested area,Mha,0.0,filled (d)
 110821,NO,Norge,Fodder crops,2000,H,harvested quantity,Gg N,0.0,corrected (e')
-110822,NO,Norge,Fodder crops,2000,Y,yield,kg N / ha,67.71735646025911,substituted
+110822,NO,Norge,Fodder crops,2000,Y,yield,kg N / ha,63.81097245360189,substituted
 110823,NO,Norge,Fodder crops,2001,A,harvested area,Mha,0.0,filled (d)
 110824,NO,Norge,Fodder crops,2001,H,harvested quantity,Gg N,0.0,corrected (e')
-110825,NO,Norge,Fodder crops,2001,Y,yield,kg N / ha,72.68330088545315,substituted
+110825,NO,Norge,Fodder crops,2001,Y,yield,kg N / ha,64.50405930989395,substituted
 110826,NO,Norge,Fodder crops,2002,A,harvested area,Mha,0.0,filled (d)
 110827,NO,Norge,Fodder crops,2002,H,harvested quantity,Gg N,0.0,corrected (e')
-110828,NO,Norge,Fodder crops,2002,Y,yield,kg N / ha,72.6751495384538,substituted
+110828,NO,Norge,Fodder crops,2002,Y,yield,kg N / ha,65.32141300272997,substituted
 110829,NO,Norge,Fodder crops,2003,A,harvested area,Mha,0.0,filled (d)
 110830,NO,Norge,Fodder crops,2003,H,harvested quantity,Gg N,0.0,corrected (e')
-110831,NO,Norge,Fodder crops,2003,Y,yield,kg N / ha,74.106647184654,substituted
+110831,NO,Norge,Fodder crops,2003,Y,yield,kg N / ha,67.79871069433844,substituted
 110832,NO,Norge,Fodder crops,2004,A,harvested area,Mha,0.0,filled (d)
 110833,NO,Norge,Fodder crops,2004,H,harvested quantity,Gg N,0.0,corrected (e')
-110834,NO,Norge,Fodder crops,2004,Y,yield,kg N / ha,75.22573952046454,substituted
+110834,NO,Norge,Fodder crops,2004,Y,yield,kg N / ha,71.7741697883757,substituted
 110835,NO,Norge,Fodder crops,2005,A,harvested area,Mha,0.0,filled (d)
 110836,NO,Norge,Fodder crops,2005,H,harvested quantity,Gg N,0.0,corrected (e')
-110837,NO,Norge,Fodder crops,2005,Y,yield,kg N / ha,75.94742643828629,substituted
+110837,NO,Norge,Fodder crops,2005,Y,yield,kg N / ha,70.90200796080227,substituted
 110838,NO,Norge,Fodder crops,2006,A,harvested area,Mha,0.0,filled (d)
 110839,NO,Norge,Fodder crops,2006,H,harvested quantity,Gg N,0.0,corrected (e')
-110840,NO,Norge,Fodder crops,2006,Y,yield,kg N / ha,76.59348058897426,substituted
+110840,NO,Norge,Fodder crops,2006,Y,yield,kg N / ha,67.80547508886997,substituted
 110841,NO,Norge,Fodder crops,2007,A,harvested area,Mha,0.0,filled (d)
 110842,NO,Norge,Fodder crops,2007,H,harvested quantity,Gg N,0.0,corrected (e')
-110843,NO,Norge,Fodder crops,2007,Y,yield,kg N / ha,79.70752893646694,substituted
+110843,NO,Norge,Fodder crops,2007,Y,yield,kg N / ha,68.6744718073179,substituted
 110844,NO,Norge,Fodder crops,2008,A,harvested area,Mha,0.0,filled (d)
 110845,NO,Norge,Fodder crops,2008,H,harvested quantity,Gg N,0.0,corrected (e')
-110846,NO,Norge,Fodder crops,2008,Y,yield,kg N / ha,83.01091378618892,substituted
+110846,NO,Norge,Fodder crops,2008,Y,yield,kg N / ha,74.45598253769025,substituted
 110847,NO,Norge,Fodder crops,2009,A,harvested area,Mha,0.0,filled (d)
 110848,NO,Norge,Fodder crops,2009,H,harvested quantity,Gg N,0.0,corrected (e')
-110849,NO,Norge,Fodder crops,2009,Y,yield,kg N / ha,83.05067156582261,substituted
+110849,NO,Norge,Fodder crops,2009,Y,yield,kg N / ha,73.84328177942454,substituted
 110850,NO,Norge,Fodder crops,2010,A,harvested area,Mha,0.0,filled (d)
 110851,NO,Norge,Fodder crops,2010,H,harvested quantity,Gg N,0.0,corrected (e')
-110852,NO,Norge,Fodder crops,2010,Y,yield,kg N / ha,83.18105464888411,substituted
+110852,NO,Norge,Fodder crops,2010,Y,yield,kg N / ha,74.14497954027831,substituted
 110853,NO,Norge,Fodder crops,2011,A,harvested area,Mha,0.0,filled (d)
 110854,NO,Norge,Fodder crops,2011,H,harvested quantity,Gg N,0.0,corrected (e')
-110855,NO,Norge,Fodder crops,2011,Y,yield,kg N / ha,83.9589911708688,substituted
+110855,NO,Norge,Fodder crops,2011,Y,yield,kg N / ha,76.95626254536934,substituted
 110856,NO,Norge,Fodder crops,2012,A,harvested area,Mha,0.0,filled (d)
 110857,NO,Norge,Fodder crops,2012,H,harvested quantity,Gg N,0.0,corrected (e')
-110858,NO,Norge,Fodder crops,2012,Y,yield,kg N / ha,84.61127879532621,substituted
+110858,NO,Norge,Fodder crops,2012,Y,yield,kg N / ha,78.32931543518374,substituted
 110859,NO,Norge,Fodder crops,2013,A,harvested area,Mha,0.0,filled (d)
 110860,NO,Norge,Fodder crops,2013,H,harvested quantity,Gg N,0.0,corrected (e')
-110861,NO,Norge,Fodder crops,2013,Y,yield,kg N / ha,85.3543783189484,substituted
+110861,NO,Norge,Fodder crops,2013,Y,yield,kg N / ha,83.25456434061411,substituted
 110862,NO,Norge,Fodder crops,2014,A,harvested area,Mha,0.0,unprocessed
 110863,NO,Norge,Fodder crops,2014,H,harvested quantity,Gg N,0.0,corrected (e')
-110864,NO,Norge,Fodder crops,2014,Y,yield,kg N / ha,84.83239657815194,substituted
+110864,NO,Norge,Fodder crops,2014,Y,yield,kg N / ha,84.93199506466588,substituted
 110865,NO,Norge,Fodder crops,2015,A,harvested area,Mha,0.0,unprocessed
 110866,NO,Norge,Fodder crops,2015,H,harvested quantity,Gg N,0.0,corrected (e')
-110867,NO,Norge,Fodder crops,2015,Y,yield,kg N / ha,84.6845464421907,substituted
+110867,NO,Norge,Fodder crops,2015,Y,yield,kg N / ha,89.35637066158624,substituted
 110868,NO,Norge,Fodder crops,2016,A,harvested area,Mha,0.0,unprocessed
 110869,NO,Norge,Fodder crops,2016,H,harvested quantity,Gg N,0.0,corrected (e')
-110870,NO,Norge,Fodder crops,2016,Y,yield,kg N / ha,85.59772965086798,substituted
+110870,NO,Norge,Fodder crops,2016,Y,yield,kg N / ha,79.7874314381908,substituted
 110871,NO,Norge,Fodder crops,2017,A,harvested area,Mha,0.0,unprocessed
 110872,NO,Norge,Fodder crops,2017,H,harvested quantity,Gg N,0.0,corrected (e')
-110873,NO,Norge,Fodder crops,2017,Y,yield,kg N / ha,85.39102460152922,substituted
+110873,NO,Norge,Fodder crops,2017,Y,yield,kg N / ha,80.96941191415978,substituted
 110874,NO,Norge,Fodder crops,2018,A,harvested area,Mha,0.0,unprocessed
 110875,NO,Norge,Fodder crops,2018,H,harvested quantity,Gg N,0.0,corrected (e')
-110876,NO,Norge,Fodder crops,2018,Y,yield,kg N / ha,81.3056505905685,substituted
+110876,NO,Norge,Fodder crops,2018,Y,yield,kg N / ha,82.744999948196,substituted
 110877,NO,Norge,Fodder crops,2019,A,harvested area,Mha,0.0,unprocessed
 110878,NO,Norge,Fodder crops,2019,H,harvested quantity,Gg N,0.0,corrected (e')
-110879,NO,Norge,Fodder crops,2019,Y,yield,kg N / ha,87.37777599121598,substituted
+110879,NO,Norge,Fodder crops,2019,Y,yield,kg N / ha,85.42655465677791,substituted
 110880,NO,Norge,Forage legumes,1990,A,harvested area,Mha,0.4653,filled (c)
-110881,NO,Norge,Forage legumes,1990,H,harvested quantity,Gg N,,corrected (e')
-110882,NO,Norge,Forage legumes,1990,Y,yield,kg N / ha,,substituted
+110881,NO,Norge,Forage legumes,1990,H,harvested quantity,Gg N,61.83862472630331,corrected (e')
+110882,NO,Norge,Forage legumes,1990,Y,yield,kg N / ha,132.90054744531122,substituted
 110883,NO,Norge,Forage legumes,1991,A,harvested area,Mha,0.4653,filled (c)
-110884,NO,Norge,Forage legumes,1991,H,harvested quantity,Gg N,,corrected (e')
-110885,NO,Norge,Forage legumes,1991,Y,yield,kg N / ha,,substituted
+110884,NO,Norge,Forage legumes,1991,H,harvested quantity,Gg N,61.83862472630331,corrected (e')
+110885,NO,Norge,Forage legumes,1991,Y,yield,kg N / ha,132.90054744531122,substituted
 110886,NO,Norge,Forage legumes,1992,A,harvested area,Mha,0.4653,filled (c)
-110887,NO,Norge,Forage legumes,1992,H,harvested quantity,Gg N,,corrected (e')
-110888,NO,Norge,Forage legumes,1992,Y,yield,kg N / ha,,substituted
+110887,NO,Norge,Forage legumes,1992,H,harvested quantity,Gg N,61.83862472630331,corrected (e')
+110888,NO,Norge,Forage legumes,1992,Y,yield,kg N / ha,132.90054744531122,substituted
 110889,NO,Norge,Forage legumes,1993,A,harvested area,Mha,0.4653,filled (c)
-110890,NO,Norge,Forage legumes,1993,H,harvested quantity,Gg N,,corrected (e')
-110891,NO,Norge,Forage legumes,1993,Y,yield,kg N / ha,,substituted
+110890,NO,Norge,Forage legumes,1993,H,harvested quantity,Gg N,62.18640979497792,corrected (e')
+110891,NO,Norge,Forage legumes,1993,Y,yield,kg N / ha,133.6479901031118,substituted
 110892,NO,Norge,Forage legumes,1994,A,harvested area,Mha,0.4653,filled (c)
-110893,NO,Norge,Forage legumes,1994,H,harvested quantity,Gg N,,corrected (e')
-110894,NO,Norge,Forage legumes,1994,Y,yield,kg N / ha,,substituted
+110893,NO,Norge,Forage legumes,1994,H,harvested quantity,Gg N,62.537004426932086,corrected (e')
+110894,NO,Norge,Forage legumes,1994,Y,yield,kg N / ha,134.40147093688392,substituted
 110895,NO,Norge,Forage legumes,1995,A,harvested area,Mha,0.4653,unprocessed
-110896,NO,Norge,Forage legumes,1995,H,harvested quantity,Gg N,,corrected (e')
-110897,NO,Norge,Forage legumes,1995,Y,yield,kg N / ha,,substituted
+110896,NO,Norge,Forage legumes,1995,H,harvested quantity,Gg N,62.882309552749064,corrected (e')
+110897,NO,Norge,Forage legumes,1995,Y,yield,kg N / ha,135.14358382280048,substituted
 110898,NO,Norge,Forage legumes,1996,A,harvested area,Mha,0.4767,unprocessed
-110899,NO,Norge,Forage legumes,1996,H,harvested quantity,Gg N,,corrected (e')
-110900,NO,Norge,Forage legumes,1996,Y,yield,kg N / ha,,substituted
+110899,NO,Norge,Forage legumes,1996,H,harvested quantity,Gg N,64.70541424100409,corrected (e')
+110900,NO,Norge,Forage legumes,1996,Y,yield,kg N / ha,135.73613224460686,substituted
 110901,NO,Norge,Forage legumes,1997,A,harvested area,Mha,0.4881,unprocessed
-110902,NO,Norge,Forage legumes,1997,H,harvested quantity,Gg N,,corrected (e')
-110903,NO,Norge,Forage legumes,1997,Y,yield,kg N / ha,,substituted
+110902,NO,Norge,Forage legumes,1997,H,harvested quantity,Gg N,66.51788073549388,corrected (e')
+110903,NO,Norge,Forage legumes,1997,Y,yield,kg N / ha,136.27920658777686,substituted
 110904,NO,Norge,Forage legumes,1998,A,harvested area,Mha,0.4891999999999999,unprocessed
-110905,NO,Norge,Forage legumes,1998,H,harvested quantity,Gg N,,corrected (e')
-110906,NO,Norge,Forage legumes,1998,Y,yield,kg N / ha,,substituted
+110905,NO,Norge,Forage legumes,1998,H,harvested quantity,Gg N,67.146227288543,corrected (e')
+110906,NO,Norge,Forage legumes,1998,Y,yield,kg N / ha,137.257210319998,substituted
 110907,NO,Norge,Forage legumes,1999,A,harvested area,Mha,0.4876999999999999,unprocessed
-110908,NO,Norge,Forage legumes,1999,H,harvested quantity,Gg N,,corrected (e')
-110909,NO,Norge,Forage legumes,1999,Y,yield,kg N / ha,,substituted
+110908,NO,Norge,Forage legumes,1999,H,harvested quantity,Gg N,67.17534840593325,corrected (e')
+110909,NO,Norge,Forage legumes,1999,Y,yield,kg N / ha,137.73907813396198,substituted
 110910,NO,Norge,Forage legumes,2000,A,harvested area,Mha,0.4856,unprocessed
-110911,NO,Norge,Forage legumes,2000,H,harvested quantity,Gg N,,corrected (e')
-110912,NO,Norge,Forage legumes,2000,Y,yield,kg N / ha,,substituted
+110911,NO,Norge,Forage legumes,2000,H,harvested quantity,Gg N,67.07746878736498,corrected (e')
+110912,NO,Norge,Forage legumes,2000,Y,yield,kg N / ha,138.1331729558587,substituted
 110913,NO,Norge,Forage legumes,2001,A,harvested area,Mha,0.4807,unprocessed
-110914,NO,Norge,Forage legumes,2001,H,harvested quantity,Gg N,,corrected (e')
-110915,NO,Norge,Forage legumes,2001,Y,yield,kg N / ha,,substituted
+110914,NO,Norge,Forage legumes,2001,H,harvested quantity,Gg N,66.92511016771417,corrected (e')
+110915,NO,Norge,Forage legumes,2001,Y,yield,kg N / ha,139.2242774447975,substituted
 110916,NO,Norge,Forage legumes,2002,A,harvested area,Mha,0.4807,filled (c)
-110917,NO,Norge,Forage legumes,2002,H,harvested quantity,Gg N,,corrected (e')
-110918,NO,Norge,Forage legumes,2002,Y,yield,kg N / ha,,substituted
+110917,NO,Norge,Forage legumes,2002,H,harvested quantity,Gg N,67.20780336101477,corrected (e')
+110918,NO,Norge,Forage legumes,2002,Y,yield,kg N / ha,139.81236397132258,substituted
 110919,NO,Norge,Forage legumes,2003,A,harvested area,Mha,0.4807,filled (c)
-110920,NO,Norge,Forage legumes,2003,H,harvested quantity,Gg N,,corrected (e')
-110921,NO,Norge,Forage legumes,2003,Y,yield,kg N / ha,,substituted
+110920,NO,Norge,Forage legumes,2003,H,harvested quantity,Gg N,67.50318962665531,corrected (e')
+110921,NO,Norge,Forage legumes,2003,Y,yield,kg N / ha,140.42685589069131,substituted
 110922,NO,Norge,Forage legumes,2004,A,harvested area,Mha,0.4807,filled (c)
-110923,NO,Norge,Forage legumes,2004,H,harvested quantity,Gg N,,corrected (e')
-110924,NO,Norge,Forage legumes,2004,Y,yield,kg N / ha,,substituted
+110923,NO,Norge,Forage legumes,2004,H,harvested quantity,Gg N,67.82528036448974,corrected (e')
+110924,NO,Norge,Forage legumes,2004,Y,yield,kg N / ha,141.09690111189877,substituted
 110925,NO,Norge,Forage legumes,2005,A,harvested area,Mha,0.4807,filled (c)
-110926,NO,Norge,Forage legumes,2005,H,harvested quantity,Gg N,,corrected (e')
-110927,NO,Norge,Forage legumes,2005,Y,yield,kg N / ha,,substituted
+110926,NO,Norge,Forage legumes,2005,H,harvested quantity,Gg N,68.23287031494618,corrected (e')
+110927,NO,Norge,Forage legumes,2005,Y,yield,kg N / ha,141.94481030777237,substituted
 110928,NO,Norge,Forage legumes,2006,A,harvested area,Mha,0.4807,filled (c)
-110929,NO,Norge,Forage legumes,2006,H,harvested quantity,Gg N,,corrected (e')
-110930,NO,Norge,Forage legumes,2006,Y,yield,kg N / ha,,substituted
+110929,NO,Norge,Forage legumes,2006,H,harvested quantity,Gg N,68.54217301608129,corrected (e')
+110930,NO,Norge,Forage legumes,2006,Y,yield,kg N / ha,142.58825258182085,substituted
 110931,NO,Norge,Forage legumes,2007,A,harvested area,Mha,0.4807,filled (c)
-110932,NO,Norge,Forage legumes,2007,H,harvested quantity,Gg N,,corrected (e')
-110933,NO,Norge,Forage legumes,2007,Y,yield,kg N / ha,,substituted
+110932,NO,Norge,Forage legumes,2007,H,harvested quantity,Gg N,68.99536992532451,corrected (e')
+110933,NO,Norge,Forage legumes,2007,Y,yield,kg N / ha,143.5310379141346,substituted
 110934,NO,Norge,Forage legumes,2008,A,harvested area,Mha,0.4807,filled (c)
-110935,NO,Norge,Forage legumes,2008,H,harvested quantity,Gg N,,corrected (e')
-110936,NO,Norge,Forage legumes,2008,Y,yield,kg N / ha,,substituted
+110935,NO,Norge,Forage legumes,2008,H,harvested quantity,Gg N,69.38655418567524,corrected (e')
+110936,NO,Norge,Forage legumes,2008,Y,yield,kg N / ha,144.34481836004835,substituted
 110937,NO,Norge,Forage legumes,2009,A,harvested area,Mha,0.4807,filled (c)
-110938,NO,Norge,Forage legumes,2009,H,harvested quantity,Gg N,,corrected (e')
-110939,NO,Norge,Forage legumes,2009,Y,yield,kg N / ha,,substituted
+110938,NO,Norge,Forage legumes,2009,H,harvested quantity,Gg N,69.81329452518308,corrected (e')
+110939,NO,Norge,Forage legumes,2009,Y,yield,kg N / ha,145.23256610189947,substituted
 110940,NO,Norge,Forage legumes,2010,A,harvested area,Mha,0.4807,filled (c)
-110941,NO,Norge,Forage legumes,2010,H,harvested quantity,Gg N,,corrected (e')
-110942,NO,Norge,Forage legumes,2010,Y,yield,kg N / ha,,substituted
+110941,NO,Norge,Forage legumes,2010,H,harvested quantity,Gg N,70.15421449428621,corrected (e')
+110942,NO,Norge,Forage legumes,2010,Y,yield,kg N / ha,145.94178176468944,substituted
 110943,NO,Norge,Forage legumes,2011,A,harvested area,Mha,0.4807,filled (c)
-110944,NO,Norge,Forage legumes,2011,H,harvested quantity,Gg N,,corrected (e')
-110945,NO,Norge,Forage legumes,2011,Y,yield,kg N / ha,,substituted
+110944,NO,Norge,Forage legumes,2011,H,harvested quantity,Gg N,70.76051109801782,corrected (e')
+110945,NO,Norge,Forage legumes,2011,Y,yield,kg N / ha,147.20306032456378,substituted
 110946,NO,Norge,Forage legumes,2012,A,harvested area,Mha,0.4807,filled (c)
-110947,NO,Norge,Forage legumes,2012,H,harvested quantity,Gg N,,corrected (e')
-110948,NO,Norge,Forage legumes,2012,Y,yield,kg N / ha,,substituted
+110947,NO,Norge,Forage legumes,2012,H,harvested quantity,Gg N,71.11640718628308,corrected (e')
+110948,NO,Norge,Forage legumes,2012,Y,yield,kg N / ha,147.94343080150423,substituted
 110949,NO,Norge,Forage legumes,2013,A,harvested area,Mha,0.4807,filled (c)
-110950,NO,Norge,Forage legumes,2013,H,harvested quantity,Gg N,,corrected (e')
-110951,NO,Norge,Forage legumes,2013,Y,yield,kg N / ha,,substituted
+110950,NO,Norge,Forage legumes,2013,H,harvested quantity,Gg N,71.30552990632368,corrected (e')
+110951,NO,Norge,Forage legumes,2013,Y,yield,kg N / ha,148.336862713384,substituted
 110952,NO,Norge,Forage legumes,2014,A,harvested area,Mha,0.4807,filled (c)
-110953,NO,Norge,Forage legumes,2014,H,harvested quantity,Gg N,,corrected (e')
-110954,NO,Norge,Forage legumes,2014,Y,yield,kg N / ha,,substituted
+110953,NO,Norge,Forage legumes,2014,H,harvested quantity,Gg N,71.52825338614049,corrected (e')
+110954,NO,Norge,Forage legumes,2014,Y,yield,kg N / ha,148.80019427114726,substituted
 110955,NO,Norge,Forage legumes,2015,A,harvested area,Mha,0.4807,filled (c)
-110956,NO,Norge,Forage legumes,2015,H,harvested quantity,Gg N,,corrected (e')
-110957,NO,Norge,Forage legumes,2015,Y,yield,kg N / ha,,substituted
+110956,NO,Norge,Forage legumes,2015,H,harvested quantity,Gg N,71.88589465307143,corrected (e')
+110957,NO,Norge,Forage legumes,2015,Y,yield,kg N / ha,149.5441952425035,substituted
 110958,NO,Norge,Forage legumes,2016,A,harvested area,Mha,0.4807,filled (c)
-110959,NO,Norge,Forage legumes,2016,H,harvested quantity,Gg N,,corrected (e')
-110960,NO,Norge,Forage legumes,2016,Y,yield,kg N / ha,,substituted
+110959,NO,Norge,Forage legumes,2016,H,harvested quantity,Gg N,72.2435359200021,corrected (e')
+110960,NO,Norge,Forage legumes,2016,Y,yield,kg N / ha,150.28819621385915,substituted
 110961,NO,Norge,Forage legumes,2017,A,harvested area,Mha,0.4807,filled (c)
-110962,NO,Norge,Forage legumes,2017,H,harvested quantity,Gg N,,corrected (e')
-110963,NO,Norge,Forage legumes,2017,Y,yield,kg N / ha,,substituted
+110962,NO,Norge,Forage legumes,2017,H,harvested quantity,Gg N,72.6011771869328,corrected (e')
+110963,NO,Norge,Forage legumes,2017,Y,yield,kg N / ha,151.0321971852149,substituted
 110964,NO,Norge,Forage legumes,2018,A,harvested area,Mha,0.4807,filled (c)
-110965,NO,Norge,Forage legumes,2018,H,harvested quantity,Gg N,,corrected (e')
-110966,NO,Norge,Forage legumes,2018,Y,yield,kg N / ha,,substituted
+110965,NO,Norge,Forage legumes,2018,H,harvested quantity,Gg N,72.95881845386332,corrected (e')
+110966,NO,Norge,Forage legumes,2018,Y,yield,kg N / ha,151.77619815657025,substituted
 110967,NO,Norge,Forage legumes,2019,A,harvested area,Mha,0.4807,filled (c)
-110968,NO,Norge,Forage legumes,2019,H,harvested quantity,Gg N,,corrected (e')
-110969,NO,Norge,Forage legumes,2019,Y,yield,kg N / ha,,substituted
+110968,NO,Norge,Forage legumes,2019,H,harvested quantity,Gg N,73.31645972079401,corrected (e')
+110969,NO,Norge,Forage legumes,2019,Y,yield,kg N / ha,152.52019912792596,substituted
 110970,NO,Norge,Grain maize,1990,A,harvested area,Mha,0.0,interpolated
 110971,NO,Norge,Grain maize,1990,H,harvested quantity,Gg N,0.0,interpolated
 110972,NO,Norge,Grain maize,1990,Y,yield,kg N / ha,0.0,calculated
@@ -111780,185 +111780,185 @@
 111778,NO,Norge,Sugar beet,2019,H,harvested quantity,Gg N,0.0,unprocessed
 111779,NO,Norge,Sugar beet,2019,Y,yield,kg N / ha,0.0,calculated
 111780,NO,Norge,Temporary grassland,1990,A,harvested area,Mha,0.4653,filled (c)
-111781,NO,Norge,Temporary grassland,1990,H,harvested quantity,Gg N,39.48380245382657,corrected (e')
-111782,NO,Norge,Temporary grassland,1990,Y,yield,kg N / ha,84.8566568962531,substituted
+111781,NO,Norge,Temporary grassland,1990,H,harvested quantity,Gg N,47.55627982127533,corrected (e')
+111782,NO,Norge,Temporary grassland,1990,Y,yield,kg N / ha,102.20563039173723,substituted
 111783,NO,Norge,Temporary grassland,1991,A,harvested area,Mha,0.4653,filled (c)
-111784,NO,Norge,Temporary grassland,1991,H,harvested quantity,Gg N,39.70814224049603,corrected (e')
-111785,NO,Norge,Temporary grassland,1991,Y,yield,kg N / ha,85.33879699225453,substituted
+111784,NO,Norge,Temporary grassland,1991,H,harvested quantity,Gg N,47.55627982127533,corrected (e')
+111785,NO,Norge,Temporary grassland,1991,Y,yield,kg N / ha,102.20563039173723,substituted
 111786,NO,Norge,Temporary grassland,1992,A,harvested area,Mha,0.4653,filled (c)
-111787,NO,Norge,Temporary grassland,1992,H,harvested quantity,Gg N,39.93248202716551,corrected (e')
-111788,NO,Norge,Temporary grassland,1992,Y,yield,kg N / ha,85.82093708825599,substituted
+111787,NO,Norge,Temporary grassland,1992,H,harvested quantity,Gg N,47.55627982127533,corrected (e')
+111788,NO,Norge,Temporary grassland,1992,Y,yield,kg N / ha,102.20563039173723,substituted
 111789,NO,Norge,Temporary grassland,1993,A,harvested area,Mha,0.4653,filled (c)
-111790,NO,Norge,Temporary grassland,1993,H,harvested quantity,Gg N,40.156821813834966,corrected (e')
-111791,NO,Norge,Temporary grassland,1993,Y,yield,kg N / ha,86.3030771842574,substituted
+111790,NO,Norge,Temporary grassland,1993,H,harvested quantity,Gg N,47.82344993263082,corrected (e')
+111791,NO,Norge,Temporary grassland,1993,Y,yield,kg N / ha,102.77981932652229,substituted
 111792,NO,Norge,Temporary grassland,1994,A,harvested area,Mha,0.4653,filled (c)
-111793,NO,Norge,Temporary grassland,1994,H,harvested quantity,Gg N,40.38116160050445,corrected (e')
-111794,NO,Norge,Temporary grassland,1994,Y,yield,kg N / ha,86.78521728025886,substituted
+111793,NO,Norge,Temporary grassland,1994,H,harvested quantity,Gg N,48.0906200439863,corrected (e')
+111794,NO,Norge,Temporary grassland,1994,Y,yield,kg N / ha,103.35400826130733,substituted
 111795,NO,Norge,Temporary grassland,1995,A,harvested area,Mha,0.4653,unprocessed
-111796,NO,Norge,Temporary grassland,1995,H,harvested quantity,Gg N,40.6055013871739,corrected (e')
-111797,NO,Norge,Temporary grassland,1995,Y,yield,kg N / ha,87.26735737626026,substituted
+111796,NO,Norge,Temporary grassland,1995,H,harvested quantity,Gg N,48.357790155341775,corrected (e')
+111797,NO,Norge,Temporary grassland,1995,Y,yield,kg N / ha,103.92819719609236,substituted
 111798,NO,Norge,Temporary grassland,1996,A,harvested area,Mha,0.4767,unprocessed
-111799,NO,Norge,Temporary grassland,1996,H,harvested quantity,Gg N,41.83018544502717,corrected (e')
-111800,NO,Norge,Temporary grassland,1996,Y,yield,kg N / ha,87.74949747226174,substituted
+111799,NO,Norge,Temporary grassland,1996,H,harvested quantity,Gg N,49.81628746858926,corrected (e')
+111800,NO,Norge,Temporary grassland,1996,Y,yield,kg N / ha,104.5023861308774,substituted
 111801,NO,Norge,Temporary grassland,1997,A,harvested area,Mha,0.4881,unprocessed
-111802,NO,Norge,Temporary grassland,1997,H,harvested quantity,Gg N,43.06586229706925,corrected (e')
-111803,NO,Norge,Temporary grassland,1997,Y,yield,kg N / ha,88.23163756826317,substituted
+111802,NO,Norge,Temporary grassland,1997,H,harvested quantity,Gg N,51.287876289549835,corrected (e')
+111803,NO,Norge,Temporary grassland,1997,Y,yield,kg N / ha,105.07657506566244,substituted
 111804,NO,Norge,Temporary grassland,1998,A,harvested area,Mha,0.4891999999999999,unprocessed
-111805,NO,Norge,Temporary grassland,1998,H,harvested quantity,Gg N,43.39878003335824,corrected (e')
-111806,NO,Norge,Temporary grassland,1998,Y,yield,kg N / ha,88.71377766426461,substituted
+111805,NO,Norge,Temporary grassland,1998,H,harvested quantity,Gg N,51.68435374901889,corrected (e')
+111806,NO,Norge,Temporary grassland,1998,Y,yield,kg N / ha,105.65076400044747,substituted
 111807,NO,Norge,Temporary grassland,1999,A,harvested area,Mha,0.4876999999999999,unprocessed
-111808,NO,Norge,Temporary grassland,1999,H,harvested quantity,Gg N,43.50084909168174,corrected (e')
-111809,NO,Norge,Temporary grassland,1999,Y,yield,kg N / ha,89.19591776026603,substituted
+111808,NO,Norge,Temporary grassland,1999,H,harvested quantity,Gg N,51.80590954651291,corrected (e')
+111809,NO,Norge,Temporary grassland,1999,Y,yield,kg N / ha,106.22495293523255,substituted
 111810,NO,Norge,Temporary grassland,2000,A,harvested area,Mha,0.4856,unprocessed
-111811,NO,Norge,Temporary grassland,2000,H,harvested quantity,Gg N,43.547664895003486,corrected (e')
-111812,NO,Norge,Temporary grassland,2000,Y,yield,kg N / ha,89.67805785626749,substituted
+111811,NO,Norge,Temporary grassland,2000,H,harvested quantity,Gg N,51.86166329208052,corrected (e')
+111812,NO,Norge,Temporary grassland,2000,Y,yield,kg N / ha,106.79914187001755,substituted
 111813,NO,Norge,Temporary grassland,2001,A,harvested area,Mha,0.4865,unprocessed
-111814,NO,Norge,Temporary grassland,2001,H,harvested quantity,Gg N,43.86293630377883,corrected (e')
-111815,NO,Norge,Temporary grassland,2001,Y,yield,kg N / ha,90.16019795226893,substituted
+111814,NO,Norge,Temporary grassland,2001,H,harvested quantity,Gg N,52.237125436536466,corrected (e')
+111815,NO,Norge,Temporary grassland,2001,Y,yield,kg N / ha,107.3733308048026,substituted
 111816,NO,Norge,Temporary grassland,2002,A,harvested area,Mha,0.4916999999999999,unprocessed
-111817,NO,Norge,Temporary grassland,2002,H,harvested quantity,Gg N,44.56883761833451,corrected (e')
-111818,NO,Norge,Temporary grassland,2002,Y,yield,kg N / ha,90.64233804827033,substituted
+111817,NO,Norge,Temporary grassland,2002,H,harvested quantity,Gg N,53.07779545595525,corrected (e')
+111818,NO,Norge,Temporary grassland,2002,Y,yield,kg N / ha,107.94751973958766,substituted
 111819,NO,Norge,Temporary grassland,2003,A,harvested area,Mha,0.4905,unprocessed
-111820,NO,Norge,Temporary grassland,2003,H,harvested quantity,Gg N,44.69655652976532,corrected (e')
-111821,NO,Norge,Temporary grassland,2003,Y,yield,kg N / ha,91.1244781442718,substituted
+111820,NO,Norge,Temporary grassland,2003,H,harvested quantity,Gg N,53.22989810477981,corrected (e')
+111821,NO,Norge,Temporary grassland,2003,Y,yield,kg N / ha,108.52170867437269,substituted
 111822,NO,Norge,Temporary grassland,2004,A,harvested area,Mha,0.4891,unprocessed
-111823,NO,Norge,Temporary grassland,2004,H,harvested quantity,Gg N,44.80479698131764,corrected (e')
-111824,NO,Norge,Temporary grassland,2004,Y,yield,kg N / ha,91.60661824027324,substituted
+111823,NO,Norge,Temporary grassland,2004,H,harvested quantity,Gg N,53.358803520639036,corrected (e')
+111824,NO,Norge,Temporary grassland,2004,Y,yield,kg N / ha,109.09589760915772,substituted
 111825,NO,Norge,Temporary grassland,2005,A,harvested area,Mha,0.4858,unprocessed
-111826,NO,Norge,Temporary grassland,2005,H,harvested quantity,Gg N,44.73671879976225,corrected (e')
-111827,NO,Norge,Temporary grassland,2005,Y,yield,kg N / ha,92.08875833627471,substituted
+111826,NO,Norge,Temporary grassland,2005,H,harvested quantity,Gg N,53.2777280430474,corrected (e')
+111827,NO,Norge,Temporary grassland,2005,Y,yield,kg N / ha,109.67008654394276,substituted
 111828,NO,Norge,Temporary grassland,2006,A,harvested area,Mha,0.4896,unprocessed
-111829,NO,Norge,Temporary grassland,2006,H,harvested quantity,Gg N,45.32271187244238,corrected (e')
-111830,NO,Norge,Temporary grassland,2006,Y,yield,kg N / ha,92.57089843227611,substituted
+111829,NO,Norge,Temporary grassland,2006,H,harvested quantity,Gg N,53.97559727438512,corrected (e')
+111830,NO,Norge,Temporary grassland,2006,Y,yield,kg N / ha,110.24427547872779,substituted
 111831,NO,Norge,Temporary grassland,2007,A,harvested area,Mha,0.4906,unprocessed
-111832,NO,Norge,Temporary grassland,2007,H,harvested quantity,Gg N,45.65182070197295,corrected (e')
-111833,NO,Norge,Temporary grassland,2007,Y,yield,kg N / ha,93.05303852827753,substituted
+111832,NO,Norge,Temporary grassland,2007,H,harvested quantity,Gg N,54.367538641269405,corrected (e')
+111833,NO,Norge,Temporary grassland,2007,Y,yield,kg N / ha,110.81846441351286,substituted
 111834,NO,Norge,Temporary grassland,2008,A,harvested area,Mha,0.4881999999999999,unprocessed
-111835,NO,Norge,Temporary grassland,2008,H,harvested quantity,Gg N,45.66387420437299,corrected (e')
-111836,NO,Norge,Temporary grassland,2008,Y,yield,kg N / ha,93.53517862427897,substituted
+111835,NO,Norge,Temporary grassland,2008,H,harvested quantity,Gg N,54.38189336463908,corrected (e')
+111836,NO,Norge,Temporary grassland,2008,Y,yield,kg N / ha,111.39265334829803,substituted
 111837,NO,Norge,Temporary grassland,2009,A,harvested area,Mha,0.487175,filled (c)
-111838,NO,Norge,Temporary grassland,2009,H,harvested quantity,Gg N,45.80288724755262,corrected (e')
-111839,NO,Norge,Temporary grassland,2009,Y,yield,kg N / ha,94.01731872028043,substituted
+111838,NO,Norge,Temporary grassland,2009,H,harvested quantity,Gg N,54.54744638926093,corrected (e')
+111839,NO,Norge,Temporary grassland,2009,Y,yield,kg N / ha,111.96684228308293,substituted
 111840,NO,Norge,Temporary grassland,2010,A,harvested area,Mha,0.4861499999999999,filled (c)
-111841,NO,Norge,Temporary grassland,2010,H,harvested quantity,Gg N,45.940911903535415,corrected (e')
-111842,NO,Norge,Temporary grassland,2010,Y,yield,kg N / ha,94.49945881628186,substituted
+111841,NO,Norge,Temporary grassland,2010,H,harvested quantity,Gg N,54.71182232656651,corrected (e')
+111842,NO,Norge,Temporary grassland,2010,Y,yield,kg N / ha,112.54103121786798,substituted
 111843,NO,Norge,Temporary grassland,2011,A,harvested area,Mha,0.485125,filled (c)
-111844,NO,Norge,Temporary grassland,2011,H,harvested quantity,Gg N,46.07794817232141,corrected (e')
-111845,NO,Norge,Temporary grassland,2011,Y,yield,kg N / ha,94.98159891228326,substituted
+111844,NO,Norge,Temporary grassland,2011,H,harvested quantity,Gg N,54.87502117655579,corrected (e')
+111845,NO,Norge,Temporary grassland,2011,Y,yield,kg N / ha,113.11522015265301,substituted
 111846,NO,Norge,Temporary grassland,2012,A,harvested area,Mha,0.4841,filled (c)
-111847,NO,Norge,Temporary grassland,2012,H,harvested quantity,Gg N,46.21399605391064,corrected (e')
-111848,NO,Norge,Temporary grassland,2012,Y,yield,kg N / ha,95.46373900828475,substituted
+111847,NO,Norge,Temporary grassland,2012,H,harvested quantity,Gg N,55.037042939228755,corrected (e')
+111848,NO,Norge,Temporary grassland,2012,Y,yield,kg N / ha,113.68940908743805,substituted
 111849,NO,Norge,Temporary grassland,2013,A,harvested area,Mha,0.483075,filled (c)
-111850,NO,Norge,Temporary grassland,2013,H,harvested quantity,Gg N,46.34905554830304,corrected (e')
-111851,NO,Norge,Temporary grassland,2013,Y,yield,kg N / ha,95.94587910428618,substituted
+111850,NO,Norge,Temporary grassland,2013,H,harvested quantity,Gg N,55.19788761458542,corrected (e')
+111851,NO,Norge,Temporary grassland,2013,Y,yield,kg N / ha,114.26359802222309,substituted
 111852,NO,Norge,Temporary grassland,2014,A,harvested area,Mha,0.48205,filled (c)
-111853,NO,Norge,Temporary grassland,2014,H,harvested quantity,Gg N,46.48312665549864,corrected (e')
-111854,NO,Norge,Temporary grassland,2014,Y,yield,kg N / ha,96.42801920028761,substituted
+111853,NO,Norge,Temporary grassland,2014,H,harvested quantity,Gg N,55.35755520262577,corrected (e')
+111854,NO,Norge,Temporary grassland,2014,Y,yield,kg N / ha,114.83778695700813,substituted
 111855,NO,Norge,Temporary grassland,2015,A,harvested area,Mha,0.481025,filled (c)
-111856,NO,Norge,Temporary grassland,2015,H,harvested quantity,Gg N,46.61620937549744,corrected (e')
-111857,NO,Norge,Temporary grassland,2015,Y,yield,kg N / ha,96.91015929628905,substituted
+111856,NO,Norge,Temporary grassland,2015,H,harvested quantity,Gg N,55.51604570334981,corrected (e')
+111857,NO,Norge,Temporary grassland,2015,Y,yield,kg N / ha,115.41197589179318,substituted
 111858,NO,Norge,Temporary grassland,2016,A,harvested area,Mha,0.48,unprocessed
-111859,NO,Norge,Temporary grassland,2016,H,harvested quantity,Gg N,46.748303708299424,corrected (e')
-111860,NO,Norge,Temporary grassland,2016,Y,yield,kg N / ha,97.39229939229047,substituted
+111859,NO,Norge,Temporary grassland,2016,H,harvested quantity,Gg N,55.67335911675753,corrected (e')
+111860,NO,Norge,Temporary grassland,2016,Y,yield,kg N / ha,115.98616482657819,substituted
 111861,NO,Norge,Temporary grassland,2017,A,harvested area,Mha,0.47754,unprocessed
-111862,NO,Norge,Temporary grassland,2017,H,harvested quantity,Gg N,46.73895983323893,corrected (e')
-111863,NO,Norge,Temporary grassland,2017,Y,yield,kg N / ha,97.87443948829193,substituted
+111862,NO,Norge,Temporary grassland,2017,H,harvested quantity,Gg N,55.662231335201405,corrected (e')
+111863,NO,Norge,Temporary grassland,2017,Y,yield,kg N / ha,116.56035376136325,substituted
 111864,NO,Norge,Temporary grassland,2018,A,harvested area,Mha,0.48439,unprocessed
-111865,NO,Norge,Temporary grassland,2018,H,harvested quantity,Gg N,47.642943584835876,corrected (e')
-111866,NO,Norge,Temporary grassland,2018,Y,yield,kg N / ha,98.3565795842934,substituted
+111865,NO,Norge,Temporary grassland,2018,H,harvested quantity,Gg N,56.738801136587284,corrected (e')
+111866,NO,Norge,Temporary grassland,2018,Y,yield,kg N / ha,117.13454269614832,substituted
 111867,NO,Norge,Temporary grassland,2019,A,harvested area,Mha,0.48773,unprocessed
-111868,NO,Norge,Temporary grassland,2019,H,harvested quantity,Gg N,48.20660874967018,corrected (e')
-111869,NO,Norge,Temporary grassland,2019,Y,yield,kg N / ha,98.8387196802948,substituted
+111868,NO,Norge,Temporary grassland,2019,H,harvested quantity,Gg N,57.4100796783551,corrected (e')
+111869,NO,Norge,Temporary grassland,2019,Y,yield,kg N / ha,117.70873163093331,substituted
 111870,NO,Norge,Vegetables and other,1990,A,harvested area,Mha,0.00954,filled (c)
-111871,NO,Norge,Vegetables and other,1990,H,harvested quantity,Gg N,,corrected (e')
-111872,NO,Norge,Vegetables and other,1990,Y,yield,kg N / ha,,substituted
+111871,NO,Norge,Vegetables and other,1990,H,harvested quantity,Gg N,0.25026753652880107,corrected (e')
+111872,NO,Norge,Vegetables and other,1990,Y,yield,kg N / ha,26.233494395052524,substituted
 111873,NO,Norge,Vegetables and other,1991,A,harvested area,Mha,0.00954,filled (c)
-111874,NO,Norge,Vegetables and other,1991,H,harvested quantity,Gg N,,corrected (e')
-111875,NO,Norge,Vegetables and other,1991,Y,yield,kg N / ha,,substituted
+111874,NO,Norge,Vegetables and other,1991,H,harvested quantity,Gg N,0.25026753652880107,corrected (e')
+111875,NO,Norge,Vegetables and other,1991,Y,yield,kg N / ha,26.233494395052524,substituted
 111876,NO,Norge,Vegetables and other,1992,A,harvested area,Mha,0.00954,filled (c)
-111877,NO,Norge,Vegetables and other,1992,H,harvested quantity,Gg N,,corrected (e')
-111878,NO,Norge,Vegetables and other,1992,Y,yield,kg N / ha,,substituted
+111877,NO,Norge,Vegetables and other,1992,H,harvested quantity,Gg N,0.25026753652880107,corrected (e')
+111878,NO,Norge,Vegetables and other,1992,Y,yield,kg N / ha,26.233494395052524,substituted
 111879,NO,Norge,Vegetables and other,1993,A,harvested area,Mha,0.00954,filled (c)
-111880,NO,Norge,Vegetables and other,1993,H,harvested quantity,Gg N,,corrected (e')
-111881,NO,Norge,Vegetables and other,1993,Y,yield,kg N / ha,,substituted
+111880,NO,Norge,Vegetables and other,1993,H,harvested quantity,Gg N,0.2731312837580638,corrected (e')
+111881,NO,Norge,Vegetables and other,1993,Y,yield,kg N / ha,28.63011360147419,substituted
 111882,NO,Norge,Vegetables and other,1994,A,harvested area,Mha,0.00954,filled (c)
-111883,NO,Norge,Vegetables and other,1994,H,harvested quantity,Gg N,,corrected (e')
-111884,NO,Norge,Vegetables and other,1994,Y,yield,kg N / ha,,substituted
+111883,NO,Norge,Vegetables and other,1994,H,harvested quantity,Gg N,0.32927477171145686,corrected (e')
+111884,NO,Norge,Vegetables and other,1994,Y,yield,kg N / ha,34.5151752318089,substituted
 111885,NO,Norge,Vegetables and other,1995,A,harvested area,Mha,0.00954,filled (c)
-111886,NO,Norge,Vegetables and other,1995,H,harvested quantity,Gg N,,corrected (e')
-111887,NO,Norge,Vegetables and other,1995,Y,yield,kg N / ha,,substituted
+111886,NO,Norge,Vegetables and other,1995,H,harvested quantity,Gg N,0.25837861391338174,corrected (e')
+111887,NO,Norge,Vegetables and other,1995,Y,yield,kg N / ha,27.083712150249657,substituted
 111888,NO,Norge,Vegetables and other,1996,A,harvested area,Mha,0.00954,filled (c)
-111889,NO,Norge,Vegetables and other,1996,H,harvested quantity,Gg N,,corrected (e')
-111890,NO,Norge,Vegetables and other,1996,Y,yield,kg N / ha,,substituted
+111889,NO,Norge,Vegetables and other,1996,H,harvested quantity,Gg N,0.2801786601242292,corrected (e')
+111890,NO,Norge,Vegetables and other,1996,Y,yield,kg N / ha,29.36883229813723,substituted
 111891,NO,Norge,Vegetables and other,1997,A,harvested area,Mha,0.00954,filled (c)
-111892,NO,Norge,Vegetables and other,1997,H,harvested quantity,Gg N,,corrected (e')
-111893,NO,Norge,Vegetables and other,1997,Y,yield,kg N / ha,,substituted
+111892,NO,Norge,Vegetables and other,1997,H,harvested quantity,Gg N,0.2492970564621799,corrected (e')
+111893,NO,Norge,Vegetables and other,1997,Y,yield,kg N / ha,26.131766924756803,substituted
 111894,NO,Norge,Vegetables and other,1998,A,harvested area,Mha,0.00954,filled (c)
-111895,NO,Norge,Vegetables and other,1998,H,harvested quantity,Gg N,,corrected (e')
-111896,NO,Norge,Vegetables and other,1998,Y,yield,kg N / ha,,substituted
+111895,NO,Norge,Vegetables and other,1998,H,harvested quantity,Gg N,0.22107119439786566,corrected (e')
+111896,NO,Norge,Vegetables and other,1998,Y,yield,kg N / ha,23.173081173780467,substituted
 111897,NO,Norge,Vegetables and other,1999,A,harvested area,Mha,0.00954,filled (c)
-111898,NO,Norge,Vegetables and other,1999,H,harvested quantity,Gg N,,corrected (e')
-111899,NO,Norge,Vegetables and other,1999,Y,yield,kg N / ha,,substituted
+111898,NO,Norge,Vegetables and other,1999,H,harvested quantity,Gg N,0.21590006896552144,corrected (e')
+111899,NO,Norge,Vegetables and other,1999,Y,yield,kg N / ha,22.631034482759063,substituted
 111900,NO,Norge,Vegetables and other,2000,A,harvested area,Mha,0.00954,filled (c)
-111901,NO,Norge,Vegetables and other,2000,H,harvested quantity,Gg N,,corrected (e')
-111902,NO,Norge,Vegetables and other,2000,Y,yield,kg N / ha,,substituted
+111901,NO,Norge,Vegetables and other,2000,H,harvested quantity,Gg N,0.25922885288897635,corrected (e')
+111902,NO,Norge,Vegetables and other,2000,Y,yield,kg N / ha,27.1728357325971,substituted
 111903,NO,Norge,Vegetables and other,2001,A,harvested area,Mha,0.00954,filled (c)
-111904,NO,Norge,Vegetables and other,2001,H,harvested quantity,Gg N,,corrected (e')
-111905,NO,Norge,Vegetables and other,2001,Y,yield,kg N / ha,,substituted
+111904,NO,Norge,Vegetables and other,2001,H,harvested quantity,Gg N,0.2353727003533569,corrected (e')
+111905,NO,Norge,Vegetables and other,2001,Y,yield,kg N / ha,24.67219081272085,substituted
 111906,NO,Norge,Vegetables and other,2002,A,harvested area,Mha,0.00954,filled (c)
-111907,NO,Norge,Vegetables and other,2002,H,harvested quantity,Gg N,,corrected (e')
-111908,NO,Norge,Vegetables and other,2002,Y,yield,kg N / ha,,substituted
+111907,NO,Norge,Vegetables and other,2002,H,harvested quantity,Gg N,0.17093418621997472,corrected (e')
+111908,NO,Norge,Vegetables and other,2002,Y,yield,kg N / ha,17.917629582806576,substituted
 111909,NO,Norge,Vegetables and other,2003,A,harvested area,Mha,0.00954,filled (c)
-111910,NO,Norge,Vegetables and other,2003,H,harvested quantity,Gg N,,corrected (e')
-111911,NO,Norge,Vegetables and other,2003,Y,yield,kg N / ha,,substituted
+111910,NO,Norge,Vegetables and other,2003,H,harvested quantity,Gg N,0.25958936000835775,corrected (e')
+111911,NO,Norge,Vegetables and other,2003,Y,yield,kg N / ha,27.210624738821565,substituted
 111912,NO,Norge,Vegetables and other,2004,A,harvested area,Mha,0.00954,filled (c)
-111913,NO,Norge,Vegetables and other,2004,H,harvested quantity,Gg N,,corrected (e')
-111914,NO,Norge,Vegetables and other,2004,Y,yield,kg N / ha,,substituted
+111913,NO,Norge,Vegetables and other,2004,H,harvested quantity,Gg N,0.26609422570532915,corrected (e')
+111914,NO,Norge,Vegetables and other,2004,Y,yield,kg N / ha,27.892476489028212,substituted
 111915,NO,Norge,Vegetables and other,2005,A,harvested area,Mha,0.00954,filled (c)
-111916,NO,Norge,Vegetables and other,2005,H,harvested quantity,Gg N,,corrected (e')
-111917,NO,Norge,Vegetables and other,2005,Y,yield,kg N / ha,,substituted
+111916,NO,Norge,Vegetables and other,2005,H,harvested quantity,Gg N,0.33349341428571433,corrected (e')
+111917,NO,Norge,Vegetables and other,2005,Y,yield,kg N / ha,34.95738095238096,substituted
 111918,NO,Norge,Vegetables and other,2006,A,harvested area,Mha,0.00954,filled (c)
-111919,NO,Norge,Vegetables and other,2006,H,harvested quantity,Gg N,,corrected (e')
-111920,NO,Norge,Vegetables and other,2006,Y,yield,kg N / ha,,substituted
+111919,NO,Norge,Vegetables and other,2006,H,harvested quantity,Gg N,0.35011898772727273,corrected (e')
+111920,NO,Norge,Vegetables and other,2006,Y,yield,kg N / ha,36.700103535353534,substituted
 111921,NO,Norge,Vegetables and other,2007,A,harvested area,Mha,0.00954,filled (c)
-111922,NO,Norge,Vegetables and other,2007,H,harvested quantity,Gg N,,corrected (e')
-111923,NO,Norge,Vegetables and other,2007,Y,yield,kg N / ha,,substituted
+111922,NO,Norge,Vegetables and other,2007,H,harvested quantity,Gg N,0.41113325882048624,corrected (e')
+111923,NO,Norge,Vegetables and other,2007,Y,yield,kg N / ha,43.09572943610967,substituted
 111924,NO,Norge,Vegetables and other,2008,A,harvested area,Mha,0.00954,filled (c)
-111925,NO,Norge,Vegetables and other,2008,H,harvested quantity,Gg N,,corrected (e')
-111926,NO,Norge,Vegetables and other,2008,Y,yield,kg N / ha,,substituted
+111925,NO,Norge,Vegetables and other,2008,H,harvested quantity,Gg N,0.43576208859677273,corrected (e')
+111926,NO,Norge,Vegetables and other,2008,Y,yield,kg N / ha,45.67736777743949,substituted
 111927,NO,Norge,Vegetables and other,2009,A,harvested area,Mha,0.00954,filled (c)
-111928,NO,Norge,Vegetables and other,2009,H,harvested quantity,Gg N,,corrected (e')
-111929,NO,Norge,Vegetables and other,2009,Y,yield,kg N / ha,,substituted
+111928,NO,Norge,Vegetables and other,2009,H,harvested quantity,Gg N,0.41446333217822917,corrected (e')
+111929,NO,Norge,Vegetables and other,2009,Y,yield,kg N / ha,43.444793729374126,substituted
 111930,NO,Norge,Vegetables and other,2010,A,harvested area,Mha,0.00954,unprocessed
-111931,NO,Norge,Vegetables and other,2010,H,harvested quantity,Gg N,,corrected (e')
-111932,NO,Norge,Vegetables and other,2010,Y,yield,kg N / ha,,substituted
+111931,NO,Norge,Vegetables and other,2010,H,harvested quantity,Gg N,0.41010288250137134,corrected (e')
+111932,NO,Norge,Vegetables and other,2010,Y,yield,kg N / ha,42.987723532638505,substituted
 111933,NO,Norge,Vegetables and other,2011,A,harvested area,Mha,0.00981,unprocessed
-111934,NO,Norge,Vegetables and other,2011,H,harvested quantity,Gg N,,corrected (e')
-111935,NO,Norge,Vegetables and other,2011,Y,yield,kg N / ha,,substituted
+111934,NO,Norge,Vegetables and other,2011,H,harvested quantity,Gg N,0.49605323743482765,corrected (e')
+111935,NO,Norge,Vegetables and other,2011,Y,yield,kg N / ha,50.56607924921791,substituted
 111936,NO,Norge,Vegetables and other,2012,A,harvested area,Mha,0.01018,unprocessed
-111937,NO,Norge,Vegetables and other,2012,H,harvested quantity,Gg N,,corrected (e')
-111938,NO,Norge,Vegetables and other,2012,Y,yield,kg N / ha,,substituted
+111937,NO,Norge,Vegetables and other,2012,H,harvested quantity,Gg N,0.3958086392800421,corrected (e')
+111938,NO,Norge,Vegetables and other,2012,Y,yield,kg N / ha,38.88100582318685,substituted
 111939,NO,Norge,Vegetables and other,2013,A,harvested area,Mha,0.00975,unprocessed
-111940,NO,Norge,Vegetables and other,2013,H,harvested quantity,Gg N,,corrected (e')
-111941,NO,Norge,Vegetables and other,2013,Y,yield,kg N / ha,,substituted
+111940,NO,Norge,Vegetables and other,2013,H,harvested quantity,Gg N,0.4900817447561972,corrected (e')
+111941,NO,Norge,Vegetables and other,2013,Y,yield,kg N / ha,50.26479433396894,substituted
 111942,NO,Norge,Vegetables and other,2014,A,harvested area,Mha,0.00859,unprocessed
-111943,NO,Norge,Vegetables and other,2014,H,harvested quantity,Gg N,,corrected (e')
-111944,NO,Norge,Vegetables and other,2014,Y,yield,kg N / ha,,substituted
+111943,NO,Norge,Vegetables and other,2014,H,harvested quantity,Gg N,0.34739212563895594,corrected (e')
+111944,NO,Norge,Vegetables and other,2014,Y,yield,kg N / ha,40.44145816518695,substituted
 111945,NO,Norge,Vegetables and other,2015,A,harvested area,Mha,0.0087,unprocessed
-111946,NO,Norge,Vegetables and other,2015,H,harvested quantity,Gg N,,corrected (e')
-111947,NO,Norge,Vegetables and other,2015,Y,yield,kg N / ha,,substituted
+111946,NO,Norge,Vegetables and other,2015,H,harvested quantity,Gg N,0.4116426060457115,corrected (e')
+111947,NO,Norge,Vegetables and other,2015,Y,yield,kg N / ha,47.31524207421972,substituted
 111948,NO,Norge,Vegetables and other,2016,A,harvested area,Mha,0.00983,unprocessed
-111949,NO,Norge,Vegetables and other,2016,H,harvested quantity,Gg N,,corrected (e')
-111950,NO,Norge,Vegetables and other,2016,Y,yield,kg N / ha,,substituted
+111949,NO,Norge,Vegetables and other,2016,H,harvested quantity,Gg N,0.3731992991257489,corrected (e')
+111950,NO,Norge,Vegetables and other,2016,Y,yield,kg N / ha,37.965340704552275,substituted
 111951,NO,Norge,Vegetables and other,2017,A,harvested area,Mha,0.00983,filled (c)
-111952,NO,Norge,Vegetables and other,2017,H,harvested quantity,Gg N,,corrected (e')
-111953,NO,Norge,Vegetables and other,2017,Y,yield,kg N / ha,,substituted
+111952,NO,Norge,Vegetables and other,2017,H,harvested quantity,Gg N,0.31389904952380954,corrected (e')
+111953,NO,Norge,Vegetables and other,2017,Y,yield,kg N / ha,31.932761904761907,substituted
 111954,NO,Norge,Vegetables and other,2018,A,harvested area,Mha,0.00983,unprocessed
-111955,NO,Norge,Vegetables and other,2018,H,harvested quantity,Gg N,,corrected (e')
-111956,NO,Norge,Vegetables and other,2018,Y,yield,kg N / ha,,substituted
+111955,NO,Norge,Vegetables and other,2018,H,harvested quantity,Gg N,0.3710547083769633,corrected (e')
+111956,NO,Norge,Vegetables and other,2018,Y,yield,kg N / ha,37.74717277486911,substituted
 111957,NO,Norge,Vegetables and other,2019,A,harvested area,Mha,0.0096899999999999,unprocessed
-111958,NO,Norge,Vegetables and other,2019,H,harvested quantity,Gg N,,corrected (e')
-111959,NO,Norge,Vegetables and other,2019,Y,yield,kg N / ha,,substituted
+111958,NO,Norge,Vegetables and other,2019,H,harvested quantity,Gg N,0.24733024150944694,corrected (e')
+111959,NO,Norge,Vegetables and other,2019,Y,yield,kg N / ha,25.52427672956135,substituted
 111960,NO,Norge,Wheat,1990,A,harvested area,Mha,0.0792,interpolated
 111961,NO,Norge,Wheat,1990,H,harvested quantity,Gg N,4.80192,filled (c)
 111962,NO,Norge,Wheat,1990,Y,yield,kg N / ha,60.630303030303025,calculated

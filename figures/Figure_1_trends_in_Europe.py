@@ -1,3 +1,14 @@
+"""
+Script name: Figure_1_trends_in_Europe.py
+Description: Figure 1 workflow
+Author: Ludovic Harter
+Created: 2025-12-18
+Last modified: 2025-12-18
+Version: 1.0
+Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
+License: MIT
+"""
+
 #%% --- Libraries ---
 import pandas as pd
 import numpy as np
@@ -152,7 +163,7 @@ crop_stack = axs[0,0].stackplot(
 )
 
 axs[0,0].axhline(0, color='k')
-axs[0,0].set_title('a) Arable harvests and fertilization (EU)', fontsize=18, fontweight='bold')
+axs[0,0].set_title('a) Arable harvests and fertilization (Europe)', fontsize=18, fontweight='bold')
 axs[0,0].set_ylabel('Tg N', fontsize=18)  # Updated unit
 
 legend1 = axs[0,0].legend(handles=crop_stack, loc='upper left', bbox_to_anchor=(1.05, 0.7), fontsize=16, title='Harvest')
@@ -213,7 +224,7 @@ feed_stack = axs[0,1].stackplot(
 )
 
 axs[0,1].axhline(0, color='k')
-axs[0,1].set_title('b) Livestock production and ingestion (EU)', fontsize=18, fontweight='bold')
+axs[0,1].set_title('b) Livestock production and ingestion (Europe)', fontsize=18, fontweight='bold')
 axs[0,1].set_ylabel('Tg N', fontsize=18)  # Updated unit
 
 legend1 = axs[0,1].legend(handles=prod_stack, loc='upper left', bbox_to_anchor=(1.05, 0.7), fontsize=16, title='Production')
@@ -226,9 +237,24 @@ legend2.get_title().set_fontweight('bold')
 
 # 3) Land use evolution plot (no unit change)
 axs[1,0].stackplot(df_land.index, df_land.T.values, labels=['Arable land', 'Permanent crops', 'Permanent grassland'])
-axs[1,0].set_title('c) Land use (EU)', fontsize=18, fontweight='bold')
+axs[1,0].set_title('c) Land use (Europe)', fontsize=18, fontweight='bold')
 axs[1,0].set_ylabel('Mha', fontsize=18)
 axs[1,0].legend(loc='center left', bbox_to_anchor=(1.05, 0.5), fontsize=16)
+
+# UAA visualization
+x_pos = 2015
+y_start = 5
+y_end = 175
+
+axs[1,0].annotate(
+    '',
+    xy=(x_pos, y_end), xytext=(x_pos, y_start),
+    arrowprops=dict(arrowstyle='<->', color='k', lw=3)
+)
+axs[1,0].text(
+    x_pos + 0.5, (y_start + y_end)/2, 'UAA',
+    color='k', fontsize=16, fontweight='bold', rotation=0, va='center'
+)
 
 # 4) Yield evolution plot (no unit change)
 for i, col in enumerate(yield_N.columns):
@@ -243,8 +269,8 @@ axs[1,1].plot(
     linewidth=3
 )
 
-axs[1,1].set_title('d) Yield of main crops (EU)', fontsize=18, fontweight='bold')
-axs[1,1].set_ylabel('KgN/ha', fontsize=18)
+axs[1,1].set_title('d) Yield of main crops (Europe)', fontsize=18, fontweight='bold')
+axs[1,1].set_ylabel('KgN/ha/year', fontsize=18)
 axs[1,1].legend(loc='center left', bbox_to_anchor=(1.05, 0.5), fontsize=16)
 
 # Increase tick label size for all axes

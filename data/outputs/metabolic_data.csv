@@ -28138,19 +28138,19 @@
 28136,ES53,Illes Balears,1992,Meat_goats,goats meat production,Gg N,0.0015905013889931676
 28137,ES53,Illes Balears,1992,Meat_pigs,pigs meat production,Gg N,0.22871143150395462
 28138,ES53,Illes Balears,1992,Meat_poultry,poultry meat production,Gg N,0.07122992316847922
-28139,ES53,Illes Balears,1992,Agri_total,total agricultural production,Gg N,3.961474667249325
+28139,ES53,Illes Balears,1992,Agri_total,total agricultural production,Gg N,3.986250523256012
 28140,ES53,Illes Balears,1992,M_ingestion,monogastric ingestion,Gg N,1.8090848777772561
 28141,ES53,Illes Balears,1992,R_ingestion,ruminant ingestion,Gg N,6.434530678850106
 28142,ES53,Illes Balears,1992,total_A_ingestion,total animal ingestion,Gg N,8.243615556627363
-28143,ES53,Illes Balears,1992,L_density,livestock density,LU/haUAA,0.5382808623609167
-28144,ES53,Illes Balears,1992,F_import,net import feed,Gg N,6.091426140526098
-28145,ES53,Illes Balears,1992,H_total,total crop production,Gg N,2.83909235216382
+28143,ES53,Illes Balears,1992,L_density,livestock density,LU/haUAA,0.5380753437158026
+28144,ES53,Illes Balears,1992,F_import,net import feed,Gg N,6.066650284519411
+28145,ES53,Illes Balears,1992,H_total,total crop production,Gg N,2.8638682081705067
 28146,ES53,Illes Balears,1992,C_total,total cereal production,Gg N,0.7779234752958135
 28147,ES53,Illes Balears,1992,PG_H,permanent grassland production,Gg N,0.3498282279057234
-28148,ES53,Illes Balears,1992,F_ingestion,effective fodder ingestion,Gg N,1.8023611881955421
-28149,ES53,Illes Balears,1992,total_N_input,soil N input from manure,%,43.41984902236475
-28150,ES53,Illes Balears,1992,NS,soil N surplus,kgN/ha,32.472608770016606
-28151,ES53,Illes Balears,1992,NUE,NUE arable,no unit,0.5465136483727574
+28148,ES53,Illes Balears,1992,F_ingestion,effective fodder ingestion,Gg N,1.827137044202229
+28149,ES53,Illes Balears,1992,total_N_input,soil N input from manure,%,43.042096627541035
+28150,ES53,Illes Balears,1992,NS,soil N surplus,kgN/ha,32.81915847003697
+28151,ES53,Illes Balears,1992,NUE,NUE arable,no unit,0.5465466811906585
 28152,ES53,Illes Balears,1993,H_ingestion,total human ingestion,Gg N,4.536442804056956
 28153,ES53,Illes Balears,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,1.03988872
 28154,ES53,Illes Balears,1993,E_total,total animal excretion,Gg N,6.547254214194788
@@ -28162,19 +28162,19 @@
 28160,ES53,Illes Balears,1993,Meat_goats,goats meat production,Gg N,0.002072868251013033
 28161,ES53,Illes Balears,1993,Meat_pigs,pigs meat production,Gg N,0.24611891446102424
 28162,ES53,Illes Balears,1993,Meat_poultry,poultry meat production,Gg N,0.06808538588123954
-28163,ES53,Illes Balears,1993,Agri_total,total agricultural production,Gg N,4.375981249020513
+28163,ES53,Illes Balears,1993,Agri_total,total agricultural production,Gg N,4.388369177023857
 28164,ES53,Illes Balears,1993,M_ingestion,monogastric ingestion,Gg N,1.8382359060701414
 28165,ES53,Illes Balears,1993,R_ingestion,ruminant ingestion,Gg N,6.2022487891348845
 28166,ES53,Illes Balears,1993,total_A_ingestion,total animal ingestion,Gg N,8.040484695205027
-28167,ES53,Illes Balears,1993,L_density,livestock density,LU/haUAA,0.49861502479155084
-28168,ES53,Illes Balears,1993,F_import,net import feed,Gg N,5.891940091889124
-28169,ES53,Illes Balears,1993,H_total,total crop production,Gg N,3.267381969321991
+28167,ES53,Illes Balears,1993,L_density,livestock density,LU/haUAA,0.49852452652904394
+28168,ES53,Illes Balears,1993,F_import,net import feed,Gg N,5.87955216388578
+28169,ES53,Illes Balears,1993,H_total,total crop production,Gg N,3.2797698973253344
 28170,ES53,Illes Balears,1993,C_total,total cereal production,Gg N,1.19191233696517
 28171,ES53,Illes Balears,1993,PG_H,permanent grassland production,Gg N,0.35131801129982404
-28172,ES53,Illes Balears,1993,F_ingestion,effective fodder ingestion,Gg N,1.7972265920160795
-28173,ES53,Illes Balears,1993,total_N_input,soil N input from manure,%,41.08741109722743
-28174,ES53,Illes Balears,1993,NS,soil N surplus,kgN/ha,23.467390990546907
-28175,ES53,Illes Balears,1993,NUE,NUE arable,no unit,0.6152532905565711
+28172,ES53,Illes Balears,1993,F_ingestion,effective fodder ingestion,Gg N,1.809614520019423
+28173,ES53,Illes Balears,1993,total_N_input,soil N input from manure,%,40.91296546850642
+28174,ES53,Illes Balears,1993,NS,soil N surplus,kgN/ha,23.623722225644812
+28175,ES53,Illes Balears,1993,NUE,NUE arable,no unit,0.6149794404693152
 28176,ES53,Illes Balears,1994,H_ingestion,total human ingestion,Gg N,4.610258277777513
 28177,ES53,Illes Balears,1994,H_ingestion_cereals,total human ingestion of cereal,Gg N,1.0568094399999999
 28178,ES53,Illes Balears,1994,E_total,total animal excretion,Gg N,8.704190856147838
@@ -28186,19 +28186,19 @@
 28184,ES53,Illes Balears,1994,Meat_goats,goats meat production,Gg N,0.001954218669690266
 28185,ES53,Illes Balears,1994,Meat_pigs,pigs meat production,Gg N,0.17948177997718612
 28186,ES53,Illes Balears,1994,Meat_poultry,poultry meat production,Gg N,0.07217485373233584
-28187,ES53,Illes Balears,1994,Agri_total,total agricultural production,Gg N,3.7069661851717908
+28187,ES53,Illes Balears,1994,Agri_total,total agricultural production,Gg N,3.7131601491734623
 28188,ES53,Illes Balears,1994,M_ingestion,monogastric ingestion,Gg N,1.8389252923862378
 28189,ES53,Illes Balears,1994,R_ingestion,ruminant ingestion,Gg N,8.348893779404365
 28190,ES53,Illes Balears,1994,total_A_ingestion,total animal ingestion,Gg N,10.187819071790605
-28191,ES53,Illes Balears,1994,L_density,livestock density,LU/haUAA,0.6850139189927613
-28192,ES53,Illes Balears,1994,F_import,net import feed,Gg N,8.137296560013873
-28193,ES53,Illes Balears,1994,H_total,total crop production,Gg N,2.616121323201487
+28191,ES53,Illes Balears,1994,L_density,livestock density,LU/haUAA,0.6849496728272506
+28192,ES53,Illes Balears,1994,F_import,net import feed,Gg N,8.1311025960122
+28193,ES53,Illes Balears,1994,H_total,total crop production,Gg N,2.6223152872031585
 28194,ES53,Illes Balears,1994,C_total,total cereal production,Gg N,0.7190651669324937
 28195,ES53,Illes Balears,1994,PG_H,permanent grassland production,Gg N,0.3618480711990379
-28196,ES53,Illes Balears,1994,F_ingestion,effective fodder ingestion,Gg N,1.688674440577695
-28197,ES53,Illes Balears,1994,total_N_input,soil N input from manure,%,47.5592003495826
-28198,ES53,Illes Balears,1994,NS,soil N surplus,kgN/ha,43.92006281109533
-28199,ES53,Illes Balears,1994,NUE,NUE arable,no unit,0.4535499361924723
+28196,ES53,Illes Balears,1994,F_ingestion,effective fodder ingestion,Gg N,1.6948684045793667
+28197,ES53,Illes Balears,1994,total_N_input,soil N input from manure,%,47.465702782867744
+28198,ES53,Illes Balears,1994,NS,soil N surplus,kgN/ha,44.00189462675611
+28199,ES53,Illes Balears,1994,NUE,NUE arable,no unit,0.4537404881723285
 28200,ES53,Illes Balears,1995,H_ingestion,total human ingestion,Gg N,4.684030388933781
 28201,ES53,Illes Balears,1995,H_ingestion_cereals,total human ingestion of cereal,Gg N,1.07372022
 28202,ES53,Illes Balears,1995,E_total,total animal excretion,Gg N,8.605963858474222
@@ -28210,19 +28210,19 @@
 28208,ES53,Illes Balears,1995,Meat_goats,goats meat production,Gg N,0.0020289627773627033
 28209,ES53,Illes Balears,1995,Meat_pigs,pigs meat production,Gg N,0.1856916519892031
 28210,ES53,Illes Balears,1995,Meat_poultry,poultry meat production,Gg N,0.07634774639719921
-28211,ES53,Illes Balears,1995,Agri_total,total agricultural production,Gg N,3.48106096928517
+28211,ES53,Illes Balears,1995,Agri_total,total agricultural production,Gg N,3.4841579512860057
 28212,ES53,Illes Balears,1995,M_ingestion,monogastric ingestion,Gg N,2.0806420121503617
 28213,ES53,Illes Balears,1995,R_ingestion,ruminant ingestion,Gg N,8.072126409520678
 28214,ES53,Illes Balears,1995,total_A_ingestion,total animal ingestion,Gg N,10.15276842167104
-28215,ES53,Illes Balears,1995,L_density,livestock density,LU/haUAA,0.7108316516542457
-28216,ES53,Illes Balears,1995,F_import,net import feed,Gg N,8.05572626716069
-28217,ES53,Illes Balears,1995,H_total,total crop production,Gg N,2.3599073934074415
+28215,ES53,Illes Balears,1995,L_density,livestock density,LU/haUAA,0.710796665179546
+28216,ES53,Illes Balears,1995,F_import,net import feed,Gg N,8.052629285159853
+28217,ES53,Illes Balears,1995,H_total,total crop production,Gg N,2.363004375408277
 28218,ES53,Illes Balears,1995,C_total,total cereal production,Gg N,0.4437350126450327
 28219,ES53,Illes Balears,1995,PG_H,permanent grassland production,Gg N,0.37129465226617914
-28220,ES53,Illes Balears,1995,F_ingestion,effective fodder ingestion,Gg N,1.7257475022441708
-28221,ES53,Illes Balears,1995,total_N_input,soil N input from manure,%,50.77648202362749
-28222,ES53,Illes Balears,1995,NS,soil N surplus,kgN/ha,54.35513828078698
-28223,ES53,Illes Balears,1995,NUE,NUE arable,no unit,0.4234382227987991
+28220,ES53,Illes Balears,1995,F_ingestion,effective fodder ingestion,Gg N,1.7288444842450064
+28221,ES53,Illes Balears,1995,total_N_input,soil N input from manure,%,50.72461958454325
+28222,ES53,Illes Balears,1995,NS,soil N surplus,kgN/ha,54.40319856365848
+28223,ES53,Illes Balears,1995,NUE,NUE arable,no unit,0.4235661904232658
 28224,ES53,Illes Balears,1996,H_ingestion,total human ingestion,Gg N,4.757195424190033
 28225,ES53,Illes Balears,1996,H_ingestion_cereals,total human ingestion of cereal,Gg N,1.0904918399999999
 28226,ES53,Illes Balears,1996,E_total,total animal excretion,Gg N,9.346328735977966
@@ -28258,19 +28258,19 @@
 28256,ES53,Illes Balears,1997,Meat_goats,goats meat production,Gg N,0.003198047070605909
 28257,ES53,Illes Balears,1997,Meat_pigs,pigs meat production,Gg N,0.34258009530556927
 28258,ES53,Illes Balears,1997,Meat_poultry,poultry meat production,Gg N,0.07353443040026243
-28259,ES53,Illes Balears,1997,Agri_total,total agricultural production,Gg N,3.9629985482157983
+28259,ES53,Illes Balears,1997,Agri_total,total agricultural production,Gg N,3.9851484258525205
 28260,ES53,Illes Balears,1997,M_ingestion,monogastric ingestion,Gg N,2.278895893007556
 28261,ES53,Illes Balears,1997,R_ingestion,ruminant ingestion,Gg N,6.876980308360693
 28262,ES53,Illes Balears,1997,total_A_ingestion,total animal ingestion,Gg N,9.15587620136825
-28263,ES53,Illes Balears,1997,L_density,livestock density,LU/haUAA,0.5243468142254643
-28264,ES53,Illes Balears,1997,F_import,net import feed,Gg N,6.974183273464623
-28265,ES53,Illes Balears,1997,H_total,total crop production,Gg N,2.851155555900509
+28263,ES53,Illes Balears,1997,L_density,livestock density,LU/haUAA,0.5237827908616698
+28264,ES53,Illes Balears,1997,F_import,net import feed,Gg N,6.952033395827901
+28265,ES53,Illes Balears,1997,H_total,total crop production,Gg N,2.8733054335372312
 28266,ES53,Illes Balears,1997,C_total,total cereal production,Gg N,0.7269724765221391
 28267,ES53,Illes Balears,1997,PG_H,permanent grassland production,Gg N,0.37244584852525686
-28268,ES53,Illes Balears,1997,F_ingestion,effective fodder ingestion,Gg N,1.8092470793783697
-28269,ES53,Illes Balears,1997,total_N_input,soil N input from manure,%,44.67267270413095
-28270,ES53,Illes Balears,1997,NS,soil N surplus,kgN/ha,36.00583605216472
-28271,ES53,Illes Balears,1997,NUE,NUE arable,no unit,0.5185739304258562
+28268,ES53,Illes Balears,1997,F_ingestion,effective fodder ingestion,Gg N,1.8313969570150919
+28269,ES53,Illes Balears,1997,total_N_input,soil N input from manure,%,44.31727545642896
+28270,ES53,Illes Balears,1997,NS,soil N surplus,kgN/ha,36.27723008469398
+28271,ES53,Illes Balears,1997,NUE,NUE arable,no unit,0.5184963188650678
 28272,ES53,Illes Balears,1998,H_ingestion,total human ingestion,Gg N,4.908289182122063
 28273,ES53,Illes Balears,1998,H_ingestion_cereals,total human ingestion of cereal,Gg N,1.12512706
 28274,ES53,Illes Balears,1998,E_total,total animal excretion,Gg N,8.279776290406595
@@ -59050,19 +59050,19 @@
 59048,NO,Norge,1990,Meat_goats,goats meat production,Gg N,0.0075472
 59049,NO,Norge,1990,Meat_pigs,pigs meat production,Gg N,2.3581258
 59050,NO,Norge,1990,Meat_poultry,poultry meat production,Gg N,0.4101912
-59051,NO,Norge,1990,Agri_total,total agricultural production,Gg N,296.53313304843704
+59051,NO,Norge,1990,Agri_total,total agricultural production,Gg N,154.76753142433947
 59052,NO,Norge,1990,M_ingestion,monogastric ingestion,Gg N,15.6416073
 59053,NO,Norge,1990,R_ingestion,ruminant ingestion,Gg N,111.6900524
 59054,NO,Norge,1990,total_A_ingestion,total animal ingestion,Gg N,127.3316597
 59055,NO,Norge,1990,L_density,livestock density,LU/haUAA,0.8424211259423969
 59056,NO,Norge,1990,F_import,net import feed,Gg N,0.0
-59057,NO,Norge,1990,H_total,total crop production,Gg N,280.05949074843704
+59057,NO,Norge,1990,H_total,total crop production,Gg N,138.29388912433947
 59058,NO,Norge,1990,C_total,total cereal production,Gg N,26.896451440232017
 59059,NO,Norge,1990,PG_H,permanent grassland production,Gg N,7.060300000000001
-59060,NO,Norge,1990,F_ingestion,effective fodder ingestion,Gg N,120.2713597
-59061,NO,Norge,1990,total_N_input,soil N input from manure,%,10.965501700702578
-59062,NO,Norge,1990,NS,soil N surplus,kgN/ha,128.80535550365693
-59063,NO,Norge,1990,NUE,NUE arable,no unit,0.5955798925433103
+59060,NO,Norge,1990,F_ingestion,effective fodder ingestion,Gg N,109.88453014757863
+59061,NO,Norge,1990,total_N_input,soil N input from manure,%,17.154477670048415
+59062,NO,Norge,1990,NS,soil N surplus,kgN/ha,107.32656074107416
+59063,NO,Norge,1990,NUE,NUE arable,no unit,0.4600620447227155
 59064,NO,Norge,1991,H_ingestion,total human ingestion,Gg N,27.355791597315086
 59065,NO,Norge,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,6.842226300000001
 59066,NO,Norge,1991,E_total,total animal excretion,Gg N,108.33173929999998
@@ -59074,19 +59074,19 @@
 59072,NO,Norge,1991,Meat_goats,goats meat production,Gg N,0.0067416
 59073,NO,Norge,1991,Meat_pigs,pigs meat production,Gg N,2.4187727
 59074,NO,Norge,1991,Meat_poultry,poultry meat production,Gg N,0.37897559999999997
-59075,NO,Norge,1991,Agri_total,total agricultural production,Gg N,297.19308142293323
+59075,NO,Norge,1991,Agri_total,total agricultural production,Gg N,153.9903965100973
 59076,NO,Norge,1991,M_ingestion,monogastric ingestion,Gg N,15.8475335
 59077,NO,Norge,1991,R_ingestion,ruminant ingestion,Gg N,113.30750599999999
 59078,NO,Norge,1991,total_A_ingestion,total animal ingestion,Gg N,129.1550395
 59079,NO,Norge,1991,L_density,livestock density,LU/haUAA,0.8630401840188022
 59080,NO,Norge,1991,F_import,net import feed,Gg N,0.0
-59081,NO,Norge,1991,H_total,total crop production,Gg N,281.32508222293325
+59081,NO,Norge,1991,H_total,total crop production,Gg N,138.1223973100973
 59082,NO,Norge,1991,C_total,total cereal production,Gg N,26.90927962598986
 59083,NO,Norge,1991,PG_H,permanent grassland production,Gg N,7.060300000000001
-59084,NO,Norge,1991,F_ingestion,effective fodder ingestion,Gg N,122.09473949999999
-59085,NO,Norge,1991,total_N_input,soil N input from manure,%,11.243004926681373
-59086,NO,Norge,1991,NS,soil N surplus,kgN/ha,129.1849409619363
-59087,NO,Norge,1991,NUE,NUE arable,no unit,0.5956146053010799
+59084,NO,Norge,1991,F_ingestion,effective fodder ingestion,Gg N,109.88453014757863
+59085,NO,Norge,1991,total_N_input,soil N input from manure,%,17.642828126833248
+59086,NO,Norge,1991,NS,soil N surplus,kgN/ha,107.51542957204532
+59087,NO,Norge,1991,NUE,NUE arable,no unit,0.458861173611345
 59088,NO,Norge,1992,H_ingestion,total human ingestion,Gg N,27.509015905859783
 59089,NO,Norge,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,6.88055074
 59090,NO,Norge,1992,E_total,total animal excretion,Gg N,109.9142307
@@ -59098,19 +59098,19 @@
 59096,NO,Norge,1992,Meat_goats,goats meat production,Gg N,0.0068052
 59097,NO,Norge,1992,Meat_pigs,pigs meat production,Gg N,2.5792620000000004
 59098,NO,Norge,1992,Meat_poultry,poultry meat production,Gg N,0.424764
-59099,NO,Norge,1992,Agri_total,total agricultural production,Gg N,299.16886277873954
+59099,NO,Norge,1992,Agri_total,total agricultural production,Gg N,154.53020219585517
 59100,NO,Norge,1992,M_ingestion,monogastric ingestion,Gg N,16.6157984
 59101,NO,Norge,1992,R_ingestion,ruminant ingestion,Gg N,114.7110486
 59102,NO,Norge,1992,total_A_ingestion,total animal ingestion,Gg N,131.32684700000001
 59103,NO,Norge,1992,L_density,livestock density,LU/haUAA,0.8756473264674437
 59104,NO,Norge,1992,F_import,net import feed,Gg N,0.0
-59105,NO,Norge,1992,H_total,total crop production,Gg N,283.0196460787395
+59105,NO,Norge,1992,H_total,total crop production,Gg N,138.38098549585516
 59106,NO,Norge,1992,C_total,total cereal production,Gg N,26.922107811747708
 59107,NO,Norge,1992,PG_H,permanent grassland production,Gg N,7.060300000000001
-59108,NO,Norge,1992,F_ingestion,effective fodder ingestion,Gg N,124.26654700000002
-59109,NO,Norge,1992,total_N_input,soil N input from manure,%,11.361967337951091
-59110,NO,Norge,1992,NS,soil N surplus,kgN/ha,128.4993545922439
-59111,NO,Norge,1992,NUE,NUE arable,no unit,0.5982380396912361
+59108,NO,Norge,1992,F_ingestion,effective fodder ingestion,Gg N,109.88453014757863
+59109,NO,Norge,1992,total_N_input,soil N input from manure,%,17.913194728161987
+59110,NO,Norge,1992,NS,soil N surplus,kgN/ha,106.6382730758398
+59111,NO,Norge,1992,NUE,NUE arable,no unit,0.4611347328260327
 59112,NO,Norge,1993,H_ingestion,total human ingestion,Gg N,27.67336963926894
 59113,NO,Norge,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,6.92165887
 59114,NO,Norge,1993,E_total,total animal excretion,Gg N,108.7470564
@@ -59122,19 +59122,19 @@
 59120,NO,Norge,1993,Meat_goats,goats meat production,Gg N,0.0067416
 59121,NO,Norge,1993,Meat_pigs,pigs meat production,Gg N,2.5493489
 59122,NO,Norge,1993,Meat_poultry,poultry meat production,Gg N,0.4019526
-59123,NO,Norge,1993,Agri_total,total agricultural production,Gg N,300.408736130425
+59123,NO,Norge,1993,Agri_total,total agricultural production,Gg N,154.97133900887235
 59124,NO,Norge,1993,M_ingestion,monogastric ingestion,Gg N,16.3642144
 59125,NO,Norge,1993,R_ingestion,ruminant ingestion,Gg N,113.69242270000001
 59126,NO,Norge,1993,total_A_ingestion,total animal ingestion,Gg N,130.0566371
 59127,NO,Norge,1993,L_density,livestock density,LU/haUAA,0.8663488666701311
 59128,NO,Norge,1993,F_import,net import feed,Gg N,0.0
-59129,NO,Norge,1993,H_total,total crop production,Gg N,284.32310973042496
+59129,NO,Norge,1993,H_total,total crop production,Gg N,138.88571260887235
 59130,NO,Norge,1993,C_total,total cereal production,Gg N,26.93493599750555
 59131,NO,Norge,1993,PG_H,permanent grassland production,Gg N,7.060300000000001
-59132,NO,Norge,1993,F_ingestion,effective fodder ingestion,Gg N,122.99633709999999
-59133,NO,Norge,1993,total_N_input,soil N input from manure,%,11.191474613378393
-59134,NO,Norge,1993,NS,soil N surplus,kgN/ha,125.85587121810808
-59135,NO,Norge,1993,NUE,NUE arable,no unit,0.604357175382623
+59132,NO,Norge,1993,F_ingestion,effective fodder ingestion,Gg N,110.49948532760874
+59133,NO,Norge,1993,total_N_input,soil N input from manure,%,17.75952093355141
+59134,NO,Norge,1993,NS,soil N surplus,kgN/ha,103.86182347248034
+59135,NO,Norge,1993,NUE,NUE arable,no unit,0.4684438694223772
 59136,NO,Norge,1994,H_ingestion,total human ingestion,Gg N,27.838463617825244
 59137,NO,Norge,1994,H_ingestion_cereals,total human ingestion of cereal,Gg N,6.9629521500000005
 59138,NO,Norge,1994,E_total,total animal excretion,Gg N,110.2683822
@@ -59146,19 +59146,19 @@
 59144,NO,Norge,1994,Meat_goats,goats meat production,Gg N,0.0069324
 59145,NO,Norge,1994,Meat_pigs,pigs meat production,Gg N,2.5791205
 59146,NO,Norge,1994,Meat_poultry,poultry meat production,Gg N,0.46276920000000005
-59147,NO,Norge,1994,Agri_total,total agricultural production,Gg N,299.5262994821041
+59147,NO,Norge,1994,Agri_total,total agricultural production,Gg N,153.33944492589325
 59148,NO,Norge,1994,M_ingestion,monogastric ingestion,Gg N,16.542754300000002
 59149,NO,Norge,1994,R_ingestion,ruminant ingestion,Gg N,115.2241545
 59150,NO,Norge,1994,total_A_ingestion,total animal ingestion,Gg N,131.7669088
 59151,NO,Norge,1994,L_density,livestock density,LU/haUAA,0.8784687246809822
 59152,NO,Norge,1994,F_import,net import feed,Gg N,0.0
-59153,NO,Norge,1994,H_total,total crop production,Gg N,283.4839435821041
+59153,NO,Norge,1994,H_total,total crop production,Gg N,137.29708902589323
 59154,NO,Norge,1994,C_total,total cereal production,Gg N,24.823444183263398
 59155,NO,Norge,1994,PG_H,permanent grassland production,Gg N,7.060300000000001
-59156,NO,Norge,1994,F_ingestion,effective fodder ingestion,Gg N,124.70660880000001
-59157,NO,Norge,1994,total_N_input,soil N input from manure,%,11.156782563402178
-59158,NO,Norge,1994,NS,soil N surplus,kgN/ha,130.73529053127692
-59159,NO,Norge,1994,NUE,NUE arable,no unit,0.5950473366910985
+59156,NO,Norge,1994,F_ingestion,effective fodder ingestion,Gg N,111.11725007091837
+59157,NO,Norge,1994,total_N_input,soil N input from manure,%,17.631983000388363
+59158,NO,Norge,1994,NS,soil N surplus,kgN/ha,108.57413115682988
+59159,NO,Norge,1994,NUE,NUE arable,no unit,0.455428912697857
 59160,NO,Norge,1995,H_ingestion,total human ingestion,Gg N,27.99034261127643
 59161,NO,Norge,1995,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.0009401
 59162,NO,Norge,1995,E_total,total animal excretion,Gg N,111.65774050000002
@@ -59170,19 +59170,19 @@
 59168,NO,Norge,1995,Meat_goats,goats meat production,Gg N,0.0068688
 59169,NO,Norge,1995,Meat_pigs,pigs meat production,Gg N,2.7118192000000003
 59170,NO,Norge,1995,Meat_poultry,poultry meat production,Gg N,0.5056596
-59171,NO,Norge,1995,Agri_total,total agricultural production,Gg N,302.39367908913755
+59171,NO,Norge,1995,Agri_total,total agricultural production,Gg N,155.3374821910255
 59172,NO,Norge,1995,M_ingestion,monogastric ingestion,Gg N,16.9987196
 59173,NO,Norge,1995,R_ingestion,ruminant ingestion,Gg N,116.1560644
 59174,NO,Norge,1995,total_A_ingestion,total animal ingestion,Gg N,133.154784
 59175,NO,Norge,1995,L_density,livestock density,LU/haUAA,0.8929217915188021
 59176,NO,Norge,1995,F_import,net import feed,Gg N,0.0
-59177,NO,Norge,1995,H_total,total crop production,Gg N,286.43094118913757
+59177,NO,Norge,1995,H_total,total crop production,Gg N,139.37474429102548
 59178,NO,Norge,1995,C_total,total cereal production,Gg N,26.347232369021242
 59179,NO,Norge,1995,PG_H,permanent grassland production,Gg N,7.060300000000001
-59180,NO,Norge,1995,F_ingestion,effective fodder ingestion,Gg N,126.09448400000001
-59181,NO,Norge,1995,total_N_input,soil N input from manure,%,11.137320090150862
-59182,NO,Norge,1995,NS,soil N surplus,kgN/ha,131.8225357050176
-59183,NO,Norge,1995,NUE,NUE arable,no unit,0.5963366615010098
+59180,NO,Norge,1995,F_ingestion,effective fodder ingestion,Gg N,111.72972530809083
+59181,NO,Norge,1995,total_N_input,soil N input from manure,%,17.57457021227686
+59182,NO,Norge,1995,NS,soil N surplus,kgN/ha,109.48308242453096
+59183,NO,Norge,1995,NUE,NUE arable,no unit,0.4578615813096471
 59184,NO,Norge,1996,H_ingestion,total human ingestion,Gg N,28.12903880419411
 59185,NO,Norge,1996,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.035630770000001
 59186,NO,Norge,1996,E_total,total animal excretion,Gg N,113.7257488
@@ -59194,19 +59194,19 @@
 59192,NO,Norge,1996,Meat_goats,goats meat production,Gg N,0.0066568
 59193,NO,Norge,1996,Meat_pigs,pigs meat production,Gg N,2.9241541
 59194,NO,Norge,1996,Meat_poultry,poultry meat production,Gg N,0.5703264
-59195,NO,Norge,1996,Agri_total,total agricultural production,Gg N,312.0062671016708
+59195,NO,Norge,1996,Agri_total,total agricultural production,Gg N,160.40250182449665
 59196,NO,Norge,1996,M_ingestion,monogastric ingestion,Gg N,17.906302
 59197,NO,Norge,1996,R_ingestion,ruminant ingestion,Gg N,117.7849204
 59198,NO,Norge,1996,total_A_ingestion,total animal ingestion,Gg N,135.69122240000002
 59199,NO,Norge,1996,L_density,livestock density,LU/haUAA,0.8912264064582655
 59200,NO,Norge,1996,F_import,net import feed,Gg N,0.0
-59201,NO,Norge,1996,H_total,total crop production,Gg N,295.8561318016708
+59201,NO,Norge,1996,H_total,total crop production,Gg N,144.25236652449667
 59202,NO,Norge,1996,C_total,total cereal production,Gg N,27.87102055477909
 59203,NO,Norge,1996,PG_H,permanent grassland production,Gg N,7.060300000000001
-59204,NO,Norge,1996,F_ingestion,effective fodder ingestion,Gg N,128.6309224
-59205,NO,Norge,1996,total_N_input,soil N input from manure,%,11.132199873055107
-59206,NO,Norge,1996,NS,soil N surplus,kgN/ha,129.51899968021775
-59207,NO,Norge,1996,NUE,NUE arable,no unit,0.6026727576447486
+59204,NO,Norge,1996,F_ingestion,effective fodder ingestion,Gg N,115.01132730959336
+59205,NO,Norge,1996,total_N_input,soil N input from manure,%,17.654857049115883
+59206,NO,Norge,1996,NS,soil N surplus,kgN/ha,107.0163015460049
+59207,NO,Norge,1996,NUE,NUE arable,no unit,0.4659964202501351
 59208,NO,Norge,1997,H_ingestion,total human ingestion,Gg N,28.275523663442623
 59209,NO,Norge,1997,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.07226954
 59210,NO,Norge,1997,E_total,total animal excretion,Gg N,113.8146289
@@ -59218,19 +59218,19 @@
 59216,NO,Norge,1997,Meat_goats,goats meat production,Gg N,0.0067204000000000005
 59217,NO,Norge,1997,Meat_pigs,pigs meat production,Gg N,2.982537
 59218,NO,Norge,1997,Meat_poultry,poultry meat production,Gg N,0.607959
-59219,NO,Norge,1997,Agri_total,total agricultural production,Gg N,319.7956415319177
+59219,NO,Norge,1997,Agri_total,total agricultural production,Gg N,163.5739814220428
 59220,NO,Norge,1997,M_ingestion,monogastric ingestion,Gg N,18.0937565
 59221,NO,Norge,1997,R_ingestion,ruminant ingestion,Gg N,117.9311368
 59222,NO,Norge,1997,total_A_ingestion,total animal ingestion,Gg N,136.0248933
 59223,NO,Norge,1997,L_density,livestock density,LU/haUAA,0.8786372514031899
 59224,NO,Norge,1997,F_import,net import feed,Gg N,0.0
-59225,NO,Norge,1997,H_total,total crop production,Gg N,303.5439965319177
+59225,NO,Norge,1997,H_total,total crop production,Gg N,147.3223364220428
 59226,NO,Norge,1997,C_total,total cereal production,Gg N,27.556488740536935
 59227,NO,Norge,1997,PG_H,permanent grassland production,Gg N,7.060300000000001
-59228,NO,Norge,1997,F_ingestion,effective fodder ingestion,Gg N,128.9645933
-59229,NO,Norge,1997,total_N_input,soil N input from manure,%,10.902324751829788
-59230,NO,Norge,1997,NS,soil N surplus,kgN/ha,127.77305502160392
-59231,NO,Norge,1997,NUE,NUE arable,no unit,0.608136481125579
+59228,NO,Norge,1997,F_ingestion,effective fodder ingestion,Gg N,118.29538262504371
+59229,NO,Norge,1997,total_N_input,soil N input from manure,%,17.428248889601182
+59230,NO,Norge,1997,NS,soil N surplus,kgN/ha,104.9702656571782
+59231,NO,Norge,1997,NUE,NUE arable,no unit,0.4718006017317609
 59232,NO,Norge,1998,H_ingestion,total human ingestion,Gg N,28.435706276370478
 59233,NO,Norge,1998,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.112334390000001
 59234,NO,Norge,1998,E_total,total animal excretion,Gg N,114.8383132
@@ -59242,19 +59242,19 @@
 59240,NO,Norge,1998,Meat_goats,goats meat production,Gg N,0.0063387999999999995
 59241,NO,Norge,1998,Meat_pigs,pigs meat production,Gg N,3.0104691
 59242,NO,Norge,1998,Meat_poultry,poultry meat production,Gg N,0.5705955
-59243,NO,Norge,1998,Agri_total,total agricultural production,Gg N,320.9773681498648
+59243,NO,Norge,1998,Agri_total,total agricultural production,Gg N,163.65637745825452
 59244,NO,Norge,1998,M_ingestion,monogastric ingestion,Gg N,18.4300234
 59245,NO,Norge,1998,R_ingestion,ruminant ingestion,Gg N,118.55989129999999
 59246,NO,Norge,1998,total_A_ingestion,total animal ingestion,Gg N,136.98991469999999
 59247,NO,Norge,1998,L_density,livestock density,LU/haUAA,0.8906309589593936
 59248,NO,Norge,1998,F_import,net import feed,Gg N,0.0
-59249,NO,Norge,1998,H_total,total crop production,Gg N,304.7976174498648
+59249,NO,Norge,1998,H_total,total crop production,Gg N,147.47662675825453
 59250,NO,Norge,1998,C_total,total cereal production,Gg N,26.800196926294774
 59251,NO,Norge,1998,PG_H,permanent grassland production,Gg N,7.060300000000001
-59252,NO,Norge,1998,F_ingestion,effective fodder ingestion,Gg N,129.92961469999997
-59253,NO,Norge,1998,total_N_input,soil N input from manure,%,11.088652092092467
-59254,NO,Norge,1998,NS,soil N surplus,kgN/ha,126.48745595771724
-59255,NO,Norge,1998,NUE,NUE arable,no unit,0.6129428994508259
+59252,NO,Norge,1998,F_ingestion,effective fodder ingestion,Gg N,119.32020663756188
+59253,NO,Norge,1998,total_N_input,soil N input from manure,%,17.837509081984066
+59254,NO,Norge,1998,NS,soil N surplus,kgN/ha,103.45801970177358
+59255,NO,Norge,1998,NUE,NUE arable,no unit,0.4770488965050406
 59256,NO,Norge,1999,H_ingestion,total human ingestion,Gg N,28.61420191054727
 59257,NO,Norge,1999,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.15697969
 59258,NO,Norge,1999,E_total,total animal excretion,Gg N,113.8987288
@@ -59266,19 +59266,19 @@
 59264,NO,Norge,1999,Meat_goats,goats meat production,Gg N,0.0056604
 59265,NO,Norge,1999,Meat_pigs,pigs meat production,Gg N,3.0887469000000003
 59266,NO,Norge,1999,Meat_poultry,poultry meat production,Gg N,0.6636213
-59267,NO,Norge,1999,Agri_total,total agricultural production,Gg N,321.70896240718787
+59267,NO,Norge,1999,Agri_total,total agricultural production,Gg N,163.8725926334643
 59268,NO,Norge,1999,M_ingestion,monogastric ingestion,Gg N,18.2283637
 59269,NO,Norge,1999,R_ingestion,ruminant ingestion,Gg N,118.244232
 59270,NO,Norge,1999,total_A_ingestion,total animal ingestion,Gg N,136.4725957
 59271,NO,Norge,1999,L_density,livestock density,LU/haUAA,0.8769272228314953
 59272,NO,Norge,1999,F_import,net import feed,Gg N,0.0
-59273,NO,Norge,1999,H_total,total crop production,Gg N,305.39933050718787
+59273,NO,Norge,1999,H_total,total crop production,Gg N,147.5629607334643
 59274,NO,Norge,1999,C_total,total cereal production,Gg N,26.886945112052622
 59275,NO,Norge,1999,PG_H,permanent grassland production,Gg N,7.060300000000001
-59276,NO,Norge,1999,F_ingestion,effective fodder ingestion,Gg N,129.4122957
-59277,NO,Norge,1999,total_N_input,soil N input from manure,%,10.916891081730984
-59278,NO,Norge,1999,NS,soil N surplus,kgN/ha,125.19653288696328
-59279,NO,Norge,1999,NUE,NUE arable,no unit,0.6140456378268182
+59276,NO,Norge,1999,F_ingestion,effective fodder ingestion,Gg N,119.47088355244615
+59277,NO,Norge,1999,total_N_input,soil N input from manure,%,17.59748395210823
+59278,NO,Norge,1999,NS,soil N surplus,kgN/ha,102.24183217515667
+59279,NO,Norge,1999,NUE,NUE arable,no unit,0.4782305472980283
 59280,NO,Norge,2000,H_ingestion,total human ingestion,Gg N,28.827701484812533
 59281,NO,Norge,2000,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.2103801700000005
 59282,NO,Norge,2000,E_total,total animal excretion,Gg N,114.3574603
@@ -59290,19 +59290,19 @@
 59288,NO,Norge,2000,Meat_goats,goats meat production,Gg N,0.005512
 59289,NO,Norge,2000,Meat_pigs,pigs meat production,Gg N,2.9105418000000003
 59290,NO,Norge,2000,Meat_poultry,poultry meat production,Gg N,0.7889597999999999
-59291,NO,Norge,2000,Agri_total,total agricultural production,Gg N,320.3102686246726
+59291,NO,Norge,2000,Agri_total,total agricultural production,Gg N,162.19479613014497
 59292,NO,Norge,2000,M_ingestion,monogastric ingestion,Gg N,22.1556802
 59293,NO,Norge,2000,R_ingestion,ruminant ingestion,Gg N,114.0756828
 59294,NO,Norge,2000,total_A_ingestion,total animal ingestion,Gg N,136.231363
 59295,NO,Norge,2000,L_density,livestock density,LU/haUAA,0.8944490615420182
 59296,NO,Norge,2000,F_import,net import feed,Gg N,0.0
-59297,NO,Norge,2000,H_total,total crop production,Gg N,304.6326403246726
+59297,NO,Norge,2000,H_total,total crop production,Gg N,146.51716783014496
 59298,NO,Norge,2000,C_total,total cereal production,Gg N,25.900621297810467
 59299,NO,Norge,2000,PG_H,permanent grassland production,Gg N,7.060300000000001
-59300,NO,Norge,2000,F_ingestion,effective fodder ingestion,Gg N,129.17106299999998
-59301,NO,Norge,2000,total_N_input,soil N input from manure,%,11.05233654210316
-59302,NO,Norge,2000,NS,soil N surplus,kgN/ha,129.0573349216087
-59303,NO,Norge,2000,NUE,NUE arable,no unit,0.6107221210449177
+59300,NO,Norge,2000,F_ingestion,effective fodder ingestion,Gg N,119.4287576794455
+59301,NO,Norge,2000,total_N_input,soil N input from manure,%,17.813120361716084
+59302,NO,Norge,2000,NS,soil N surplus,kgN/ha,105.51886645996792
+59303,NO,Norge,2000,NUE,NUE arable,no unit,0.4733878842619516
 59304,NO,Norge,2001,H_ingestion,total human ingestion,Gg N,28.988231691113825
 59305,NO,Norge,2001,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.250531960000001
 59306,NO,Norge,2001,E_total,total animal excretion,Gg N,109.89213800000002
@@ -59314,19 +59314,19 @@
 59312,NO,Norge,2001,Meat_goats,goats meat production,Gg N,0.0053212
 59313,NO,Norge,2001,Meat_pigs,pigs meat production,Gg N,3.0769741
 59314,NO,Norge,2001,Meat_poultry,poultry meat production,Gg N,0.7726067999999999
-59315,NO,Norge,2001,Agri_total,total agricultural production,Gg N,321.21991504365053
+59315,NO,Norge,2001,Agri_total,total agricultural production,Gg N,163.1934243881723
 59316,NO,Norge,2001,M_ingestion,monogastric ingestion,Gg N,17.879001800000005
 59317,NO,Norge,2001,R_ingestion,ruminant ingestion,Gg N,113.70214750000001
 59318,NO,Norge,2001,total_A_ingestion,total animal ingestion,Gg N,131.58114930000002
 59319,NO,Norge,2001,L_density,livestock density,LU/haUAA,0.8537340676397902
 59320,NO,Norge,2001,F_import,net import feed,Gg N,0.0
-59321,NO,Norge,2001,H_total,total crop production,Gg N,305.7130140436505
+59321,NO,Norge,2001,H_total,total crop production,Gg N,147.6865233881723
 59322,NO,Norge,2001,C_total,total cereal production,Gg N,26.786761483568316
 59323,NO,Norge,2001,PG_H,permanent grassland production,Gg N,7.060300000000001
-59324,NO,Norge,2001,F_ingestion,effective fodder ingestion,Gg N,124.52084930000002
-59325,NO,Norge,2001,total_N_input,soil N input from manure,%,10.73042329594895
-59326,NO,Norge,2001,NS,soil N surplus,kgN/ha,118.36151451820504
-59327,NO,Norge,2001,NUE,NUE arable,no unit,0.6296214633311723
+59324,NO,Norge,2001,F_ingestion,effective fodder ingestion,Gg N,119.65186120425062
+59325,NO,Norge,2001,total_N_input,soil N input from manure,%,17.533893663985378
+59326,NO,Norge,2001,NS,soil N surplus,kgN/ha,95.6211049851036
+59327,NO,Norge,2001,NUE,NUE arable,no unit,0.4969855680266061
 59328,NO,Norge,2002,H_ingestion,total human ingestion,Gg N,29.121025233597315
 59329,NO,Norge,2002,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.283746260000001
 59330,NO,Norge,2002,E_total,total animal excretion,Gg N,112.4094326
@@ -59338,19 +59338,19 @@
 59336,NO,Norge,2002,Meat_goats,goats meat production,Gg N,0.0054272
 59337,NO,Norge,2002,Meat_pigs,pigs meat production,Gg N,2.9431434000000003
 59338,NO,Norge,2002,Meat_poultry,poultry meat production,Gg N,0.8405234999999999
-59339,NO,Norge,2002,Agri_total,total agricultural production,Gg N,323.33621521827195
+59339,NO,Norge,2002,Agri_total,total agricultural production,Gg N,163.60228227251616
 59340,NO,Norge,2002,M_ingestion,monogastric ingestion,Gg N,21.9317318
 59341,NO,Norge,2002,R_ingestion,ruminant ingestion,Gg N,112.05069739999999
 59342,NO,Norge,2002,total_A_ingestion,total animal ingestion,Gg N,133.9824292
 59343,NO,Norge,2002,L_density,livestock density,LU/haUAA,0.8681310762407023
 59344,NO,Norge,2002,F_import,net import feed,Gg N,0.0
-59345,NO,Norge,2002,H_total,total crop production,Gg N,307.95825721827197
+59345,NO,Norge,2002,H_total,total crop production,Gg N,148.22432427251616
 59346,NO,Norge,2002,C_total,total cereal production,Gg N,26.26384566932616
 59347,NO,Norge,2002,PG_H,permanent grassland production,Gg N,7.060300000000001
-59348,NO,Norge,2002,F_ingestion,effective fodder ingestion,Gg N,126.92212920000001
-59349,NO,Norge,2002,total_N_input,soil N input from manure,%,10.94945496352831
-59350,NO,Norge,2002,NS,soil N surplus,kgN/ha,119.03914009896916
-59351,NO,Norge,2002,NUE,NUE arable,no unit,0.6282704658529489
+59348,NO,Norge,2002,F_ingestion,effective fodder ingestion,Gg N,120.77522441697002
+59349,NO,Norge,2002,total_N_input,soil N input from manure,%,17.868261624147564
+59350,NO,Norge,2002,NS,soil N surplus,kgN/ha,96.68216924380296
+59351,NO,Norge,2002,NUE,NUE arable,no unit,0.4934462755999161
 59352,NO,Norge,2003,H_ingestion,total human ingestion,Gg N,29.302456100705395
 59353,NO,Norge,2003,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.32912572
 59354,NO,Norge,2003,E_total,total animal excretion,Gg N,113.1606101
@@ -59362,19 +59362,19 @@
 59360,NO,Norge,2003,Meat_goats,goats meat production,Gg N,0.0054272
 59361,NO,Norge,2003,Meat_pigs,pigs meat production,Gg N,2.9999981000000004
 59362,NO,Norge,2003,Meat_poultry,poultry meat production,Gg N,0.8902863
-59363,NO,Norge,2003,Agri_total,total agricultural production,Gg N,324.5860106605591
+59363,NO,Norge,2003,Agri_total,total agricultural production,Gg N,164.17323744652745
 59364,NO,Norge,2003,M_ingestion,monogastric ingestion,Gg N,22.919432
 59365,NO,Norge,2003,R_ingestion,ruminant ingestion,Gg N,112.11976000000001
 59366,NO,Norge,2003,total_A_ingestion,total animal ingestion,Gg N,135.039192
 59367,NO,Norge,2003,L_density,livestock density,LU/haUAA,0.886030368897704
 59368,NO,Norge,2003,F_import,net import feed,Gg N,0.0
-59369,NO,Norge,2003,H_total,total crop production,Gg N,308.9857017605591
+59369,NO,Norge,2003,H_total,total crop production,Gg N,148.57292854652746
 59370,NO,Norge,2003,C_total,total cereal production,Gg N,26.135697855084004
 59371,NO,Norge,2003,PG_H,permanent grassland production,Gg N,7.060300000000001
-59372,NO,Norge,2003,F_ingestion,effective fodder ingestion,Gg N,127.97889200000002
-59373,NO,Norge,2003,total_N_input,soil N input from manure,%,10.965678178554947
-59374,NO,Norge,2003,NS,soil N surplus,kgN/ha,124.4115334175144
-59375,NO,Norge,2003,NUE,NUE arable,no unit,0.6225110807357986
+59372,NO,Norge,2003,F_ingestion,effective fodder ingestion,Gg N,121.22271333143512
+59373,NO,Norge,2003,total_N_input,soil N input from manure,%,17.816525448636618
+59374,NO,Norge,2003,NS,soil N surplus,kgN/ha,101.41532828245288
+59375,NO,Norge,2003,NUE,NUE arable,no unit,0.4863083675676299
 59376,NO,Norge,2004,H_ingestion,total human ingestion,Gg N,29.464698526216612
 59377,NO,Norge,2004,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.36970577
 59378,NO,Norge,2004,E_total,total animal excretion,Gg N,112.291661
@@ -59386,19 +59386,19 @@
 59384,NO,Norge,2004,Meat_goats,goats meat production,Gg N,0.0051516
 59385,NO,Norge,2004,Meat_pigs,pigs meat production,Gg N,3.2116821
 59386,NO,Norge,2004,Meat_poultry,poultry meat production,Gg N,0.978696
-59387,NO,Norge,2004,Agri_total,total agricultural production,Gg N,327.00446527180287
+59387,NO,Norge,2004,Agri_total,total agricultural production,Gg N,165.909048151676
 59388,NO,Norge,2004,M_ingestion,monogastric ingestion,Gg N,23.8899344
 59389,NO,Norge,2004,R_ingestion,ruminant ingestion,Gg N,111.0210395
 59390,NO,Norge,2004,total_A_ingestion,total animal ingestion,Gg N,134.91097390000002
 59391,NO,Norge,2004,L_density,livestock density,LU/haUAA,0.8877344402049707
 59392,NO,Norge,2004,F_import,net import feed,Gg N,0.0
-59393,NO,Norge,2004,H_total,total crop production,Gg N,311.0094428718029
+59393,NO,Norge,2004,H_total,total crop production,Gg N,149.91402575167598
 59394,NO,Norge,2004,C_total,total cereal production,Gg N,26.943518040841848
 59395,NO,Norge,2004,PG_H,permanent grassland production,Gg N,7.060300000000001
-59396,NO,Norge,2004,F_ingestion,effective fodder ingestion,Gg N,127.85067390000002
-59397,NO,Norge,2004,total_N_input,soil N input from manure,%,10.826920647724666
-59398,NO,Norge,2004,NS,soil N surplus,kgN/ha,125.4904614233815
-59399,NO,Norge,2004,NUE,NUE arable,no unit,0.6244529857607874
+59396,NO,Norge,2004,F_ingestion,effective fodder ingestion,Gg N,121.67370948512878
+59397,NO,Norge,2004,total_N_input,soil N input from manure,%,17.6111528121807
+59398,NO,Norge,2004,NS,soil N surplus,kgN/ha,101.99731499273798
+59399,NO,Norge,2004,NUE,NUE arable,no unit,0.4895841833816011
 59400,NO,Norge,2005,H_ingestion,total human ingestion,Gg N,29.65076397163725
 59401,NO,Norge,2005,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.416244430000001
 59402,NO,Norge,2005,E_total,total animal excretion,Gg N,111.8038679
@@ -59410,19 +59410,19 @@
 59408,NO,Norge,2005,Meat_goats,goats meat production,Gg N,0.0057876
 59409,NO,Norge,2005,Meat_pigs,pigs meat production,Gg N,3.1920419000000004
 59410,NO,Norge,2005,Meat_poultry,poultry meat production,Gg N,1.0330335
-59411,NO,Norge,2005,Agri_total,total agricultural production,Gg N,326.75160692772226
+59411,NO,Norge,2005,Agri_total,total agricultural production,Gg N,165.367222398879
 59412,NO,Norge,2005,M_ingestion,monogastric ingestion,Gg N,24.5854325
 59413,NO,Norge,2005,R_ingestion,ruminant ingestion,Gg N,109.89318250000001
 59414,NO,Norge,2005,total_A_ingestion,total animal ingestion,Gg N,134.478615
 59415,NO,Norge,2005,L_density,livestock density,LU/haUAA,0.8775682844347871
 59416,NO,Norge,2005,F_import,net import feed,Gg N,0.0
-59417,NO,Norge,2005,H_total,total crop production,Gg N,310.78083212772225
+59417,NO,Norge,2005,H_total,total crop production,Gg N,149.39644759887898
 59418,NO,Norge,2005,C_total,total cereal production,Gg N,26.239674226599696
 59419,NO,Norge,2005,PG_H,permanent grassland production,Gg N,7.060300000000001
-59420,NO,Norge,2005,F_ingestion,effective fodder ingestion,Gg N,127.41831499999999
-59421,NO,Norge,2005,total_N_input,soil N input from manure,%,10.752771763530482
-59422,NO,Norge,2005,NS,soil N surplus,kgN/ha,127.82675487766592
-59423,NO,Norge,2005,NUE,NUE arable,no unit,0.6186231876574817
+59420,NO,Norge,2005,F_ingestion,effective fodder ingestion,Gg N,122.00022395799357
+59421,NO,Norge,2005,total_N_input,soil N input from manure,%,17.439006535612386
+59422,NO,Norge,2005,NS,soil N surplus,kgN/ha,104.16017681963974
+59423,NO,Norge,2005,NUE,NUE arable,no unit,0.4822748244268734
 59424,NO,Norge,2006,H_ingestion,total human ingestion,Gg N,29.86869214295674
 59425,NO,Norge,2006,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.470752590000001
 59426,NO,Norge,2006,E_total,total animal excretion,Gg N,111.9469586
@@ -59434,19 +59434,19 @@
 59432,NO,Norge,2006,Meat_goats,goats meat production,Gg N,0.0062964
 59433,NO,Norge,2006,Meat_pigs,pigs meat production,Gg N,3.2925635000000004
 59434,NO,Norge,2006,Meat_poultry,poultry meat production,Gg N,1.1456415
-59435,NO,Norge,2006,Agri_total,total agricultural production,Gg N,328.5551770483297
+59435,NO,Norge,2006,Agri_total,total agricultural production,Gg N,165.80619099055122
 59436,NO,Norge,2006,M_ingestion,monogastric ingestion,Gg N,26.550136900000002
 59437,NO,Norge,2006,R_ingestion,ruminant ingestion,Gg N,108.4210895
 59438,NO,Norge,2006,total_A_ingestion,total animal ingestion,Gg N,134.9712264
 59439,NO,Norge,2006,L_density,livestock density,LU/haUAA,0.8825186205896254
 59440,NO,Norge,2006,F_import,net import feed,Gg N,0.0
-59441,NO,Norge,2006,H_total,total crop production,Gg N,312.4451313483297
+59441,NO,Norge,2006,H_total,total crop production,Gg N,149.69614529055121
 59442,NO,Norge,2006,C_total,total cereal production,Gg N,25.353142412357542
 59443,NO,Norge,2006,PG_H,permanent grassland production,Gg N,7.060300000000001
-59444,NO,Norge,2006,F_ingestion,effective fodder ingestion,Gg N,127.91092640000001
-59445,NO,Norge,2006,total_N_input,soil N input from manure,%,10.856313129789664
-59446,NO,Norge,2006,NS,soil N surplus,kgN/ha,127.1612185250632
-59447,NO,Norge,2006,NUE,NUE arable,no unit,0.6222131022446536
+59444,NO,Norge,2006,F_ingestion,effective fodder ingestion,Gg N,123.00739589046641
+59445,NO,Norge,2006,total_N_input,soil N input from manure,%,17.685353377347433
+59446,NO,Norge,2006,NS,soil N surplus,kgN/ha,103.44035664098456
+59447,NO,Norge,2006,NUE,NUE arable,no unit,0.4856033069669279
 59448,NO,Norge,2007,H_ingestion,total human ingestion,Gg N,30.132058492482283
 59449,NO,Norge,2007,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.53662574
 59450,NO,Norge,2007,E_total,total animal excretion,Gg N,111.7757995
@@ -59458,19 +59458,19 @@
 59456,NO,Norge,2007,Meat_goats,goats meat production,Gg N,0.006042
 59457,NO,Norge,2007,Meat_pigs,pigs meat production,Gg N,3.3319005
 59458,NO,Norge,2007,Meat_poultry,poultry meat production,Gg N,1.2950541
-59459,NO,Norge,2007,Agri_total,total agricultural production,Gg N,329.594084819767
+59459,NO,Norge,2007,Agri_total,total agricultural production,Gg N,166.03397482352977
 59460,NO,Norge,2007,M_ingestion,monogastric ingestion,Gg N,29.0095081
 59461,NO,Norge,2007,R_ingestion,ruminant ingestion,Gg N,106.24423180000001
 59462,NO,Norge,2007,total_A_ingestion,total animal ingestion,Gg N,135.2537399
 59463,NO,Norge,2007,L_density,livestock density,LU/haUAA,0.8875927560906821
 59464,NO,Norge,2007,F_import,net import feed,Gg N,0.0
-59465,NO,Norge,2007,H_total,total crop production,Gg N,313.135092019767
+59465,NO,Norge,2007,H_total,total crop production,Gg N,149.57498202352977
 59466,NO,Norge,2007,C_total,total cereal production,Gg N,24.456226598115386
 59467,NO,Norge,2007,PG_H,permanent grassland production,Gg N,7.060300000000001
-59468,NO,Norge,2007,F_ingestion,effective fodder ingestion,Gg N,128.1934399
-59469,NO,Norge,2007,total_N_input,soil N input from manure,%,10.944866166981521
-59470,NO,Norge,2007,NS,soil N surplus,kgN/ha,130.74129088188025
-59471,NO,Norge,2007,NUE,NUE arable,no unit,0.6178735556234595
+59468,NO,Norge,2007,F_ingestion,effective fodder ingestion,Gg N,123.85253416659391
+59469,NO,Norge,2007,total_N_input,soil N input from manure,%,17.777805335940542
+59470,NO,Norge,2007,NS,soil N surplus,kgN/ha,106.77387479783148
+59471,NO,Norge,2007,NUE,NUE arable,no unit,0.479378043008564
 59472,NO,Norge,2008,H_ingestion,total human ingestion,Gg N,30.492763860400235
 59473,NO,Norge,2008,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.62684531
 59474,NO,Norge,2008,E_total,total animal excretion,Gg N,110.4404109
@@ -59482,19 +59482,19 @@
 59480,NO,Norge,2008,Meat_goats,goats meat production,Gg N,0.0064872
 59481,NO,Norge,2008,Meat_pigs,pigs meat production,Gg N,3.4721836
 59482,NO,Norge,2008,Meat_poultry,poultry meat production,Gg N,1.5493535999999999
-59483,NO,Norge,2008,Agri_total,total agricultural production,Gg N,331.87280626657866
+59483,NO,Norge,2008,Agri_total,total agricultural production,Gg N,167.86212752278433
 59484,NO,Norge,2008,M_ingestion,monogastric ingestion,Gg N,29.8826501
 59485,NO,Norge,2008,R_ingestion,ruminant ingestion,Gg N,104.96981819999999
 59486,NO,Norge,2008,total_A_ingestion,total animal ingestion,Gg N,134.8524683
 59487,NO,Norge,2008,L_density,livestock density,LU/haUAA,0.8849327994240552
 59488,NO,Norge,2008,F_import,net import feed,Gg N,0.0
-59489,NO,Norge,2008,H_total,total crop production,Gg N,314.9912007665787
+59489,NO,Norge,2008,H_total,total crop production,Gg N,150.98052202278433
 59490,NO,Norge,2008,C_total,total cereal production,Gg N,25.246622783873228
 59491,NO,Norge,2008,PG_H,permanent grassland production,Gg N,7.060300000000001
-59492,NO,Norge,2008,F_ingestion,effective fodder ingestion,Gg N,127.7921683
-59493,NO,Norge,2008,total_N_input,soil N input from manure,%,10.901709977018596
-59494,NO,Norge,2008,NS,soil N surplus,kgN/ha,128.6383362370549
-59495,NO,Norge,2008,NUE,NUE arable,no unit,0.625529729350226
+59492,NO,Norge,2008,F_ingestion,effective fodder ingestion,Gg N,124.25807315031432
+59493,NO,Norge,2008,total_N_input,soil N input from manure,%,17.826961287487176
+59494,NO,Norge,2008,NS,soil N surplus,kgN/ha,104.1293530874408
+59495,NO,Norge,2008,NUE,NUE arable,no unit,0.4902647010699112
 59496,NO,Norge,2009,H_ingestion,total human ingestion,Gg N,30.892373938486397
 59497,NO,Norge,2009,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.726795720000001
 59498,NO,Norge,2009,E_total,total animal excretion,Gg N,110.2742719
@@ -59506,19 +59506,19 @@
 59504,NO,Norge,2009,Meat_goats,goats meat production,Gg N,0.006254
 59505,NO,Norge,2009,Meat_pigs,pigs meat production,Gg N,3.7349491000000006
 59506,NO,Norge,2009,Meat_poultry,poultry meat production,Gg N,1.4744403
-59507,NO,Norge,2009,Agri_total,total agricultural production,Gg N,333.15950108633893
+59507,NO,Norge,2009,Agri_total,total agricultural production,Gg N,168.51362821625332
 59508,NO,Norge,2009,M_ingestion,monogastric ingestion,Gg N,30.790171100000002
 59509,NO,Norge,2009,R_ingestion,ruminant ingestion,Gg N,103.98201549999999
 59510,NO,Norge,2009,total_A_ingestion,total animal ingestion,Gg N,134.7721866
 59511,NO,Norge,2009,L_density,livestock density,LU/haUAA,0.8798214054905211
 59512,NO,Norge,2009,F_import,net import feed,Gg N,0.0
-59513,NO,Norge,2009,H_total,total crop production,Gg N,316.21960168633893
+59513,NO,Norge,2009,H_total,total crop production,Gg N,151.57372881625332
 59514,NO,Norge,2009,C_total,total cereal production,Gg N,25.355106969631077
 59515,NO,Norge,2009,PG_H,permanent grassland production,Gg N,7.060300000000001
-59516,NO,Norge,2009,F_ingestion,effective fodder ingestion,Gg N,127.7118866
-59517,NO,Norge,2009,total_N_input,soil N input from manure,%,11.094148783852335
-59518,NO,Norge,2009,NS,soil N surplus,kgN/ha,120.99475523375216
-59519,NO,Norge,2009,NUE,NUE arable,no unit,0.63943117899532
+59516,NO,Norge,2009,F_ingestion,effective fodder ingestion,Gg N,124.850366514444
+59517,NO,Norge,2009,total_N_input,soil N input from manure,%,18.405802307413175
+59518,NO,Norge,2009,NS,soil N surplus,kgN/ha,96.45309759304182
+59519,NO,Norge,2009,NUE,NUE arable,no unit,0.5084722831342581
 59520,NO,Norge,2010,H_ingestion,total human ingestion,Gg N,31.271810727084276
 59521,NO,Norge,2010,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.82170039
 59522,NO,Norge,2010,E_total,total animal excretion,Gg N,108.6082242
@@ -59530,19 +59530,19 @@
 59528,NO,Norge,2010,Meat_goats,goats meat production,Gg N,0.006572
 59529,NO,Norge,2010,Meat_pigs,pigs meat production,Gg N,3.8931178
 59530,NO,Norge,2010,Meat_poultry,poultry meat production,Gg N,1.5706953000000001
-59531,NO,Norge,2010,Agri_total,total agricultural production,Gg N,334.6941144086007
+59531,NO,Norge,2010,Agri_total,total agricultural production,Gg N,169.307187158743
 59532,NO,Norge,2010,M_ingestion,monogastric ingestion,Gg N,29.782159900000003
 59533,NO,Norge,2010,R_ingestion,ruminant ingestion,Gg N,103.8130081
 59534,NO,Norge,2010,total_A_ingestion,total animal ingestion,Gg N,133.595168
 59535,NO,Norge,2010,L_density,livestock density,LU/haUAA,0.862837541832066
 59536,NO,Norge,2010,F_import,net import feed,Gg N,0.0
-59537,NO,Norge,2010,H_total,total crop production,Gg N,317.4838037086007
+59537,NO,Norge,2010,H_total,total crop production,Gg N,152.096876458743
 59538,NO,Norge,2010,C_total,total cereal production,Gg N,25.46359115538892
 59539,NO,Norge,2010,PG_H,permanent grassland production,Gg N,7.060300000000001
-59540,NO,Norge,2010,F_ingestion,effective fodder ingestion,Gg N,126.534868
-59541,NO,Norge,2010,total_N_input,soil N input from manure,%,11.106478536733192
-59542,NO,Norge,2010,NS,soil N surplus,kgN/ha,114.74790143616949
-59543,NO,Norge,2010,NUE,NUE arable,no unit,0.6512367113985515
+59540,NO,Norge,2010,F_ingestion,effective fodder ingestion,Gg N,125.35566242085272
+59541,NO,Norge,2010,total_N_input,soil N input from manure,%,18.666062086581952
+59542,NO,Norge,2010,NS,soil N surplus,kgN/ha,90.13907112573396
+59543,NO,Norge,2010,NUE,NUE arable,no unit,0.5243141112362566
 59544,NO,Norge,2011,H_ingestion,total human ingestion,Gg N,31.671581728028514
 59545,NO,Norge,2011,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.921691050000001
 59546,NO,Norge,2011,E_total,total animal excretion,Gg N,107.8242043
@@ -59554,19 +59554,19 @@
 59552,NO,Norge,2011,Meat_goats,goats meat production,Gg N,0.0054272
 59553,NO,Norge,2011,Meat_pigs,pigs meat production,Gg N,3.9563117000000005
 59554,NO,Norge,2011,Meat_poultry,poultry meat production,Gg N,1.5560604
-59555,NO,Norge,2011,Agri_total,total agricultural production,Gg N,334.8800604635843
+59555,NO,Norge,2011,Agri_total,total agricultural production,Gg N,169.08585575315522
 59556,NO,Norge,2011,M_ingestion,monogastric ingestion,Gg N,29.9682359
 59557,NO,Norge,2011,R_ingestion,ruminant ingestion,Gg N,102.59161919999998
 59558,NO,Norge,2011,total_A_ingestion,total animal ingestion,Gg N,132.5598551
 59559,NO,Norge,2011,L_density,livestock density,LU/haUAA,0.855927831183868
 59560,NO,Norge,2011,F_import,net import feed,Gg N,0.0
-59561,NO,Norge,2011,H_total,total crop production,Gg N,317.8643631635843
+59561,NO,Norge,2011,H_total,total crop production,Gg N,152.07015845315522
 59562,NO,Norge,2011,C_total,total cereal production,Gg N,24.676147341146766
 59563,NO,Norge,2011,PG_H,permanent grassland production,Gg N,7.060300000000001
 59564,NO,Norge,2011,F_ingestion,effective fodder ingestion,Gg N,125.4995551
-59565,NO,Norge,2011,total_N_input,soil N input from manure,%,10.74242841820177
-59566,NO,Norge,2011,NS,soil N surplus,kgN/ha,124.42412166661728
-59567,NO,Norge,2011,NUE,NUE arable,no unit,0.6333859415491887
+59565,NO,Norge,2011,total_N_input,soil N input from manure,%,17.73980372310121
+59566,NO,Norge,2011,NS,soil N surplus,kgN/ha,99.75595677627544
+59567,NO,Norge,2011,NUE,NUE arable,no unit,0.5003737457593286
 59568,NO,Norge,2012,H_ingestion,total human ingestion,Gg N,32.09361801561601
 59569,NO,Norge,2012,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.0272507
 59570,NO,Norge,2012,E_total,total animal excretion,Gg N,109.4184654
@@ -59578,19 +59578,19 @@
 59576,NO,Norge,2012,Meat_goats,goats meat production,Gg N,0.006105599999999999
 59577,NO,Norge,2012,Meat_pigs,pigs meat production,Gg N,3.7231197000000003
 59578,NO,Norge,2012,Meat_poultry,poultry meat production,Gg N,1.6777557
-59579,NO,Norge,2012,Agri_total,total agricultural production,Gg N,337.6954205548204
+59579,NO,Norge,2012,Agri_total,total agricultural production,Gg N,171.0779748916965
 59580,NO,Norge,2012,M_ingestion,monogastric ingestion,Gg N,32.3002066
 59581,NO,Norge,2012,R_ingestion,ruminant ingestion,Gg N,101.925283
 59582,NO,Norge,2012,total_A_ingestion,total animal ingestion,Gg N,134.2254896
 59583,NO,Norge,2012,L_density,livestock density,LU/haUAA,0.8643385765918814
 59584,NO,Norge,2012,F_import,net import feed,Gg N,0.0
-59585,NO,Norge,2012,H_total,total crop production,Gg N,320.49810555482037
+59585,NO,Norge,2012,H_total,total crop production,Gg N,153.8806598916965
 59586,NO,Norge,2012,C_total,total cereal production,Gg N,26.04593552690461
 59587,NO,Norge,2012,PG_H,permanent grassland production,Gg N,7.060300000000001
-59588,NO,Norge,2012,F_ingestion,effective fodder ingestion,Gg N,127.1651896
-59589,NO,Norge,2012,total_N_input,soil N input from manure,%,11.07149089225205
-59590,NO,Norge,2012,NS,soil N surplus,kgN/ha,122.51070663262088
-59591,NO,Norge,2012,NUE,NUE arable,no unit,0.6370182254966988
+59588,NO,Norge,2012,F_ingestion,effective fodder ingestion,Gg N,126.64307572551184
+59589,NO,Norge,2012,total_N_input,soil N input from manure,%,18.310572296339068
+59590,NO,Norge,2012,NS,soil N surplus,kgN/ha,97.87841566289624
+59591,NO,Norge,2012,NUE,NUE arable,no unit,0.5058062295967776
 59592,NO,Norge,2013,H_ingestion,total human ingestion,Gg N,32.51462439691183
 59593,NO,Norge,2013,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.13255275
 59594,NO,Norge,2013,E_total,total animal excretion,Gg N,109.7197545
@@ -59602,19 +59602,19 @@
 59600,NO,Norge,2013,Meat_goats,goats meat production,Gg N,0.007250400000000001
 59601,NO,Norge,2013,Meat_pigs,pigs meat production,Gg N,3.6087028000000005
 59602,NO,Norge,2013,Meat_poultry,poultry meat production,Gg N,1.937106
-59603,NO,Norge,2013,Agri_total,total agricultural production,Gg N,338.1887434025552
+59603,NO,Norge,2013,Agri_total,total agricultural production,Gg N,170.81623847832776
 59604,NO,Norge,2013,M_ingestion,monogastric ingestion,Gg N,33.3549651
 59605,NO,Norge,2013,R_ingestion,ruminant ingestion,Gg N,101.8806921
 59606,NO,Norge,2013,total_A_ingestion,total animal ingestion,Gg N,135.2356572
 59607,NO,Norge,2013,L_density,livestock density,LU/haUAA,0.8658591030358687
 59608,NO,Norge,2013,F_import,net import feed,Gg N,0.0
-59609,NO,Norge,2013,H_total,total crop production,Gg N,320.7345055025552
+59609,NO,Norge,2013,H_total,total crop production,Gg N,153.36200057832775
 59610,NO,Norge,2013,C_total,total cereal production,Gg N,25.049755712662456
 59611,NO,Norge,2013,PG_H,permanent grassland production,Gg N,7.060300000000001
-59612,NO,Norge,2013,F_ingestion,effective fodder ingestion,Gg N,128.17535719999998
-59613,NO,Norge,2013,total_N_input,soil N input from manure,%,11.050402596166935
-59614,NO,Norge,2013,NS,soil N surplus,kgN/ha,123.91593868408938
-59615,NO,Norge,2013,NUE,NUE arable,no unit,0.6344049464033464
+59612,NO,Norge,2013,F_ingestion,effective fodder ingestion,Gg N,126.9930431209091
+59613,NO,Norge,2013,total_N_input,soil N input from manure,%,18.292756192336753
+59614,NO,Norge,2013,NS,soil N surplus,kgN/ha,98.93412657132836
+59615,NO,Norge,2013,NUE,NUE arable,no unit,0.5021314908467447
 59616,NO,Norge,2014,H_ingestion,total human ingestion,Gg N,32.88655574340908
 59617,NO,Norge,2014,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.22558016
 59618,NO,Norge,2014,E_total,total animal excretion,Gg N,109.3946292
@@ -59626,19 +59626,19 @@
 59624,NO,Norge,2014,Meat_goats,goats meat production,Gg N,0.006148
 59625,NO,Norge,2014,Meat_pigs,pigs meat production,Gg N,3.645606
 59626,NO,Norge,2014,Meat_poultry,poultry meat production,Gg N,1.9615113
-59627,NO,Norge,2014,Agri_total,total agricultural production,Gg N,339.64981801531104
+59627,NO,Norge,2014,Agri_total,total agricultural production,Gg N,171.3262741128255
 59628,NO,Norge,2014,M_ingestion,monogastric ingestion,Gg N,34.2152002
 59629,NO,Norge,2014,R_ingestion,ruminant ingestion,Gg N,100.57412860000001
 59630,NO,Norge,2014,total_A_ingestion,total animal ingestion,Gg N,134.7893288
 59631,NO,Norge,2014,L_density,livestock density,LU/haUAA,0.8843228543883199
 59632,NO,Norge,2014,F_import,net import feed,Gg N,0.0
-59633,NO,Norge,2014,H_total,total crop production,Gg N,322.25548211531105
+59633,NO,Norge,2014,H_total,total crop production,Gg N,153.93193821282551
 59634,NO,Norge,2014,C_total,total cereal production,Gg N,25.2783598984203
 59635,NO,Norge,2014,PG_H,permanent grassland production,Gg N,7.060300000000001
-59636,NO,Norge,2014,F_ingestion,effective fodder ingestion,Gg N,127.7290288
-59637,NO,Norge,2014,total_N_input,soil N input from manure,%,10.819345479866769
-59638,NO,Norge,2014,NS,soil N surplus,kgN/ha,131.86267121843818
-59639,NO,Norge,2014,NUE,NUE arable,no unit,0.6276660196807394
+59636,NO,Norge,2014,F_ingestion,effective fodder ingestion,Gg N,127.37543418876626
+59637,NO,Norge,2014,total_N_input,soil N input from manure,%,17.800266337535298
+59638,NO,Norge,2014,NS,soil N surplus,kgN/ha,105.99991905594128
+59639,NO,Norge,2014,NUE,NUE arable,no unit,0.4932423831029545
 59640,NO,Norge,2015,H_ingestion,total human ingestion,Gg N,33.251824883582046
 59641,NO,Norge,2015,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.31694122
 59642,NO,Norge,2015,E_total,total animal excretion,Gg N,109.9896134
@@ -59650,19 +59650,19 @@
 59648,NO,Norge,2015,Meat_goats,goats meat production,Gg N,0.0061268
 59649,NO,Norge,2015,Meat_pigs,pigs meat production,Gg N,3.811132700000001
 59650,NO,Norge,2015,Meat_poultry,poultry meat production,Gg N,1.6739883
-59651,NO,Norge,2015,Agri_total,total agricultural production,Gg N,343.1107783047547
+59651,NO,Norge,2015,Agri_total,total agricultural production,Gg N,174.16968776088726
 59652,NO,Norge,2015,M_ingestion,monogastric ingestion,Gg N,32.5633826
 59653,NO,Norge,2015,R_ingestion,ruminant ingestion,Gg N,102.6661667
 59654,NO,Norge,2015,total_A_ingestion,total animal ingestion,Gg N,135.2295493
 59655,NO,Norge,2015,L_density,livestock density,LU/haUAA,0.8887832362724237
 59656,NO,Norge,2015,F_import,net import feed,Gg N,0.0
-59657,NO,Norge,2015,H_total,total crop production,Gg N,325.6540014047547
+59657,NO,Norge,2015,H_total,total crop production,Gg N,156.71291086088726
 59658,NO,Norge,2015,C_total,total cereal production,Gg N,27.59139829842031
 59659,NO,Norge,2015,PG_H,permanent grassland production,Gg N,7.060300000000001
-59660,NO,Norge,2015,F_ingestion,effective fodder ingestion,Gg N,128.1692493
-59661,NO,Norge,2015,total_N_input,soil N input from manure,%,10.759197236825772
-59662,NO,Norge,2015,NS,soil N surplus,kgN/ha,130.66520671503443
-59663,NO,Norge,2015,NUE,NUE arable,no unit,0.631738690111898
+59660,NO,Norge,2015,F_ingestion,effective fodder ingestion,Gg N,127.91351795642125
+59661,NO,Norge,2015,total_N_input,soil N input from manure,%,17.70927547969238
+59662,NO,Norge,2015,NS,soil N surplus,kgN/ha,104.5516349410394
+59663,NO,Norge,2015,NUE,NUE arable,no unit,0.5003629390769141
 59664,NO,Norge,2016,H_ingestion,total human ingestion,Gg N,33.56197472640716
 59665,NO,Norge,2016,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.39451585
 59666,NO,Norge,2016,E_total,total animal excretion,Gg N,111.7461956
@@ -59674,19 +59674,19 @@
 59672,NO,Norge,2016,Meat_goats,goats meat production,Gg N,0.0063812
 59673,NO,Norge,2016,Meat_pigs,pigs meat production,Gg N,3.8973628000000007
 59674,NO,Norge,2016,Meat_poultry,poultry meat production,Gg N,1.8067167000000002
-59675,NO,Norge,2016,Agri_total,total agricultural production,Gg N,344.5804233671434
+59675,NO,Norge,2016,Agri_total,total agricultural production,Gg N,174.85408363430568
 59676,NO,Norge,2016,M_ingestion,monogastric ingestion,Gg N,32.4753296
 59677,NO,Norge,2016,R_ingestion,ruminant ingestion,Gg N,105.03454529999999
 59678,NO,Norge,2016,total_A_ingestion,total animal ingestion,Gg N,137.5098749
 59679,NO,Norge,2016,L_density,livestock density,LU/haUAA,0.9042556735790936
 59680,NO,Norge,2016,F_import,net import feed,Gg N,0.0
-59681,NO,Norge,2016,H_total,total crop production,Gg N,326.9077331671434
+59681,NO,Norge,2016,H_total,total crop production,Gg N,157.18139343430568
 59682,NO,Norge,2016,C_total,total cereal production,Gg N,27.433078298420305
 59683,NO,Norge,2016,PG_H,permanent grassland production,Gg N,7.060300000000001
-59684,NO,Norge,2016,F_ingestion,effective fodder ingestion,Gg N,130.4495749
-59685,NO,Norge,2016,total_N_input,soil N input from manure,%,10.837090460020907
-59686,NO,Norge,2016,NS,soil N surplus,kgN/ha,130.27846810867464
-59687,NO,Norge,2016,NUE,NUE arable,no unit,0.633685205468488
+59684,NO,Norge,2016,F_ingestion,effective fodder ingestion,Gg N,128.46202783675963
+59685,NO,Norge,2016,total_N_input,soil N input from manure,%,17.88296833680117
+59686,NO,Norge,2016,NS,soil N surplus,kgN/ha,103.99185621356304
+59687,NO,Norge,2016,NUE,NUE arable,no unit,0.502753196517046
 59688,NO,Norge,2017,H_ingestion,total human ingestion,Gg N,33.84733601217439
 59689,NO,Norge,2017,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.46589037
 59690,NO,Norge,2017,E_total,total animal excretion,Gg N,113.9081096
@@ -59698,19 +59698,19 @@
 59696,NO,Norge,2017,Meat_goats,goats meat production,Gg N,0.0075472
 59697,NO,Norge,2017,Meat_pigs,pigs meat production,Gg N,3.8841750000000004
 59698,NO,Norge,2017,Meat_poultry,poultry meat production,Gg N,1.8825408000000001
-59699,NO,Norge,2017,Agri_total,total agricultural production,Gg N,344.4078069943986
+59699,NO,Norge,2017,Agri_total,total agricultural production,Gg N,174.1162456700783
 59700,NO,Norge,2017,M_ingestion,monogastric ingestion,Gg N,34.247131
 59701,NO,Norge,2017,R_ingestion,ruminant ingestion,Gg N,105.7050818
 59702,NO,Norge,2017,total_A_ingestion,total animal ingestion,Gg N,139.9522128
 59703,NO,Norge,2017,L_density,livestock density,LU/haUAA,0.923568693586898
 59704,NO,Norge,2017,F_import,net import feed,Gg N,0.0
-59705,NO,Norge,2017,H_total,total crop production,Gg N,326.6854287943986
+59705,NO,Norge,2017,H_total,total crop production,Gg N,156.3938674700783
 59706,NO,Norge,2017,C_total,total cereal production,Gg N,26.499139098420308
 59707,NO,Norge,2017,PG_H,permanent grassland production,Gg N,7.060300000000001
-59708,NO,Norge,2017,F_ingestion,effective fodder ingestion,Gg N,132.8919128
-59709,NO,Norge,2017,total_N_input,soil N input from manure,%,11.07742350006017
-59710,NO,Norge,2017,NS,soil N surplus,kgN/ha,131.0711499701344
-59711,NO,Norge,2017,NUE,NUE arable,no unit,0.6326248587840868
+59708,NO,Norge,2017,F_ingestion,effective fodder ingestion,Gg N,128.76066932213422
+59709,NO,Norge,2017,total_N_input,soil N input from manure,%,18.318959715791635
+59710,NO,Norge,2017,NS,soil N surplus,kgN/ha,104.4817048073958
+59711,NO,Norge,2017,NUE,NUE arable,no unit,0.5008140273137314
 59712,NO,Norge,2018,H_ingestion,total human ingestion,Gg N,34.08744579025093
 59713,NO,Norge,2018,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.52594659
 59714,NO,Norge,2018,E_total,total animal excretion,Gg N,112.7156884
@@ -59722,19 +59722,19 @@
 59720,NO,Norge,2018,Meat_goats,goats meat production,Gg N,0.007526
 59721,NO,Norge,2018,Meat_pigs,pigs meat production,Gg N,3.8860428000000002
 59722,NO,Norge,2018,Meat_poultry,poultry meat production,Gg N,1.8614475
-59723,NO,Norge,2018,Agri_total,total agricultural production,Gg N,336.21319633368586
+59723,NO,Norge,2018,Agri_total,total agricultural production,Gg N,164.23830149724785
 59724,NO,Norge,2018,M_ingestion,monogastric ingestion,Gg N,33.4119234
 59725,NO,Norge,2018,R_ingestion,ruminant ingestion,Gg N,105.66288899999999
 59726,NO,Norge,2018,total_A_ingestion,total animal ingestion,Gg N,139.0748124
 59727,NO,Norge,2018,L_density,livestock density,LU/haUAA,0.9129378793106224
 59728,NO,Norge,2018,F_import,net import feed,Gg N,0.0
-59729,NO,Norge,2018,H_total,total crop production,Gg N,318.2524778336859
+59729,NO,Norge,2018,H_total,total crop production,Gg N,146.27758299724786
 59730,NO,Norge,2018,C_total,total cereal production,Gg N,14.889183898420303
 59731,NO,Norge,2018,PG_H,permanent grassland production,Gg N,7.060300000000001
-59732,NO,Norge,2018,F_ingestion,effective fodder ingestion,Gg N,132.0145124
-59733,NO,Norge,2018,total_N_input,soil N input from manure,%,10.790618889007334
-59734,NO,Norge,2018,NS,soil N surplus,kgN/ha,141.32585970793824
-59735,NO,Norge,2018,NUE,NUE arable,no unit,0.6104176320175826
+59732,NO,Norge,2018,F_ingestion,effective fodder ingestion,Gg N,130.1667203904506
+59733,NO,Norge,2018,total_N_input,soil N input from manure,%,17.811153234199175
+59734,NO,Norge,2018,NS,soil N surplus,kgN/ha,115.01288576205896
+59735,NO,Norge,2018,NUE,NUE arable,no unit,0.4630784879120758
 59736,NO,Norge,2019,H_ingestion,total human ingestion,Gg N,34.29724413878048
 59737,NO,Norge,2019,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.57842132
 59738,NO,Norge,2019,E_total,total animal excretion,Gg N,111.0870745
@@ -59746,19 +59746,19 @@
 59744,NO,Norge,2019,Meat_goats,goats meat production,Gg N,0.0072716000000000005
 59745,NO,Norge,2019,Meat_pigs,pigs meat production,Gg N,3.7424486
 59746,NO,Norge,2019,Meat_poultry,poultry meat production,Gg N,2.0400471
-59747,NO,Norge,2019,Agri_total,total agricultural production,Gg N,349.31895851522296
+59747,NO,Norge,2019,Agri_total,total agricultural production,Gg N,175.91263333907887
 59748,NO,Norge,2019,M_ingestion,monogastric ingestion,Gg N,33.4304694
 59749,NO,Norge,2019,R_ingestion,ruminant ingestion,Gg N,103.76834419999999
 59750,NO,Norge,2019,total_A_ingestion,total animal ingestion,Gg N,137.1988136
 59751,NO,Norge,2019,L_density,livestock density,LU/haUAA,0.9006460412072305
 59752,NO,Norge,2019,F_import,net import feed,Gg N,0.0
-59753,NO,Norge,2019,H_total,total crop production,Gg N,331.61558671522295
+59753,NO,Norge,2019,H_total,total crop production,Gg N,158.20926153907885
 59754,NO,Norge,2019,C_total,total cereal production,Gg N,25.861395098420303
 59755,NO,Norge,2019,PG_H,permanent grassland production,Gg N,7.060300000000001
 59756,NO,Norge,2019,F_ingestion,effective fodder ingestion,Gg N,130.13851359999998
-59757,NO,Norge,2019,total_N_input,soil N input from manure,%,10.560057300186749
-59758,NO,Norge,2019,NS,soil N surplus,kgN/ha,135.26046270984793
-59759,NO,Norge,2019,NUE,NUE arable,no unit,0.6290550652619847
+59757,NO,Norge,2019,total_N_input,soil N input from manure,%,17.37085340610365
+59758,NO,Norge,2019,NS,soil N surplus,kgN/ha,109.10975299260885
+59759,NO,Norge,2019,NUE,NUE arable,no unit,0.4936497507063648
 59760,PL2,Poludniowy,1990,H_ingestion,total human ingestion,Gg N,47.84339076196768
 59761,PL2,Poludniowy,1990,H_ingestion_cereals,total human ingestion of cereal,Gg N,21.8040768
 59762,PL2,Poludniowy,1990,E_total,total animal excretion,Gg N,60.33646067472645

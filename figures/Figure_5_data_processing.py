@@ -1,3 +1,14 @@
+"""
+Script name: Figure_5_data_processing.py
+Description: Figure 5 workflow
+Author: Ludovic Harter
+Created: 2025-12-18
+Last modified: 2025-12-18
+Version: 1.0
+Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
+License: MIT
+"""
+
 #%% --- Libraries ---
 import pandas as pd
 import matplotlib.pyplot as plt

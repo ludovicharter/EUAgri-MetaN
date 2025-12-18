@@ -1,3 +1,14 @@
+"""
+Script name: Figure_2_territorial_maps.py
+Description: Figure 2 workflow
+Author: Ludovic Harter
+Created: 2025-12-18
+Last modified: 2025-12-18
+Version: 1.0
+Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
+License: MIT
+"""
+
 #%% --- Libraries ---
 import pandas as pd
 import numpy as np
@@ -183,8 +194,8 @@ density_all_years['density'] = density_all_years['LU'] / (density_all_years['UAA
 density_2019 = density_all_years[density_all_years['year'] == 2019][['region', 'density']].copy()
 
 # Compute means over periods for density and UAA thresholds
-period_early = density_all_years[density_all_years['year'].between(1990, 1995)]
-period_late = density_all_years[density_all_years['year'].between(2014, 2019)]
+period_early = density_all_years[density_all_years['year'].between(1990, 1994)]
+period_late = density_all_years[density_all_years['year'].between(2015, 2019)]
 
 mean_density_early = (
     period_early.groupby('region')
@@ -234,20 +245,20 @@ fertilizer_frac_long = (
 )
 fertilizer_frac_long['year'] = fertilizer_frac_long['year'].astype(int)
 
-# Maps: 2019 value and change (2014–2019 vs. 1990–1995)
+# Maps: 2019 value and change (2015–2019 vs. 1990–1994)
 
 # Get 2019 map
 frac_2019 = fertilizer_frac_long[fertilizer_frac_long['year'] == 2019][['region', 'mineral_frac']].copy()
 
 # Get mean over early and late periods
 early_frac = (
-    fertilizer_frac_long[fertilizer_frac_long['year'].between(1990, 1995)]
+    fertilizer_frac_long[fertilizer_frac_long['year'].between(1990, 1994)]
     .groupby('region')['mineral_frac']
     .mean()
     .reset_index(name='frac_early')
 )
 late_frac = (
-    fertilizer_frac_long[fertilizer_frac_long['year'].between(2014, 2019)]
+    fertilizer_frac_long[fertilizer_frac_long['year'].between(2015, 2019)]
     .groupby('region')['mineral_frac']
     .mean()
     .reset_index(name='frac_late')
@@ -289,13 +300,13 @@ N_input_2019 = N_input_long[N_input_long['year'] == 2019][['region', 'N_input_kg
 
 # Means
 early_N = (
-    N_input_long[N_input_long['year'].between(1990, 1995)]
+    N_input_long[N_input_long['year'].between(1990, 1994)]
     .groupby('region')['N_input_kg_ha']
     .mean()
     .reset_index(name='N_input_early')
 )
 late_N = (
-    N_input_long[N_input_long['year'].between(2014, 2019)]
+    N_input_long[N_input_long['year'].between(2015, 2019)]
     .groupby('region')['N_input_kg_ha']
     .mean()
     .reset_index(name='N_input_late')
@@ -333,13 +344,13 @@ N_balance_2019 = N_balance_long[N_balance_long['year'] == 2019][['region', 'N_ba
 
 # Means
 early_bal = (
-    N_balance_long[N_balance_long['year'].between(1990, 1995)]
+    N_balance_long[N_balance_long['year'].between(1990, 1994)]
     .groupby('region')['N_balance_kg_ha']
     .mean()
     .reset_index(name='N_balance_early')
 )
 late_bal = (
-    N_balance_long[N_balance_long['year'].between(2014, 2019)]
+    N_balance_long[N_balance_long['year'].between(2015, 2019)]
     .groupby('region')['N_balance_kg_ha']
     .mean()
     .reset_index(name='N_balance_late')
@@ -376,13 +387,13 @@ NUE_2019 = NUE_long[NUE_long['year'] == 2019][['region', 'NUE']].copy()
 
 # Means
 early_NUE = (
-    NUE_long[NUE_long['year'].between(1990, 1995)]
+    NUE_long[NUE_long['year'].between(1990, 1994)]
     .groupby('region')['NUE']
     .mean()
     .reset_index(name='NUE_early')
 )
 late_NUE = (
-    NUE_long[NUE_long['year'].between(2014, 2019)]
+    NUE_long[NUE_long['year'].between(2015, 2019)]
     .groupby('region')['NUE']
     .mean()
     .reset_index(name='NUE_late')
@@ -412,16 +423,16 @@ axes = axes.flatten()
 map_data_all = [
     (gdf_yield_late, 'yield_late', "a) Arable yield (2015–2019)", 'YlGn', 'kgN/ha/yr'),
     (gdf_density_late, 'density_late', "b) Livestock density (2015–2019)", 'Oranges', 'LU/haUAA'),
-    (gdf_late_N, 'N_input_late', "c) Total N input (2015–2019)", 'Blues', 'kgN/ha'),
-    (gdf_late_frac, 'frac_late', "d) Mineral fertilizer ratio (2015–2019)", 'PuRd', '%'),
-    (gdf_late_NUE, 'NUE_late', "e) N Use Efficiency (2015–2019)", 'Greens', 'ratio'),
-    (gdf_late_bal, 'N_balance_late', "f) N surplus (2015–2019)", 'Reds', 'kgN/ha'),
-    (gdf_yield_change, 'yield_change', "g) Δ Arable yield\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ kgN/ha/yr'),
-    (gdf_density_change, 'density_change', "h) Δ Livestock density\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ LU/haUAA'),
-    (gdf_N_change, 'N_input_change', "i) Δ Total N input\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ kgN/ha'),
-    (gdf_frac_change, 'frac_change', "j) Δ Mineral fertilizer ratio\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ %'),
-    (gdf_NUE_change, 'NUE_change', "k) Δ N Use Efficiency\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ ratio'),
-    (gdf_bal_change, 'N_balance_change', "l) Δ N surplus\n(2015–2019 vs 1990–1995)", 'coolwarm', 'Δ kgN/ha'),
+    (gdf_late_N, 'N_input_late', "c) Arable total N input (2015–2019)", 'Blues', 'kgN/ha'),
+    (gdf_late_frac, 'frac_late', "d) Mineral fertilizer ratio \n in arable lands (2015–2019)", 'PuRd', '%'),
+    (gdf_late_NUE, 'NUE_late', "e) Arable N use efficiency (2015–2019)", 'Greens', 'ratio'),
+    (gdf_late_bal, 'N_balance_late', "f) Arable N surplus (2015–2019)", 'Reds', 'kgN/ha'),
+    (gdf_yield_change, 'yield_change', "g) Δ Arable yield\n(2015–2019 vs 1990–1994)", 'coolwarm', 'Δ kgN/ha/yr'),
+    (gdf_density_change, 'density_change', "h) Δ Livestock density\n(2015–2019 vs 1990–1994)", 'coolwarm', 'Δ LU/haUAA'),
+    (gdf_N_change, 'N_input_change', "i) Δ Arable total N input\n(2015–2019 vs 1990–1994)", 'coolwarm', 'Δ kgN/ha'),
+    (gdf_frac_change, 'frac_change', "j) Δ Mineral fertilizer ratio in arable \n lands (2015–2019 vs 1990–1994)", 'coolwarm', 'Δ %'),
+    (gdf_NUE_change, 'NUE_change', "k) Δ Arable N use efficiency\n(2015–2019 vs 1990–1994)", 'coolwarm', 'Δ ratio'),
+    (gdf_bal_change, 'N_balance_change', "l) Arable Δ N surplus\n(2015–2019 vs 1990–1994)", 'coolwarm', 'Δ kgN/ha'),
 ]
 
 # Maps

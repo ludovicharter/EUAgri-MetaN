@@ -1,3 +1,14 @@
+"""
+Script name: Figure_4_transition_matrices.py
+Description: Figure 4 workflow
+Author: Ludovic Harter
+Created: 2025-12-18
+Last modified: 2025-12-18
+Version: 1.0
+Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
+License: MIT
+"""
+
 #%% --- Libraries ---
 import pandas as pd
 import numpy as np
@@ -310,3 +321,108 @@ plt.subplots_adjust(
 
 #plt.tight_layout()
 plt.savefig("figures/outputs/Figure_4_transition_matrices.png", dpi=400)
+
+#%% Figure option: UAA and variation coefficient
+'''
+# --- Préparation des matrices : CV NUE, CV NS, Areas des territoires en transition ---
+
+# 1. Coefficient de variation
+CV_NUE_matrix = std_NUE_matrix / delta_NUE_matrix.abs()
+CV_NS_matrix  = std_NS_matrix / delta_NS_matrix.abs()
+
+# 2. Superficie moyenne par trajectoire (origine -> arrivée)
+areas = pd.read_csv('data/outputs/land_areas.csv')
+areas = areas.loc[areas['symbol'] == 'C_sum']
+
+# liste des transitions (déjà défini)
+transitions = typology_transition[
+    typology_transition['typology_1990_1994'] != typology_transition['typology_2015_2019']
+]['region'].tolist()
+
+# matrice vide
+areas_matrix = pd.DataFrame(
+    np.nan,
+    index=delta_NUE_matrix.index,
+    columns=delta_NUE_matrix.columns
+)
+
+# Remplissage de la matrice des superficies
+for i in areas_matrix.index:
+    for j in areas_matrix.columns:
+        regs = typology_transition[
+            (typology_transition['typology_1990_1994'] == i) &
+            (typology_transition['typology_2015_2019'] == j)
+        ]['region'].tolist()
+
+        if len(regs) > 0:
+            areas_matrix.loc[i, j] = areas[areas['region'].isin(regs)]['value'].mean()
+
+# --- annotations pour CV matrices ---
+annot_CV_NUE = CV_NUE_matrix.round(2).astype(str)
+annot_CV_NS  = CV_NS_matrix.round(2).astype(str)
+annot_areas  = areas_matrix.round(2).astype(str)
+
+
+# --- Plot 1×3 ---
+fig, axes = plt.subplots(1, 3, figsize=(18, 6))
+
+# ================================
+# 1. CV NUE
+# ================================
+sns.heatmap(
+    CV_NUE_matrix, annot=annot_CV_NUE, fmt="",
+    cmap="Purples", cbar=True, ax=axes[0],
+    mask=CV_NUE_matrix.isna(), annot_kws={"fontsize":16}
+)
+axes[0].set_title("a) Coefficient of variation of \n Δ mean NUE", fontsize=21, fontweight='bold')
+axes[0].set_xlabel("Typology 2015–2019", fontsize=19)
+axes[0].set_ylabel("Typology 1990–1994", fontsize=19)
+
+cbar = axes[0].collections[0].colorbar
+cbar.set_label("CV NUE", fontsize=19)
+cbar.ax.tick_params(labelsize=16)
+
+# ================================
+# 2. CV NS
+# ================================
+sns.heatmap(
+    CV_NS_matrix, annot=annot_CV_NS, fmt="",
+    cmap="Oranges", cbar=True, ax=axes[1],
+    mask=CV_NS_matrix.isna(), annot_kws={"fontsize":16}
+)
+axes[1].set_title("b) Coefficient of variation of \n Δ mean NS", fontsize=21, fontweight='bold')
+axes[1].set_xlabel("Typology 2015–2019", fontsize=19)
+axes[1].set_ylabel("Typology 1990–1994", fontsize=19)
+
+cbar = axes[1].collections[0].colorbar
+cbar.set_label("CV NS", fontsize=19)
+cbar.ax.tick_params(labelsize=16)
+
+# ================================
+# 3. Superficies moyennes
+# ================================
+sns.heatmap(
+    areas_matrix, annot=annot_areas, fmt="",
+    cmap="Greens", cbar=True, ax=axes[2],
+    mask=areas_matrix.isna(), annot_kws={"fontsize":16}
+)
+axes[2].set_title("c) Mean UAA \n (Mha)", fontsize=21, fontweight='bold')
+axes[2].set_xlabel("Typology 2015–2019", fontsize=19)
+axes[2].set_ylabel("Typology 1990–1994", fontsize=19)
+
+cbar = axes[2].collections[0].colorbar
+cbar.set_label("UAA (Mha)", fontsize=19)
+cbar.ax.tick_params(labelsize=16)
+
+# ================================
+# Beautification
+# ================================
+for ax in axes.flat:
+    ax.tick_params(axis='both', labelsize=16)
+    for label in ax.get_xticklabels() + ax.get_yticklabels():
+        label.set_fontweight('bold')
+
+plt.tight_layout()
+#plt.subplots_adjust(wspace=0.25)
+plt.savefig("figures/outputs/Figure_CV_and_Areas_matrices.png", dpi=400)
+'''

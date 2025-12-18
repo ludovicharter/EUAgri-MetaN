@@ -3,7 +3,7 @@ Script name: k_arable_budget.py
 Description: Compiles N budget in arable land for each territory.
 Author: Ludovic Harter
 Created: 2025-05-01
-Last modified: 2025-08-13
+Last modified: 2025-12-18
 Version: 1.0
 Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
 License: MIT
