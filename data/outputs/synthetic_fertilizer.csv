@@ -9359,46 +9359,46 @@
 9357,LT,Lithuania,2019,Q_AL,quantity applied on arable land,Gg N,177.88653207626572,Estimated
 9358,LT,Lithuania,2019,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
 9359,LT,Lithuania,2019,Q_PC,quantity applied on permanent crops,Gg N,0.7164679237342746,Estimated
-9360,LU,Luxembourg,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9361,LU,Luxembourg,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9362,LU,Luxembourg,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9363,LU,Luxembourg,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9364,LU,Luxembourg,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9365,LU,Luxembourg,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9366,LU,Luxembourg,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9367,LU,Luxembourg,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9368,LU,Luxembourg,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9369,LU,Luxembourg,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9370,LU,Luxembourg,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9371,LU,Luxembourg,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9372,LU,Luxembourg,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9373,LU,Luxembourg,1993,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9374,LU,Luxembourg,1993,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9375,LU,Luxembourg,1993,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9376,LU,Luxembourg,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9377,LU,Luxembourg,1994,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9378,LU,Luxembourg,1994,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9379,LU,Luxembourg,1994,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9380,LU,Luxembourg,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9381,LU,Luxembourg,1995,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9382,LU,Luxembourg,1995,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9383,LU,Luxembourg,1995,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9384,LU,Luxembourg,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9385,LU,Luxembourg,1996,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9386,LU,Luxembourg,1996,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9387,LU,Luxembourg,1996,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9388,LU,Luxembourg,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9389,LU,Luxembourg,1997,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9390,LU,Luxembourg,1997,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9391,LU,Luxembourg,1997,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9392,LU,Luxembourg,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9393,LU,Luxembourg,1998,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9394,LU,Luxembourg,1998,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9395,LU,Luxembourg,1998,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9396,LU,Luxembourg,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9397,LU,Luxembourg,1999,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9398,LU,Luxembourg,1999,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9399,LU,Luxembourg,1999,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+9360,LU,Luxembourg,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,16.054312391286498,filled (b)
+9361,LU,Luxembourg,1990,Q_AL,quantity applied on arable land,Gg N,6.640488510812132,Estimated
+9362,LU,Luxembourg,1990,Q_PG,quantity applied on permanent grassland,Gg N,9.32585681676406,Estimated
+9363,LU,Luxembourg,1990,Q_PC,quantity applied on permanent crops,Gg N,0.0879670637103056,Estimated
+9364,LU,Luxembourg,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,15.70905836136636,filled (b)
+9365,LU,Luxembourg,1991,Q_AL,quantity applied on arable land,Gg N,6.439557856758028,Estimated
+9366,LU,Luxembourg,1991,Q_PG,quantity applied on permanent grassland,Gg N,9.182865331256108,Estimated
+9367,LU,Luxembourg,1991,Q_PC,quantity applied on permanent crops,Gg N,0.08663517335222372,Estimated
+9368,LU,Luxembourg,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,14.932236794046045,filled (b)
+9369,LU,Luxembourg,1992,Q_AL,quantity applied on arable land,Gg N,6.066602651662014,Estimated
+9370,LU,Luxembourg,1992,Q_PG,quantity applied on permanent grassland,Gg N,8.726211266361641,Estimated
+9371,LU,Luxembourg,1992,Q_PC,quantity applied on permanent crops,Gg N,0.1394228760223893,Estimated
+9372,LU,Luxembourg,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,14.586982764125905,filled (b)
+9373,LU,Luxembourg,1993,Q_AL,quantity applied on arable land,Gg N,5.919905852918897,Estimated
+9374,LU,Luxembourg,1993,Q_PG,quantity applied on permanent grassland,Gg N,8.527855866944979,Estimated
+9375,LU,Luxembourg,1993,Q_PC,quantity applied on permanent crops,Gg N,0.13922104426202841,Estimated
+9376,LU,Luxembourg,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,14.50066925664587,filled (b)
+9377,LU,Luxembourg,1994,Q_AL,quantity applied on arable land,Gg N,5.867924895513621,Estimated
+9378,LU,Luxembourg,1994,Q_PG,quantity applied on permanent grassland,Gg N,8.470805336175335,Estimated
+9379,LU,Luxembourg,1994,Q_PC,quantity applied on permanent crops,Gg N,0.1619390249569136,Estimated
+9380,LU,Luxembourg,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,14.414355749165836,filled (b)
+9381,LU,Luxembourg,1995,Q_AL,quantity applied on arable land,Gg N,5.764249222434751,Estimated
+9382,LU,Luxembourg,1995,Q_PG,quantity applied on permanent grassland,Gg N,8.499425964143528,Estimated
+9383,LU,Luxembourg,1995,Q_PC,quantity applied on permanent crops,Gg N,0.15068056258755638,Estimated
+9384,LU,Luxembourg,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,14.84592328656601,filled (b)
+9385,LU,Luxembourg,1996,Q_AL,quantity applied on arable land,Gg N,5.937471115143937,Estimated
+9386,LU,Luxembourg,1996,Q_PG,quantity applied on permanent grassland,Gg N,8.75327202252981,Estimated
+9387,LU,Luxembourg,1996,Q_PC,quantity applied on permanent crops,Gg N,0.15518014889226198,Estimated
+9388,LU,Luxembourg,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,14.759609779085975,filled (b)
+9389,LU,Luxembourg,1997,Q_AL,quantity applied on arable land,Gg N,5.896608351704824,Estimated
+9390,LU,Luxembourg,1997,Q_PG,quantity applied on permanent grassland,Gg N,8.702630544590793,Estimated
+9391,LU,Luxembourg,1997,Q_PC,quantity applied on permanent crops,Gg N,0.16037088279035894,Estimated
+9392,LU,Luxembourg,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,14.759609779085975,filled (b)
+9393,LU,Luxembourg,1998,Q_AL,quantity applied on arable land,Gg N,5.875948724508146,Estimated
+9394,LU,Luxembourg,1998,Q_PG,quantity applied on permanent grassland,Gg N,8.668870967328267,Estimated
+9395,LU,Luxembourg,1998,Q_PC,quantity applied on permanent crops,Gg N,0.21479008724956244,Estimated
+9396,LU,Luxembourg,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,14.759609779085975,filled (b)
+9397,LU,Luxembourg,1999,Q_AL,quantity applied on arable land,Gg N,5.921992991341261,Estimated
+9398,LU,Luxembourg,1999,Q_PG,quantity applied on permanent grassland,Gg N,8.630004545020235,Estimated
+9399,LU,Luxembourg,1999,Q_PC,quantity applied on permanent crops,Gg N,0.20761224272448,Estimated
 9400,LU,Luxembourg,2000,Q,total quantity of synthetic N fertilizer applied,Gg N,17.819,unprocessed
 9401,LU,Luxembourg,2000,Q_AL,quantity applied on arable land,Gg N,11.111288143140703,Estimated
 9402,LU,Luxembourg,2000,Q_PG,quantity applied on permanent grassland,Gg N,6.412289711197761,Estimated

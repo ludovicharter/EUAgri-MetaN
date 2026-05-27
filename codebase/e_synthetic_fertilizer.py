@@ -237,6 +237,13 @@ def run_fertilizer():
         if yr in be_lu_euragri.index:
             be_reconstructed[yr] = be_lu_euragri[yr] * (1 - lu_ratio)
 
+    lu_reconstructed = {}
+    for yr in years:
+        if yr in lu_euragri.index and pd.notna(lu_euragri[yr]):
+            continue  # LU data already available, no reconstruction needed
+        if yr in be_lu_euragri.index:
+            lu_reconstructed[yr] = be_lu_euragri[yr] * lu_ratio
+
     # Iterate through each region
     for region in regions['NUTS_ID']:
         region = str(region)  # Ensure the region code is a string
@@ -280,9 +287,11 @@ def run_fertilizer():
             except (KeyError, ValueError):
                 national_value = None
 
-            # If the national value is missing and country is BE, use BE_LU-based reconstruction
+            # If the national value is missing and country is BE or LU, use BE_LU-based reconstruction
             if (national_value is None or pd.isna(national_value)) and country == 'BE':
                 national_value = be_reconstructed.get(year)
+            if (national_value is None or pd.isna(national_value)) and country == 'LU':
+                national_value = lu_reconstructed.get(year)
 
             # If the national value is missing, skip
             if national_value is None or pd.isna(national_value):
