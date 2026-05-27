@@ -479,46 +479,46 @@
 477,AT3,West Austria,2019,Q_AL,quantity applied on arable land,Gg N,25.897583681530087,Estimated
 478,AT3,West Austria,2019,Q_PG,quantity applied on permanent grassland,Gg N,1.980054605044971,Estimated
 479,AT3,West Austria,2019,Q_PC,quantity applied on permanent crops,Gg N,0.06918966132305593,Estimated
-480,BE2,Vlaams Gewest,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-481,BE2,Vlaams Gewest,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-482,BE2,Vlaams Gewest,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-483,BE2,Vlaams Gewest,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-484,BE2,Vlaams Gewest,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-485,BE2,Vlaams Gewest,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-486,BE2,Vlaams Gewest,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-487,BE2,Vlaams Gewest,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-488,BE2,Vlaams Gewest,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-489,BE2,Vlaams Gewest,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-490,BE2,Vlaams Gewest,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-491,BE2,Vlaams Gewest,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-492,BE2,Vlaams Gewest,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-493,BE2,Vlaams Gewest,1993,Q_AL,quantity applied on arable land,Gg N,,Estimated
-494,BE2,Vlaams Gewest,1993,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-495,BE2,Vlaams Gewest,1993,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-496,BE2,Vlaams Gewest,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-497,BE2,Vlaams Gewest,1994,Q_AL,quantity applied on arable land,Gg N,,Estimated
-498,BE2,Vlaams Gewest,1994,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-499,BE2,Vlaams Gewest,1994,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-500,BE2,Vlaams Gewest,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-501,BE2,Vlaams Gewest,1995,Q_AL,quantity applied on arable land,Gg N,,Estimated
-502,BE2,Vlaams Gewest,1995,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-503,BE2,Vlaams Gewest,1995,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-504,BE2,Vlaams Gewest,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-505,BE2,Vlaams Gewest,1996,Q_AL,quantity applied on arable land,Gg N,,Estimated
-506,BE2,Vlaams Gewest,1996,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-507,BE2,Vlaams Gewest,1996,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-508,BE2,Vlaams Gewest,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-509,BE2,Vlaams Gewest,1997,Q_AL,quantity applied on arable land,Gg N,,Estimated
-510,BE2,Vlaams Gewest,1997,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-511,BE2,Vlaams Gewest,1997,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-512,BE2,Vlaams Gewest,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-513,BE2,Vlaams Gewest,1998,Q_AL,quantity applied on arable land,Gg N,,Estimated
-514,BE2,Vlaams Gewest,1998,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-515,BE2,Vlaams Gewest,1998,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-516,BE2,Vlaams Gewest,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-517,BE2,Vlaams Gewest,1999,Q_AL,quantity applied on arable land,Gg N,,Estimated
-518,BE2,Vlaams Gewest,1999,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-519,BE2,Vlaams Gewest,1999,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+480,BE2,Vlaams Gewest,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,89.38701750847918,filled (b)
+481,BE2,Vlaams Gewest,1990,Q_AL,quantity applied on arable land,Gg N,55.91759741696411,Estimated
+482,BE2,Vlaams Gewest,1990,Q_PG,quantity applied on permanent grassland,Gg N,32.599328759289314,Estimated
+483,BE2,Vlaams Gewest,1990,Q_PC,quantity applied on permanent crops,Gg N,0.8700913322257529,Estimated
+484,BE2,Vlaams Gewest,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,87.46471605668393,filled (b)
+485,BE2,Vlaams Gewest,1991,Q_AL,quantity applied on arable land,Gg N,53.956239610795954,Estimated
+486,BE2,Vlaams Gewest,1991,Q_PG,quantity applied on permanent grassland,Gg N,32.5947771930669,Estimated
+487,BE2,Vlaams Gewest,1991,Q_PC,quantity applied on permanent crops,Gg N,0.9136992528210676,Estimated
+488,BE2,Vlaams Gewest,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,83.13953779014462,filled (b)
+489,BE2,Vlaams Gewest,1992,Q_AL,quantity applied on arable land,Gg N,51.18459968313432,Estimated
+490,BE2,Vlaams Gewest,1992,Q_PG,quantity applied on permanent grassland,Gg N,31.036756721110507,Estimated
+491,BE2,Vlaams Gewest,1992,Q_PC,quantity applied on permanent crops,Gg N,0.9181813858997837,Estimated
+492,BE2,Vlaams Gewest,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,81.21723633834937,filled (b)
+493,BE2,Vlaams Gewest,1993,Q_AL,quantity applied on arable land,Gg N,49.85190729950802,Estimated
+494,BE2,Vlaams Gewest,1993,Q_PG,quantity applied on permanent grassland,Gg N,30.437750221344224,Estimated
+495,BE2,Vlaams Gewest,1993,Q_PC,quantity applied on permanent crops,Gg N,0.9275788174971193,Estimated
+496,BE2,Vlaams Gewest,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,80.73666097540055,filled (b)
+497,BE2,Vlaams Gewest,1994,Q_AL,quantity applied on arable land,Gg N,49.50982557763071,Estimated
+498,BE2,Vlaams Gewest,1994,Q_PG,quantity applied on permanent grassland,Gg N,30.277229657062307,Estimated
+499,BE2,Vlaams Gewest,1994,Q_PC,quantity applied on permanent crops,Gg N,0.949605740707542,Estimated
+500,BE2,Vlaams Gewest,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,80.25608561245173,filled (b)
+501,BE2,Vlaams Gewest,1995,Q_AL,quantity applied on arable land,Gg N,49.437549205373074,Estimated
+502,BE2,Vlaams Gewest,1995,Q_PG,quantity applied on permanent grassland,Gg N,29.875128886463678,Estimated
+503,BE2,Vlaams Gewest,1995,Q_PC,quantity applied on permanent crops,Gg N,0.9434075206149771,Estimated
+504,BE2,Vlaams Gewest,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,82.6589624271958,filled (b)
+505,BE2,Vlaams Gewest,1996,Q_AL,quantity applied on arable land,Gg N,50.47577285838183,Estimated
+506,BE2,Vlaams Gewest,1996,Q_PG,quantity applied on permanent grassland,Gg N,31.177423841778126,Estimated
+507,BE2,Vlaams Gewest,1996,Q_PC,quantity applied on permanent crops,Gg N,1.0057657270358475,Estimated
+508,BE2,Vlaams Gewest,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,82.17838706424698,filled (b)
+509,BE2,Vlaams Gewest,1997,Q_AL,quantity applied on arable land,Gg N,50.022789126068616,Estimated
+510,BE2,Vlaams Gewest,1997,Q_PG,quantity applied on permanent grassland,Gg N,31.120072488139073,Estimated
+511,BE2,Vlaams Gewest,1997,Q_PC,quantity applied on permanent crops,Gg N,1.0355254500392865,Estimated
+512,BE2,Vlaams Gewest,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,82.17838706424698,filled (b)
+513,BE2,Vlaams Gewest,1998,Q_AL,quantity applied on arable land,Gg N,50.72180442628153,Estimated
+514,BE2,Vlaams Gewest,1998,Q_PG,quantity applied on permanent grassland,Gg N,30.3943762153359,Estimated
+515,BE2,Vlaams Gewest,1998,Q_PC,quantity applied on permanent crops,Gg N,1.062206422629548,Estimated
+516,BE2,Vlaams Gewest,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,82.17838706424698,filled (b)
+517,BE2,Vlaams Gewest,1999,Q_AL,quantity applied on arable land,Gg N,49.60536026786008,Estimated
+518,BE2,Vlaams Gewest,1999,Q_PG,quantity applied on permanent grassland,Gg N,31.46436609422877,Estimated
+519,BE2,Vlaams Gewest,1999,Q_PC,quantity applied on permanent crops,Gg N,1.1086607021581323,Estimated
 520,BE2,Vlaams Gewest,2000,Q,total quantity of synthetic N fertilizer applied,Gg N,85.65171428571428,filled (a)
 521,BE2,Vlaams Gewest,2000,Q_AL,quantity applied on arable land,Gg N,63.84958970008959,Estimated
 522,BE2,Vlaams Gewest,2000,Q_PG,quantity applied on permanent grassland,Gg N,20.805745141888288,Estimated
@@ -599,46 +599,46 @@
 597,BE2,Vlaams Gewest,2019,Q_AL,quantity applied on arable land,Gg N,59.977673686804735,Estimated
 598,BE2,Vlaams Gewest,2019,Q_PG,quantity applied on permanent grassland,Gg N,19.574074172416022,Estimated
 599,BE2,Vlaams Gewest,2019,Q_PC,quantity applied on permanent crops,Gg N,1.1079469459740632,Estimated
-600,BE3,Région Wallonne,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-601,BE3,Région Wallonne,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-602,BE3,Région Wallonne,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-603,BE3,Région Wallonne,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-604,BE3,Région Wallonne,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-605,BE3,Région Wallonne,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-606,BE3,Région Wallonne,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-607,BE3,Région Wallonne,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-608,BE3,Région Wallonne,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-609,BE3,Région Wallonne,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-610,BE3,Région Wallonne,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-611,BE3,Région Wallonne,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-612,BE3,Région Wallonne,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-613,BE3,Région Wallonne,1993,Q_AL,quantity applied on arable land,Gg N,,Estimated
-614,BE3,Région Wallonne,1993,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-615,BE3,Région Wallonne,1993,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-616,BE3,Région Wallonne,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-617,BE3,Région Wallonne,1994,Q_AL,quantity applied on arable land,Gg N,,Estimated
-618,BE3,Région Wallonne,1994,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-619,BE3,Région Wallonne,1994,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-620,BE3,Région Wallonne,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-621,BE3,Région Wallonne,1995,Q_AL,quantity applied on arable land,Gg N,,Estimated
-622,BE3,Région Wallonne,1995,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-623,BE3,Région Wallonne,1995,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-624,BE3,Région Wallonne,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-625,BE3,Région Wallonne,1996,Q_AL,quantity applied on arable land,Gg N,,Estimated
-626,BE3,Région Wallonne,1996,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-627,BE3,Région Wallonne,1996,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-628,BE3,Région Wallonne,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-629,BE3,Région Wallonne,1997,Q_AL,quantity applied on arable land,Gg N,,Estimated
-630,BE3,Région Wallonne,1997,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-631,BE3,Région Wallonne,1997,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-632,BE3,Région Wallonne,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-633,BE3,Région Wallonne,1998,Q_AL,quantity applied on arable land,Gg N,,Estimated
-634,BE3,Région Wallonne,1998,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-635,BE3,Région Wallonne,1998,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-636,BE3,Région Wallonne,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-637,BE3,Région Wallonne,1999,Q_AL,quantity applied on arable land,Gg N,,Estimated
-638,BE3,Région Wallonne,1999,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-639,BE3,Région Wallonne,1999,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+600,BE3,Région Wallonne,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,80.55867010023431,filled (b)
+601,BE3,Région Wallonne,1990,Q_AL,quantity applied on arable land,Gg N,41.5831726683192,Estimated
+602,BE3,Région Wallonne,1990,Q_PG,quantity applied on permanent grassland,Gg N,38.92633845330125,Estimated
+603,BE3,Région Wallonne,1990,Q_PC,quantity applied on permanent crops,Gg N,0.0491589786138621,Estimated
+604,BE3,Région Wallonne,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,78.8262255819497,filled (b)
+605,BE3,Région Wallonne,1991,Q_AL,quantity applied on arable land,Gg N,40.027029363244964,Estimated
+606,BE3,Région Wallonne,1991,Q_PG,quantity applied on permanent grassland,Gg N,38.74787008026805,Estimated
+607,BE3,Région Wallonne,1991,Q_PC,quantity applied on permanent crops,Gg N,0.05132613843668548,Estimated
+608,BE3,Région Wallonne,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,74.92822541580934,filled (b)
+609,BE3,Région Wallonne,1992,Q_AL,quantity applied on arable land,Gg N,37.942829095031826,Estimated
+610,BE3,Région Wallonne,1992,Q_PG,quantity applied on permanent grassland,Gg N,36.93381407626977,Estimated
+611,BE3,Région Wallonne,1992,Q_PC,quantity applied on permanent crops,Gg N,0.051582244507740564,Estimated
+612,BE3,Région Wallonne,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,73.19578089752473,filled (b)
+613,BE3,Région Wallonne,1993,Q_AL,quantity applied on arable land,Gg N,36.37511620796595,Estimated
+614,BE3,Région Wallonne,1993,Q_PG,quantity applied on permanent grassland,Gg N,36.767798652084785,Estimated
+615,BE3,Région Wallonne,1993,Q_PC,quantity applied on permanent crops,Gg N,0.05286603747398984,Estimated
+616,BE3,Région Wallonne,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,72.76266976795358,filled (b)
+617,BE3,Région Wallonne,1994,Q_AL,quantity applied on arable land,Gg N,35.90184333317392,Estimated
+618,BE3,Région Wallonne,1994,Q_PG,quantity applied on permanent grassland,Gg N,36.8063891777223,Estimated
+619,BE3,Région Wallonne,1994,Q_PC,quantity applied on permanent crops,Gg N,0.054437257057361674,Estimated
+620,BE3,Région Wallonne,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,72.32955863838242,filled (b)
+621,BE3,Région Wallonne,1995,Q_AL,quantity applied on arable land,Gg N,35.889573984876286,Estimated
+622,BE3,Région Wallonne,1995,Q_PG,quantity applied on permanent grassland,Gg N,36.38579611810061,Estimated
+623,BE3,Région Wallonne,1995,Q_PC,quantity applied on permanent crops,Gg N,0.05418853540552792,Estimated
+624,BE3,Région Wallonne,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,74.49511428623819,filled (b)
+625,BE3,Région Wallonne,1996,Q_AL,quantity applied on arable land,Gg N,36.88787272770144,Estimated
+626,BE3,Région Wallonne,1996,Q_PG,quantity applied on permanent grassland,Gg N,37.55015963407941,Estimated
+627,BE3,Région Wallonne,1996,Q_PC,quantity applied on permanent crops,Gg N,0.05708192445734632,Estimated
+628,BE3,Région Wallonne,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,74.06200315666703,filled (b)
+629,BE3,Région Wallonne,1997,Q_AL,quantity applied on arable land,Gg N,36.698583944840024,Estimated
+630,BE3,Région Wallonne,1997,Q_PG,quantity applied on permanent grassland,Gg N,37.30748346242817,Estimated
+631,BE3,Région Wallonne,1997,Q_PC,quantity applied on permanent crops,Gg N,0.055935749398836325,Estimated
+632,BE3,Région Wallonne,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,74.06200315666703,filled (b)
+633,BE3,Région Wallonne,1998,Q_AL,quantity applied on arable land,Gg N,37.10819279496617,Estimated
+634,BE3,Région Wallonne,1998,Q_PG,quantity applied on permanent grassland,Gg N,36.893879238610836,Estimated
+635,BE3,Région Wallonne,1998,Q_PC,quantity applied on permanent crops,Gg N,0.05993112309002568,Estimated
+636,BE3,Région Wallonne,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,74.06200315666703,filled (b)
+637,BE3,Région Wallonne,1999,Q_AL,quantity applied on arable land,Gg N,36.587720234296334,Estimated
+638,BE3,Région Wallonne,1999,Q_PG,quantity applied on permanent grassland,Gg N,37.40882862099148,Estimated
+639,BE3,Région Wallonne,1999,Q_PC,quantity applied on permanent crops,Gg N,0.06545430137921798,Estimated
 640,BE3,Région Wallonne,2000,Q,total quantity of synthetic N fertilizer applied,Gg N,77.19228571428572,filled (a)
 641,BE3,Région Wallonne,2000,Q_AL,quantity applied on arable land,Gg N,51.34800211293077,Estimated
 642,BE3,Région Wallonne,2000,Q_PG,quantity applied on permanent grassland,Gg N,25.77005703263369,Estimated

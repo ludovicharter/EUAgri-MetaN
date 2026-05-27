@@ -2900,9 +2900,9 @@
 2898,BE2,Vlaams Gewest,1990,C_total,total cereal production,Gg N,17.11113202877708
 2899,BE2,Vlaams Gewest,1990,PG_H,permanent grassland production,Gg N,41.15086333467416
 2900,BE2,Vlaams Gewest,1990,F_ingestion,effective fodder ingestion,Gg N,12.347359270962706
-2901,BE2,Vlaams Gewest,1990,total_N_input,soil N input from manure,%,88.66323445802836
-2902,BE2,Vlaams Gewest,1990,NS,soil N surplus,kgN/ha,186.2877477391833
-2903,BE2,Vlaams Gewest,1990,NUE,NUE arable,no unit,0.3103381835631051
+2901,BE2,Vlaams Gewest,1990,total_N_input,soil N input from manure,%,61.84250265666438
+2902,BE2,Vlaams Gewest,1990,NS,soil N surplus,kgN/ha,329.1064590089184
+2903,BE2,Vlaams Gewest,1990,NUE,NUE arable,no unit,0.2164605211932679
 2904,BE2,Vlaams Gewest,1991,H_ingestion,total human ingestion,Gg N,33.11194632288555
 2905,BE2,Vlaams Gewest,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.70946256
 2906,BE2,Vlaams Gewest,1991,E_total,total animal excretion,Gg N,190.77064827642977
@@ -2924,9 +2924,9 @@
 2922,BE2,Vlaams Gewest,1991,C_total,total cereal production,Gg N,17.466902804223047
 2923,BE2,Vlaams Gewest,1991,PG_H,permanent grassland production,Gg N,41.15086333467416
 2924,BE2,Vlaams Gewest,1991,F_ingestion,effective fodder ingestion,Gg N,12.388930855149983
-2925,BE2,Vlaams Gewest,1991,total_N_input,soil N input from manure,%,88.47072942057423
-2926,BE2,Vlaams Gewest,1991,NS,soil N surplus,kgN/ha,191.2504451322616
-2927,BE2,Vlaams Gewest,1991,NUE,NUE arable,no unit,0.312886584849721
+2925,BE2,Vlaams Gewest,1991,total_N_input,soil N input from manure,%,62.25168540163823
+2926,BE2,Vlaams Gewest,1991,NS,soil N surplus,kgN/ha,334.2514003637362
+2927,BE2,Vlaams Gewest,1991,NUE,NUE arable,no unit,0.2201600164712578
 2928,BE2,Vlaams Gewest,1992,H_ingestion,total human ingestion,Gg N,33.26695290811657
 2929,BE2,Vlaams Gewest,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.75023407
 2930,BE2,Vlaams Gewest,1992,E_total,total animal excretion,Gg N,193.75601827642973
@@ -2948,9 +2948,9 @@
 2946,BE2,Vlaams Gewest,1992,C_total,total cereal production,Gg N,16.963397538552293
 2947,BE2,Vlaams Gewest,1992,PG_H,permanent grassland production,Gg N,41.15086333467416
 2948,BE2,Vlaams Gewest,1992,F_ingestion,effective fodder ingestion,Gg N,12.3340521306818
-2949,BE2,Vlaams Gewest,1992,total_N_input,soil N input from manure,%,88.18450255726326
-2950,BE2,Vlaams Gewest,1992,NS,soil N surplus,kgN/ha,198.01225829040965
-2951,BE2,Vlaams Gewest,1992,NUE,NUE arable,no unit,0.3100631841658391
+2949,BE2,Vlaams Gewest,1992,total_N_input,soil N input from manure,%,63.423884285009954
+2950,BE2,Vlaams Gewest,1992,NS,soil N surplus,kgN/ha,334.3182524977191
+2951,BE2,Vlaams Gewest,1992,NUE,NUE arable,no unit,0.2230030327699136
 2952,BE2,Vlaams Gewest,1993,H_ingestion,total human ingestion,Gg N,33.437861431834676
 2953,BE2,Vlaams Gewest,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.79518828
 2954,BE2,Vlaams Gewest,1993,E_total,total animal excretion,Gg N,190.96979827642977
@@ -2972,9 +2972,9 @@
 2970,BE2,Vlaams Gewest,1993,C_total,total cereal production,Gg N,17.78311791927087
 2971,BE2,Vlaams Gewest,1993,PG_H,permanent grassland production,Gg N,41.15086333467416
 2972,BE2,Vlaams Gewest,1993,F_ingestion,effective fodder ingestion,Gg N,12.514112491739896
-2973,BE2,Vlaams Gewest,1993,total_N_input,soil N input from manure,%,88.3336275623387
-2974,BE2,Vlaams Gewest,1993,NS,soil N surplus,kgN/ha,190.7704001078964
-2975,BE2,Vlaams Gewest,1993,NUE,NUE arable,no unit,0.3214104705357772
+2973,BE2,Vlaams Gewest,1993,total_N_input,soil N input from manure,%,63.61878798045028
+2974,BE2,Vlaams Gewest,1993,NS,soil N surplus,kgN/ha,324.5371470849964
+2975,BE2,Vlaams Gewest,1993,NUE,NUE arable,no unit,0.2314831298565431
 2976,BE2,Vlaams Gewest,1994,H_ingestion,total human ingestion,Gg N,33.566420280383376
 2977,BE2,Vlaams Gewest,1994,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.82900322
 2978,BE2,Vlaams Gewest,1994,E_total,total animal excretion,Gg N,194.46784827642975
@@ -2996,9 +2996,9 @@
 2994,BE2,Vlaams Gewest,1994,C_total,total cereal production,Gg N,16.90976354238484
 2995,BE2,Vlaams Gewest,1994,PG_H,permanent grassland production,Gg N,41.15086333467416
 2996,BE2,Vlaams Gewest,1994,F_ingestion,effective fodder ingestion,Gg N,12.712988852797992
-2997,BE2,Vlaams Gewest,1994,total_N_input,soil N input from manure,%,88.87104638701598
-2998,BE2,Vlaams Gewest,1994,NS,soil N surplus,kgN/ha,200.1489577312387
-2999,BE2,Vlaams Gewest,1994,NUE,NUE arable,no unit,0.3035112406328021
+2997,BE2,Vlaams Gewest,1994,total_N_input,soil N input from manure,%,64.34905969114124
+2998,BE2,Vlaams Gewest,1994,NS,soil N surplus,kgN/ha,333.28824213366465
+2999,BE2,Vlaams Gewest,1994,NUE,NUE arable,no unit,0.2197640709141682
 3000,BE2,Vlaams Gewest,1995,H_ingestion,total human ingestion,Gg N,33.67597717355581
 3001,BE2,Vlaams Gewest,1995,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.85782006
 3002,BE2,Vlaams Gewest,1995,E_total,total animal excretion,Gg N,195.59330827642972
@@ -3020,9 +3020,9 @@
 3018,BE2,Vlaams Gewest,1995,C_total,total cereal production,Gg N,18.19148202267428
 3019,BE2,Vlaams Gewest,1995,PG_H,permanent grassland production,Gg N,41.15086333467416
 3020,BE2,Vlaams Gewest,1995,F_ingestion,effective fodder ingestion,Gg N,12.896185213856088
-3021,BE2,Vlaams Gewest,1995,total_N_input,soil N input from manure,%,88.9788020805089
-3022,BE2,Vlaams Gewest,1995,NS,soil N surplus,kgN/ha,191.22072965927256
-3023,BE2,Vlaams Gewest,1995,NUE,NUE arable,no unit,0.3240966175128981
+3021,BE2,Vlaams Gewest,1995,total_N_input,soil N input from manure,%,64.59579040835595
+3022,BE2,Vlaams Gewest,1995,NS,soil N surplus,kgN/ha,322.57878512530107
+3023,BE2,Vlaams Gewest,1995,NUE,NUE arable,no unit,0.235283873095727
 3024,BE2,Vlaams Gewest,1996,H_ingestion,total human ingestion,Gg N,33.757788915570075
 3025,BE2,Vlaams Gewest,1996,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.87933907
 3026,BE2,Vlaams Gewest,1996,E_total,total animal excretion,Gg N,190.68748827642975
@@ -3044,9 +3044,9 @@
 3042,BE2,Vlaams Gewest,1996,C_total,total cereal production,Gg N,21.25169592309048
 3043,BE2,Vlaams Gewest,1996,PG_H,permanent grassland production,Gg N,41.15086333467416
 3044,BE2,Vlaams Gewest,1996,F_ingestion,effective fodder ingestion,Gg N,13.063161213856088
-3045,BE2,Vlaams Gewest,1996,total_N_input,soil N input from manure,%,89.37620678715615
-3046,BE2,Vlaams Gewest,1996,NS,soil N surplus,kgN/ha,178.76985039853398
-3047,BE2,Vlaams Gewest,1996,NUE,NUE arable,no unit,0.3573251366468771
+3045,BE2,Vlaams Gewest,1996,total_N_input,soil N input from manure,%,64.19092716093938
+3046,BE2,Vlaams Gewest,1996,NS,soil N surplus,kgN/ha,315.97186739884216
+3047,BE2,Vlaams Gewest,1996,NUE,NUE arable,no unit,0.2566346530446913
 3048,BE2,Vlaams Gewest,1997,H_ingestion,total human ingestion,Gg N,33.86380375240801
 3049,BE2,Vlaams Gewest,1997,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.90722424
 3050,BE2,Vlaams Gewest,1997,E_total,total animal excretion,Gg N,190.34412827642976
@@ -3068,9 +3068,9 @@
 3066,BE2,Vlaams Gewest,1997,C_total,total cereal production,Gg N,19.270915241685593
 3067,BE2,Vlaams Gewest,1997,PG_H,permanent grassland production,Gg N,41.15086333467416
 3068,BE2,Vlaams Gewest,1997,F_ingestion,effective fodder ingestion,Gg N,13.027961213856088
-3069,BE2,Vlaams Gewest,1997,total_N_input,soil N input from manure,%,89.51790043452425
-3070,BE2,Vlaams Gewest,1997,NS,soil N surplus,kgN/ha,184.5720985959525
-3071,BE2,Vlaams Gewest,1997,NUE,NUE arable,no unit,0.3454564432361318
+3069,BE2,Vlaams Gewest,1997,total_N_input,soil N input from manure,%,64.4351978004836
+3070,BE2,Vlaams Gewest,1997,NS,soil N surplus,kgN/ha,321.6298091969377
+3071,BE2,Vlaams Gewest,1997,NUE,NUE arable,no unit,0.2486603700860133
 3072,BE2,Vlaams Gewest,1998,H_ingestion,total human ingestion,Gg N,33.941637139414496
 3073,BE2,Vlaams Gewest,1998,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.92769682
 3074,BE2,Vlaams Gewest,1998,E_total,total animal excretion,Gg N,191.83388827642972
@@ -3092,9 +3092,9 @@
 3090,BE2,Vlaams Gewest,1998,C_total,total cereal production,Gg N,20.872024567843845
 3091,BE2,Vlaams Gewest,1998,PG_H,permanent grassland production,Gg N,41.15086333467416
 3092,BE2,Vlaams Gewest,1998,F_ingestion,effective fodder ingestion,Gg N,12.780345213856087
-3093,BE2,Vlaams Gewest,1998,total_N_input,soil N input from manure,%,88.92284540754544
-3094,BE2,Vlaams Gewest,1998,NS,soil N surplus,kgN/ha,181.6349219094328
-3095,BE2,Vlaams Gewest,1998,NUE,NUE arable,no unit,0.3432400554269516
+3093,BE2,Vlaams Gewest,1998,total_N_input,soil N input from manure,%,64.00522571434152
+3094,BE2,Vlaams Gewest,1998,NS,soil N surplus,kgN/ha,315.52929313420185
+3095,BE2,Vlaams Gewest,1998,NUE,NUE arable,no unit,0.2470586396681022
 3096,BE2,Vlaams Gewest,1999,H_ingestion,total human ingestion,Gg N,34.02462573969225
 3097,BE2,Vlaams Gewest,1999,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.94952538
 3098,BE2,Vlaams Gewest,1999,E_total,total animal excretion,Gg N,188.07339827642977
@@ -3116,9 +3116,9 @@
 3114,BE2,Vlaams Gewest,1999,C_total,total cereal production,Gg N,17.108929799021606
 3115,BE2,Vlaams Gewest,1999,PG_H,permanent grassland production,Gg N,41.15086333467416
 3116,BE2,Vlaams Gewest,1999,F_ingestion,effective fodder ingestion,Gg N,13.024057213856088
-3117,BE2,Vlaams Gewest,1999,total_N_input,soil N input from manure,%,89.1355325487209
-3118,BE2,Vlaams Gewest,1999,NS,soil N surplus,kgN/ha,187.88141512561887
-3119,BE2,Vlaams Gewest,1999,NUE,NUE arable,no unit,0.3418501976683969
+3117,BE2,Vlaams Gewest,1999,total_N_input,soil N input from manure,%,64.08242586415605
+3118,BE2,Vlaams Gewest,1999,NS,soil N surplus,kgN/ha,326.68723322595537
+3119,BE2,Vlaams Gewest,1999,NUE,NUE arable,no unit,0.2457671965639307
 3120,BE2,Vlaams Gewest,2000,H_ingestion,total human ingestion,Gg N,34.101626714756264
 3121,BE2,Vlaams Gewest,2000,H_ingestion_cereals,total human ingestion of cereal,Gg N,8.96977901
 3122,BE2,Vlaams Gewest,2000,E_total,total animal excretion,Gg N,189.92258827642976
@@ -3620,9 +3620,9 @@
 3618,BE3,Région Wallonne,1990,C_total,total cereal production,Gg N,24.666611321764154
 3619,BE3,Région Wallonne,1990,PG_H,permanent grassland production,Gg N,40.419927515446396
 3620,BE3,Région Wallonne,1990,F_ingestion,effective fodder ingestion,Gg N,9.0861626286936
-3621,BE3,Région Wallonne,1990,total_N_input,soil N input from manure,%,78.98250634251961
-3622,BE3,Région Wallonne,1990,NS,soil N surplus,kgN/ha,16.63985767774207
-3623,BE3,Région Wallonne,1990,NUE,NUE arable,no unit,0.7265439619876054
+3621,BE3,Région Wallonne,1990,total_N_input,soil N input from manure,%,47.737976171668244
+3622,BE3,Région Wallonne,1990,NS,soil N surplus,kgN/ha,106.72776560079404
+3623,BE3,Région Wallonne,1990,NUE,NUE arable,no unit,0.4391319033941828
 3624,BE3,Région Wallonne,1991,H_ingestion,total human ingestion,Gg N,18.707999145139514
 3625,BE3,Région Wallonne,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.9207804500000005
 3626,BE3,Région Wallonne,1991,E_total,total animal excretion,Gg N,97.49144672357028
@@ -3644,9 +3644,9 @@
 3642,BE3,Région Wallonne,1991,C_total,total cereal production,Gg N,25.56373005357129
 3643,BE3,Région Wallonne,1991,PG_H,permanent grassland production,Gg N,40.419927515446396
 3644,BE3,Région Wallonne,1991,F_ingestion,effective fodder ingestion,Gg N,9.401391044506324
-3645,BE3,Région Wallonne,1991,total_N_input,soil N input from manure,%,78.26317483539056
-3646,BE3,Région Wallonne,1991,NS,soil N surplus,kgN/ha,15.499897381933035
-3647,BE3,Région Wallonne,1991,NUE,NUE arable,no unit,0.738059815641558
+3645,BE3,Région Wallonne,1991,total_N_input,soil N input from manure,%,47.883677684718116
+3646,BE3,Région Wallonne,1991,NS,soil N surplus,kgN/ha,105.18444933602385
+3647,BE3,Région Wallonne,1991,NUE,NUE arable,no unit,0.4515663771442307
 3648,BE3,Région Wallonne,1992,H_ingestion,total human ingestion,Gg N,18.806327088246693
 3649,BE3,Région Wallonne,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.946643730000001
 3650,BE3,Région Wallonne,1992,E_total,total animal excretion,Gg N,94.59815672357028
@@ -3668,9 +3668,9 @@
 3666,BE3,Région Wallonne,1992,C_total,total cereal production,Gg N,24.57469999936001
 3667,BE3,Région Wallonne,1992,PG_H,permanent grassland production,Gg N,40.419927515446396
 3668,BE3,Région Wallonne,1992,F_ingestion,effective fodder ingestion,Gg N,9.107597768974507
-3669,BE3,Région Wallonne,1992,total_N_input,soil N input from manure,%,77.29037013715391
-3670,BE3,Région Wallonne,1992,NS,soil N surplus,kgN/ha,14.408286440582224
-3671,BE3,Région Wallonne,1992,NUE,NUE arable,no unit,0.7459707872733862
+3669,BE3,Région Wallonne,1992,total_N_input,soil N input from manure,%,47.96206377931748
+3670,BE3,Région Wallonne,1992,NS,soil N surplus,kgN/ha,99.90119441443343
+3671,BE3,Région Wallonne,1992,NUE,NUE arable,no unit,0.4629075836126057
 3672,BE3,Région Wallonne,1993,H_ingestion,total human ingestion,Gg N,18.906383003730987
 3673,BE3,Région Wallonne,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.97296152
 3674,BE3,Région Wallonne,1993,E_total,total animal excretion,Gg N,93.79807672357028
@@ -3692,9 +3692,9 @@
 3690,BE3,Région Wallonne,1993,C_total,total cereal production,Gg N,25.27637773742719
 3691,BE3,Région Wallonne,1993,PG_H,permanent grassland production,Gg N,40.419927515446396
 3692,BE3,Région Wallonne,1993,F_ingestion,effective fodder ingestion,Gg N,9.365702741249745
-3693,BE3,Région Wallonne,1993,total_N_input,soil N input from manure,%,77.56800109288665
-3694,BE3,Région Wallonne,1993,NS,soil N surplus,kgN/ha,7.929002835956864
-3695,BE3,Région Wallonne,1993,NUE,NUE arable,no unit,0.7872266377408117
+3693,BE3,Région Wallonne,1993,total_N_input,soil N input from manure,%,48.43021195475279
+3694,BE3,Région Wallonne,1993,NS,soil N surplus,kgN/ha,93.04623364971744
+3695,BE3,Région Wallonne,1993,NUE,NUE arable,no unit,0.4915113498485035
 3696,BE3,Région Wallonne,1994,H_ingestion,total human ingestion,Gg N,18.970605020285163
 3697,BE3,Région Wallonne,1994,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.98985389
 3698,BE3,Région Wallonne,1994,E_total,total animal excretion,Gg N,94.74479672357027
@@ -3716,9 +3716,9 @@
 3714,BE3,Région Wallonne,1994,C_total,total cereal production,Gg N,24.510850392239142
 3715,BE3,Région Wallonne,1994,PG_H,permanent grassland production,Gg N,40.419927515446396
 3716,BE3,Région Wallonne,1994,F_ingestion,effective fodder ingestion,Gg N,9.89036771352498
-3717,BE3,Région Wallonne,1994,total_N_input,soil N input from manure,%,78.42476691119744
-3718,BE3,Région Wallonne,1994,NS,soil N surplus,kgN/ha,13.653547461540006
-3719,BE3,Région Wallonne,1994,NUE,NUE arable,no unit,0.7506985148814572
+3717,BE3,Région Wallonne,1994,total_N_input,soil N input from manure,%,49.22110336406329
+3718,BE3,Région Wallonne,1994,NS,soil N surplus,kgN/ha,98.86588994947898
+3719,BE3,Région Wallonne,1994,NUE,NUE arable,no unit,0.4711548488001087
 3720,BE3,Région Wallonne,1995,H_ingestion,total human ingestion,Gg N,19.018534725855098
 3721,BE3,Région Wallonne,1995,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.00246088
 3722,BE3,Région Wallonne,1995,E_total,total animal excretion,Gg N,94.34181672357026
@@ -3740,9 +3740,9 @@
 3738,BE3,Région Wallonne,1995,C_total,total cereal production,Gg N,25.806759292897436
 3739,BE3,Région Wallonne,1995,PG_H,permanent grassland production,Gg N,40.419927515446396
 3740,BE3,Région Wallonne,1995,F_ingestion,effective fodder ingestion,Gg N,10.24255268580022
-3741,BE3,Région Wallonne,1995,total_N_input,soil N input from manure,%,78.04039340453278
-3742,BE3,Région Wallonne,1995,NS,soil N surplus,kgN/ha,6.429669731660921
-3743,BE3,Région Wallonne,1995,NUE,NUE arable,no unit,0.7958676637299555
+3741,BE3,Région Wallonne,1995,total_N_input,soil N input from manure,%,49.00578933948274
+3742,BE3,Région Wallonne,1995,NS,soil N surplus,kgN/ha,90.66769415170585
+3743,BE3,Région Wallonne,1995,NUE,NUE arable,no unit,0.4997684067106605
 3744,BE3,Région Wallonne,1996,H_ingestion,total human ingestion,Gg N,19.028179222843658
 3745,BE3,Région Wallonne,1996,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.00499768
 3746,BE3,Région Wallonne,1996,E_total,total animal excretion,Gg N,92.50116672357028
@@ -3764,9 +3764,9 @@
 3762,BE3,Région Wallonne,1996,C_total,total cereal production,Gg N,30.262374152585554
 3763,BE3,Région Wallonne,1996,PG_H,permanent grassland production,Gg N,40.419927515446396
 3764,BE3,Région Wallonne,1996,F_ingestion,effective fodder ingestion,Gg N,10.25432868580022
-3765,BE3,Région Wallonne,1996,total_N_input,soil N input from manure,%,79.57335655597483
-3766,BE3,Région Wallonne,1996,NS,soil N surplus,kgN/ha,-10.537246564173357
-3767,BE3,Région Wallonne,1996,NUE,NUE arable,no unit,0.8998799543944248
+3765,BE3,Région Wallonne,1996,total_N_input,soil N input from manure,%,49.090439550110105
+3766,BE3,Région Wallonne,1996,NS,soil N surplus,kgN/ha,76.39995434195185
+3767,BE3,Région Wallonne,1996,NUE,NUE arable,no unit,0.5551544438430301
 3768,BE3,Région Wallonne,1997,H_ingestion,total human ingestion,Gg N,19.063984417913687
 3769,BE3,Région Wallonne,1997,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.01441555
 3770,BE3,Région Wallonne,1997,E_total,total animal excretion,Gg N,90.69454672357028
@@ -3788,9 +3788,9 @@
 3786,BE3,Région Wallonne,1997,C_total,total cereal production,Gg N,28.197530052853647
 3787,BE3,Région Wallonne,1997,PG_H,permanent grassland production,Gg N,40.419927515446396
 3788,BE3,Région Wallonne,1997,F_ingestion,effective fodder ingestion,Gg N,10.53516068580022
-3789,BE3,Région Wallonne,1997,total_N_input,soil N input from manure,%,79.32419480897055
-3790,BE3,Région Wallonne,1997,NS,soil N surplus,kgN/ha,-10.36792304914843
-3791,BE3,Région Wallonne,1997,NUE,NUE arable,no unit,0.90086294633156
+3789,BE3,Région Wallonne,1997,total_N_input,soil N input from manure,%,48.62623278429679
+3790,BE3,Région Wallonne,1997,NS,soil N surplus,kgN/ha,76.00526438506616
+3791,BE3,Région Wallonne,1997,NUE,NUE arable,no unit,0.5522346799807926
 3792,BE3,Région Wallonne,1998,H_ingestion,total human ingestion,Gg N,19.09786645435802
 3793,BE3,Région Wallonne,1998,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.02332757
 3794,BE3,Région Wallonne,1998,E_total,total animal excretion,Gg N,91.07695672357028
@@ -3812,9 +3812,9 @@
 3810,BE3,Région Wallonne,1998,C_total,total cereal production,Gg N,29.34382849893159
 3811,BE3,Région Wallonne,1998,PG_H,permanent grassland production,Gg N,40.419927515446396
 3812,BE3,Région Wallonne,1998,F_ingestion,effective fodder ingestion,Gg N,10.353336685800219
-3813,BE3,Région Wallonne,1998,total_N_input,soil N input from manure,%,78.51269141845664
-3814,BE3,Région Wallonne,1998,NS,soil N surplus,kgN/ha,-6.438509508506681
-3815,BE3,Région Wallonne,1998,NUE,NUE arable,no unit,0.8776009866719963
+3813,BE3,Région Wallonne,1998,total_N_input,soil N input from manure,%,48.071893039375816
+3814,BE3,Région Wallonne,1998,NS,soil N surplus,kgN/ha,78.98546930945574
+3815,BE3,Région Wallonne,1998,NUE,NUE arable,no unit,0.5373391231449928
 3816,BE3,Région Wallonne,1999,H_ingestion,total human ingestion,Gg N,19.130858671139716
 3817,BE3,Région Wallonne,1999,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.03200554
 3818,BE3,Région Wallonne,1999,E_total,total animal excretion,Gg N,90.78995672357028
@@ -3836,9 +3836,9 @@
 3834,BE3,Région Wallonne,1999,C_total,total cereal production,Gg N,28.121164233758137
 3835,BE3,Région Wallonne,1999,PG_H,permanent grassland production,Gg N,40.419927515446396
 3836,BE3,Région Wallonne,1999,F_ingestion,effective fodder ingestion,Gg N,10.754808685800219
-3837,BE3,Région Wallonne,1999,total_N_input,soil N input from manure,%,78.83550492987055
-3838,BE3,Région Wallonne,1999,NS,soil N surplus,kgN/ha,-13.963207774431352
-3839,BE3,Région Wallonne,1999,NUE,NUE arable,no unit,0.9250052165845184
+3837,BE3,Région Wallonne,1999,total_N_input,soil N input from manure,%,48.32657213847845
+3838,BE3,Région Wallonne,1999,NS,soil N surplus,kgN/ha,72.6693003467591
+3839,BE3,Région Wallonne,1999,NUE,NUE arable,no unit,0.5670329804763262
 3840,BE3,Région Wallonne,2000,H_ingestion,total human ingestion,Gg N,19.17140000312377
 3841,BE3,Région Wallonne,2000,H_ingestion_cereals,total human ingestion of cereal,Gg N,5.04266916
 3842,BE3,Région Wallonne,2000,E_total,total animal excretion,Gg N,92.86442672357026

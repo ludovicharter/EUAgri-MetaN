@@ -119,16 +119,16 @@ AT3,2016,Q,35.889270131783604,total quantity of synthetic N fertilizer applied,G
 AT3,2017,Q,30.41282046962059,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 AT3,2018,Q,27.20855240898737,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 AT3,2019,Q,27.94682794789811,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
-BE2,1990,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1991,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1992,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1993,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1994,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1995,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1996,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1997,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1998,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE2,1999,Q,,total quantity of synthetic N fertilizer applied,Gg N,
+BE2,1990,Q,89.38701750847918,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1991,Q,87.46471605668393,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1992,Q,83.13953779014462,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1993,Q,81.21723633834937,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1994,Q,80.73666097540055,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1995,Q,80.25608561245173,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1996,Q,82.6589624271958,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1997,Q,82.17838706424698,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1998,Q,82.17838706424698,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE2,1999,Q,82.17838706424698,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
 BE2,2000,Q,85.65171428571428,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE2,2001,Q,78.9039935064935,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE2,2002,Q,81.91572077922079,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
@@ -149,16 +149,16 @@ BE2,2016,Q,84.62027922077922,total quantity of synthetic N fertilizer applied,Gg
 BE2,2017,Q,81.9620064935065,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE2,2018,Q,78.83193506493505,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE2,2019,Q,80.65969480519482,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
-BE3,1990,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1991,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1992,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1993,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1994,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1995,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1996,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1997,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1998,Q,,total quantity of synthetic N fertilizer applied,Gg N,
-BE3,1999,Q,,total quantity of synthetic N fertilizer applied,Gg N,
+BE3,1990,Q,80.55867010023431,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1991,Q,78.8262255819497,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1992,Q,74.92822541580934,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1993,Q,73.19578089752473,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1994,Q,72.76266976795358,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1995,Q,72.32955863838242,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1996,Q,74.49511428623819,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1997,Q,74.06200315666703,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1998,Q,74.06200315666703,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
+BE3,1999,Q,74.06200315666703,total quantity of synthetic N fertilizer applied,Gg N,filled (b)
 BE3,2000,Q,77.19228571428572,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE3,2001,Q,71.11100649350648,total quantity of synthetic N fertilizer applied,Gg N,filled (a)
 BE3,2002,Q,73.82527922077922,total quantity of synthetic N fertilizer applied,Gg N,filled (a)

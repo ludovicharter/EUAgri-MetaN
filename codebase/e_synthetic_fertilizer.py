@@ -3,8 +3,8 @@ Script name: e_synthetic_fertilizer.py
 Description: Cleans, fills and reformats synthetic fertilizer quantity used in each territory.
 Author: Ludovic Harter
 Created: 2025-05-01
-Last modified: 2025-12-18
-Version: 1.0
+Last modified: 2026-05-27
+Version: 3.0
 Project: Territorial nitrogen flows and metabolic typologies of EU Agri-Food Systems, 1990–2019
 License: MIT
 """
@@ -223,6 +223,20 @@ def run_fertilizer():
     fao_fertilizer = pd.read_csv(path_fao, sep=';')
     fao_fertilizer = fao_fertilizer.set_index('Code')  # Set region as index
 
+    # Reconstruct Belgian (BE) national values for years where BE data are unavailable, using BE_LU
+    # BE_LU is Belgium + Luxembourg combined; LU is separately available from 2000 onward
+    be_lu_euragri = euragri_fertilizer.loc[euragri_fertilizer.index == 'BE_LU'].set_index('Year')['Value']
+    lu_euragri = euragri_fertilizer.loc[euragri_fertilizer.index == 'LU'].set_index('Year')['Value']
+    lu_ratio = (lu_euragri / be_lu_euragri).dropna().mean()  # Average LU share in BE_LU over overlapping years
+
+    be_euragri = euragri_fertilizer.loc[euragri_fertilizer.index == 'BE'].set_index('Year')['Value']
+    be_reconstructed = {}
+    for yr in years:
+        if yr in be_euragri.index and pd.notna(be_euragri[yr]):
+            continue  # BE data already available, no reconstruction needed
+        if yr in be_lu_euragri.index:
+            be_reconstructed[yr] = be_lu_euragri[yr] * (1 - lu_ratio)
+
     # Iterate through each region
     for region in regions['NUTS_ID']:
         region = str(region)  # Ensure the region code is a string
@@ -265,6 +279,10 @@ def run_fertilizer():
                                                     (fao_fertilizer['Year'] == year), 'Value'].item() / 1000  # Gg N
             except (KeyError, ValueError):
                 national_value = None
+
+            # If the national value is missing and country is BE, use BE_LU-based reconstruction
+            if (national_value is None or pd.isna(national_value)) and country == 'BE':
+                national_value = be_reconstructed.get(year)
 
             # If the national value is missing, skip
             if national_value is None or pd.isna(national_value):
