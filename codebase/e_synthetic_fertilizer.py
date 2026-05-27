@@ -328,6 +328,39 @@ def run_fertilizer():
             final_fertilizer.at[i, 'value'] = new_value
             final_fertilizer.at[i, 'confidence'] = 'filled (b)'
 
+    #%% --- (c) Fill remaining missing values using linear interpolation/extrapolation ---
+
+    # Pivot to wide format (region x year) for interpolation
+    pivot = final_fertilizer.pivot(index='region', columns='year', values='value').astype(float)
+
+    interpolated_count = 0
+    for region in pivot.index:
+        series = pivot.loc[region].copy()
+        if not series.isna().any():
+            continue
+
+        # Interpolate interior NaNs linearly (between two known values)
+        series = series.interpolate(method='index')
+
+        # Fill remaining edge NaNs with the nearest known value (constant)
+        series = series.bfill().ffill()
+
+        pivot.loc[region] = series
+
+    # Update final_fertilizer with interpolated values
+    for i, row in final_fertilizer.iterrows():
+        if pd.notna(row['value']):
+            continue
+        region = row['region']
+        year = row['year']
+        new_value = pivot.at[region, year]
+        if pd.notna(new_value):
+            final_fertilizer.at[i, 'value'] = new_value
+            final_fertilizer.at[i, 'confidence'] = 'interpolated'
+            interpolated_count += 1
+
+    print(f"Interpolated {interpolated_count} missing values")
+
     #%% Save fertilizer data
 
     final_fertilizer.to_csv('data/outputs/intermediate_datasets/final_fertilizer.csv', index=False)
