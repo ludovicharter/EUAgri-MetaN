@@ -6500,9 +6500,9 @@
 6498,CZ,Czeckia,1990,C_total,total cereal production,Gg N,143.37687691407302
 6499,CZ,Czeckia,1990,PG_H,permanent grassland production,Gg N,69.59521651815
 6500,CZ,Czeckia,1990,F_ingestion,effective fodder ingestion,Gg N,102.66076200844898
-6501,CZ,Czeckia,1990,total_N_input,soil N input from manure,%,37.75506554082432
-6502,CZ,Czeckia,1990,NS,soil N surplus,kgN/ha,21.24567147708776
-6503,CZ,Czeckia,1990,NUE,NUE arable,no unit,0.758949836101571
+6501,CZ,Czeckia,1990,total_N_input,soil N input from manure,%,24.154991153215747
+6502,CZ,Czeckia,1990,NS,soil N surplus,kgN/ha,87.05865498215016
+6503,CZ,Czeckia,1990,NUE,NUE arable,no unit,0.4855620382103495
 6504,CZ,Czeckia,1991,H_ingestion,total human ingestion,Gg N,50.62874781637114
 6505,CZ,Czeckia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,15.35386443
 6506,CZ,Czeckia,1991,E_total,total animal excretion,Gg N,197.2053
@@ -6524,9 +6524,9 @@
 6522,CZ,Czeckia,1991,C_total,total cereal production,Gg N,136.18244395703724
 6523,CZ,Czeckia,1991,PG_H,permanent grassland production,Gg N,69.59521651815
 6524,CZ,Czeckia,1991,F_ingestion,effective fodder ingestion,Gg N,106.79819400844899
-6525,CZ,Czeckia,1991,total_N_input,soil N input from manure,%,37.713699424630626
-6526,CZ,Czeckia,1991,NS,soil N surplus,kgN/ha,21.543602099288616
-6527,CZ,Czeckia,1991,NUE,NUE arable,no unit,0.7509940011913139
+6525,CZ,Czeckia,1991,total_N_input,soil N input from manure,%,24.127121628919397
+6526,CZ,Czeckia,1991,NS,soil N surplus,kgN/ha,85.12890062527752
+6527,CZ,Czeckia,1991,NUE,NUE arable,no unit,0.4804440796252947
 6528,CZ,Czeckia,1992,H_ingestion,total human ingestion,Gg N,50.66776365524881
 6529,CZ,Czeckia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,15.36569652
 6530,CZ,Czeckia,1992,E_total,total animal excretion,Gg N,197.2053
@@ -6548,9 +6548,9 @@
 6546,CZ,Czeckia,1992,C_total,total cereal production,Gg N,128.93154898686413
 6547,CZ,Czeckia,1992,PG_H,permanent grassland production,Gg N,69.59521651815
 6548,CZ,Czeckia,1992,F_ingestion,effective fodder ingestion,Gg N,104.35067400844898
-6549,CZ,Czeckia,1992,total_N_input,soil N input from manure,%,38.08243586359822
-6550,CZ,Czeckia,1992,NS,soil N surplus,kgN/ha,23.51101134654185
-6551,CZ,Czeckia,1992,NUE,NUE arable,no unit,0.7282721378621013
+6549,CZ,Czeckia,1992,total_N_input,soil N input from manure,%,24.270055528304663
+6550,CZ,Czeckia,1992,NS,soil N surplus,kgN/ha,85.61406462831559
+6551,CZ,Czeckia,1992,NUE,NUE arable,no unit,0.4641301120794511
 6552,CZ,Czeckia,1993,H_ingestion,total human ingestion,Gg N,50.73236751690385
 6553,CZ,Czeckia,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,15.385288529999999
 6554,CZ,Czeckia,1993,E_total,total animal excretion,Gg N,197.2053
@@ -17300,9 +17300,9 @@
 17298,EE,Estonia,1990,C_total,total cereal production,Gg N,16.0501632
 17299,EE,Estonia,1990,PG_H,permanent grassland production,Gg N,13.48426461174
 17300,EE,Estonia,1990,F_ingestion,effective fodder ingestion,Gg N,65.22637538826
-17301,EE,Estonia,1990,total_N_input,soil N input from manure,%,33.24733015165085
-17302,EE,Estonia,1990,NS,soil N surplus,kgN/ha,24.852396132702783
-17303,EE,Estonia,1990,NUE,NUE arable,no unit,0.7094840967320021
+17301,EE,Estonia,1990,total_N_input,soil N input from manure,%,25.15387515845412
+17302,EE,Estonia,1990,NS,soil N surplus,kgN/ha,57.09958517226164
+17303,EE,Estonia,1990,NUE,NUE arable,no unit,0.5367731578657072
 17304,EE,Estonia,1991,H_ingestion,total human ingestion,Gg N,9.136464479541276
 17305,EE,Estonia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,2.9787231000000003
 17306,EE,Estonia,1991,E_total,total animal excretion,Gg N,66.86962
@@ -17324,9 +17324,9 @@
 17322,EE,Estonia,1991,C_total,total cereal production,Gg N,16.4514432
 17323,EE,Estonia,1991,PG_H,permanent grassland production,Gg N,13.48426461174
 17324,EE,Estonia,1991,F_ingestion,effective fodder ingestion,Gg N,60.20898538825999
-17325,EE,Estonia,1991,total_N_input,soil N input from manure,%,31.623859800461783
-17326,EE,Estonia,1991,NS,soil N surplus,kgN/ha,21.54406877079636
-17327,EE,Estonia,1991,NUE,NUE arable,no unit,0.7318967029836623
+17325,EE,Estonia,1991,total_N_input,soil N input from manure,%,23.767439237919945
+17326,EE,Estonia,1991,NS,soil N surplus,kgN/ha,52.96860136480074
+17327,EE,Estonia,1991,NUE,NUE arable,no unit,0.5500691732874466
 17328,EE,Estonia,1992,H_ingestion,total human ingestion,Gg N,9.061455384133673
 17329,EE,Estonia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,2.9542681999999996
 17330,EE,Estonia,1992,E_total,total animal excretion,Gg N,59.50043
@@ -46820,9 +46820,9 @@
 46818,HR,Croatia,1990,C_total,total cereal production,Gg N,36.0932502863195
 46819,HR,Croatia,1990,PG_H,permanent grassland production,Gg N,70.5783472888
 46820,HR,Croatia,1990,F_ingestion,effective fodder ingestion,Gg N,14.661403633530476
-46821,HR,Croatia,1990,total_N_input,soil N input from manure,%,55.40719758785644
-46822,HR,Croatia,1990,NS,soil N surplus,kgN/ha,-5.589495760115128
-46823,HR,Croatia,1990,NUE,NUE arable,no unit,0.9656203720942066
+46821,HR,Croatia,1990,total_N_input,soil N input from manure,%,17.291357653634556
+46822,HR,Croatia,1990,NS,soil N surplus,kgN/ha,128.17936635061645
+46823,HR,Croatia,1990,NUE,NUE arable,no unit,0.3013487044718546
 46824,HR,Croatia,1991,H_ingestion,total human ingestion,Gg N,23.14702926081379
 46825,HR,Croatia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.12544671
 46826,HR,Croatia,1991,E_total,total animal excretion,Gg N,53.399628
@@ -46844,9 +46844,9 @@
 46842,HR,Croatia,1991,C_total,total cereal production,Gg N,36.0932502863195
 46843,HR,Croatia,1991,PG_H,permanent grassland production,Gg N,70.5783472888
 46844,HR,Croatia,1991,F_ingestion,effective fodder ingestion,Gg N,14.661403633530476
-46845,HR,Croatia,1991,total_N_input,soil N input from manure,%,54.96622055873066
-46846,HR,Croatia,1991,NS,soil N surplus,kgN/ha,-4.945860232617231
-46847,HR,Croatia,1991,NUE,NUE arable,no unit,0.956415409025284
+46845,HR,Croatia,1991,total_N_input,soil N input from manure,%,17.266971003066367
+46846,HR,Croatia,1991,NS,soil N surplus,kgN/ha,128.82300187811433
+46847,HR,Croatia,1991,NUE,NUE arable,no unit,0.3004462916798151
 46848,HR,Croatia,1992,H_ingestion,total human ingestion,Gg N,22.245219518915956
 46849,HR,Croatia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,6.84783885
 46850,HR,Croatia,1992,E_total,total animal excretion,Gg N,53.399628
@@ -55460,9 +55460,9 @@
 55458,LT,Lithuania,1990,C_total,total cereal production,Gg N,45.18820269542958
 55459,LT,Lithuania,1990,PG_H,permanent grassland production,Gg N,25.3
 55460,LT,Lithuania,1990,F_ingestion,effective fodder ingestion,Gg N,165.14556278593452
-55461,LT,Lithuania,1990,total_N_input,soil N input from manure,%,45.032715347664904
-55462,LT,Lithuania,1990,NS,soil N surplus,kgN/ha,-0.5587435220034412
-55463,LT,Lithuania,1990,NUE,NUE arable,no unit,0.9109445244764596
+55461,LT,Lithuania,1990,total_N_input,soil N input from manure,%,32.948681010963234
+55462,LT,Lithuania,1990,NS,soil N surplus,kgN/ha,32.5216428438016
+55463,LT,Lithuania,1990,NUE,NUE arable,no unit,0.6665025709406797
 55464,LT,Lithuania,1991,H_ingestion,total human ingestion,Gg N,26.650499494838574
 55465,LT,Lithuania,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.25585728
 55466,LT,Lithuania,1991,E_total,total animal excretion,Gg N,185.74594
@@ -55484,9 +55484,9 @@
 55482,LT,Lithuania,1991,C_total,total cereal production,Gg N,54.05400225818072
 55483,LT,Lithuania,1991,PG_H,permanent grassland production,Gg N,25.3
 55484,LT,Lithuania,1991,F_ingestion,effective fodder ingestion,Gg N,164.93436278593452
-55485,LT,Lithuania,1991,total_N_input,soil N input from manure,%,44.13371278355848
-55486,LT,Lithuania,1991,NS,soil N surplus,kgN/ha,-5.86550288872292
-55487,LT,Lithuania,1991,NUE,NUE arable,no unit,0.9690827015023996
+55485,LT,Lithuania,1991,total_N_input,soil N input from manure,%,32.074577593025936
+55486,LT,Lithuania,1991,NS,soil N surplus,kgN/ha,25.91191396253769
+55487,LT,Lithuania,1991,NUE,NUE arable,no unit,0.7042896765979202
 55488,LT,Lithuania,1992,H_ingestion,total human ingestion,Gg N,26.68167840111549
 55489,LT,Lithuania,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.26434604
 55490,LT,Lithuania,1992,E_total,total animal excretion,Gg N,149.18361
@@ -56900,9 +56900,9 @@
 56898,LV,Latvija,1990,C_total,total cereal production,Gg N,25.533184
 56899,LV,Latvija,1990,PG_H,permanent grassland production,Gg N,49.199999999999996
 56900,LV,Latvija,1990,F_ingestion,effective fodder ingestion,Gg N,42.18027
-56901,LV,Latvija,1990,total_N_input,soil N input from manure,%,19.09787044953552
-56902,LV,Latvija,1990,NS,soil N surplus,kgN/ha,1.5133468361645872
-56903,LV,Latvija,1990,NUE,NUE arable,no unit,0.9
+56901,LV,Latvija,1990,total_N_input,soil N input from manure,%,15.986268078749166
+56902,LV,Latvija,1990,NS,soil N surplus,kgN/ha,15.187605477291854
+56903,LV,Latvija,1990,NUE,NUE arable,no unit,0.7533636438100446
 56904,LV,Latvija,1991,H_ingestion,total human ingestion,Gg N,14.691515373823794
 56905,LV,Latvija,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.14673116
 56906,LV,Latvija,1991,E_total,total animal excretion,Gg N,77.84418000000001
@@ -56924,9 +56924,9 @@
 56922,LV,Latvija,1991,C_total,total cereal production,Gg N,26.728223999999997
 56923,LV,Latvija,1991,PG_H,permanent grassland production,Gg N,49.199999999999996
 56924,LV,Latvija,1991,F_ingestion,effective fodder ingestion,Gg N,37.791300000000014
-56925,LV,Latvija,1991,total_N_input,soil N input from manure,%,18.13621416932298
-56926,LV,Latvija,1991,NS,soil N surplus,kgN/ha,1.560156780730262
-56927,LV,Latvija,1991,NUE,NUE arable,no unit,0.8999999999999999
+56925,LV,Latvija,1991,total_N_input,soil N input from manure,%,15.26309368463229
+56926,LV,Latvija,1991,NS,soil N surplus,kgN/ha,14.07675939306068
+56927,LV,Latvija,1991,NUE,NUE arable,no unit,0.7574229212293123
 56928,LV,Latvija,1992,H_ingestion,total human ingestion,Gg N,14.607721328021999
 56929,LV,Latvija,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,4.12308
 56930,LV,Latvija,1992,E_total,total animal excretion,Gg N,62.34371999999999
@@ -57620,9 +57620,9 @@
 57618,MK,North Macedonia,1990,C_total,total cereal production,Gg N,9.891088214963636
 57619,MK,North Macedonia,1990,PG_H,permanent grassland production,Gg N,1.4075495049017
 57620,MK,North Macedonia,1990,F_ingestion,effective fodder ingestion,Gg N,4.128929960196544
-57621,MK,North Macedonia,1990,total_N_input,soil N input from manure,%,61.96436647233456
-57622,MK,North Macedonia,1990,NS,soil N surplus,kgN/ha,9.21823803454511
-57623,MK,North Macedonia,1990,NUE,NUE arable,no unit,0.7114270442799268
+57621,MK,North Macedonia,1990,total_N_input,soil N input from manure,%,25.51909664673535
+57622,MK,North Macedonia,1990,NS,soil N surplus,kgN/ha,83.16644068652676
+57623,MK,North Macedonia,1990,NUE,NUE arable,no unit,0.2929905772245155
 57624,MK,North Macedonia,1991,H_ingestion,total human ingestion,Gg N,9.304505060392662
 57625,MK,North Macedonia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.2712085600000003
 57626,MK,North Macedonia,1991,E_total,total animal excretion,Gg N,31.250495
@@ -57644,9 +57644,9 @@
 57642,MK,North Macedonia,1991,C_total,total cereal production,Gg N,12.744308804860214
 57643,MK,North Macedonia,1991,PG_H,permanent grassland production,Gg N,1.4075495049017
 57644,MK,North Macedonia,1991,F_ingestion,effective fodder ingestion,Gg N,5.251832872832975
-57645,MK,North Macedonia,1991,total_N_input,soil N input from manure,%,60.96404150315744
-57646,MK,North Macedonia,1991,NS,soil N surplus,kgN/ha,0.822750690323397
-57647,MK,North Macedonia,1991,NUE,NUE arable,no unit,0.8580970885460176
+57645,MK,North Macedonia,1991,total_N_input,soil N input from manure,%,25.34909177259047
+57646,MK,North Macedonia,1991,NS,soil N surplus,kgN/ha,74.95173219787847
+57647,MK,North Macedonia,1991,NUE,NUE arable,no unit,0.3568001941967564
 57648,MK,North Macedonia,1992,H_ingestion,total human ingestion,Gg N,9.393418060287017
 57649,MK,North Macedonia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.30246793
 57650,MK,North Macedonia,1992,E_total,total animal excretion,Gg N,31.250495
@@ -57668,9 +57668,9 @@
 57666,MK,North Macedonia,1992,C_total,total cereal production,Gg N,11.737578670986858
 57667,MK,North Macedonia,1992,PG_H,permanent grassland production,Gg N,1.4075495049017
 57668,MK,North Macedonia,1992,F_ingestion,effective fodder ingestion,Gg N,5.305127798926062
-57669,MK,North Macedonia,1992,total_N_input,soil N input from manure,%,62.702933664617724
-57670,MK,North Macedonia,1992,NS,soil N surplus,kgN/ha,1.9893763199407384
-57671,MK,North Macedonia,1992,NUE,NUE arable,no unit,0.8337671489150259
+57669,MK,North Macedonia,1992,total_N_input,soil N input from manure,%,25.626025490970655
+57670,MK,North Macedonia,1992,NS,soil N surplus,kgN/ha,76.1198996997136
+57671,MK,North Macedonia,1992,NUE,NUE arable,no unit,0.3407518111658459
 57672,MK,North Macedonia,1993,H_ingestion,total human ingestion,Gg N,10.141662116457
 57673,MK,North Macedonia,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.56553
 57674,MK,North Macedonia,1993,E_total,total animal excretion,Gg N,31.321055
@@ -57692,9 +57692,9 @@
 57690,MK,North Macedonia,1993,C_total,total cereal production,Gg N,10.616755599890574
 57691,MK,North Macedonia,1993,PG_H,permanent grassland production,Gg N,1.4075495049017
 57692,MK,North Macedonia,1993,F_ingestion,effective fodder ingestion,Gg N,4.286290984389328
-57693,MK,North Macedonia,1993,total_N_input,soil N input from manure,%,63.703811002807264
-57694,MK,North Macedonia,1993,NS,soil N surplus,kgN/ha,7.988560649807721
-57695,MK,North Macedonia,1993,NUE,NUE arable,no unit,0.7278924011196728
+57693,MK,North Macedonia,1993,total_N_input,soil N input from manure,%,25.831063129690644
+57694,MK,North Macedonia,1993,NS,soil N surplus,kgN/ha,83.3463190503328
+57695,MK,North Macedonia,1993,NUE,NUE arable,no unit,0.295150859406446
 57696,MK,North Macedonia,1994,H_ingestion,total human ingestion,Gg N,9.530214861275617
 57697,MK,North Macedonia,1994,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.35056193
 57698,MK,North Macedonia,1994,E_total,total animal excretion,Gg N,31.535675
@@ -74180,9 +74180,9 @@
 74178,RS,Serbia,1990,C_total,total cereal production,Gg N,113.3692671999907
 74179,RS,Serbia,1990,PG_H,permanent grassland production,Gg N,35.45016772
 74180,RS,Serbia,1990,F_ingestion,effective fodder ingestion,Gg N,28.391548980597097
-74181,RS,Serbia,1990,total_N_input,soil N input from manure,%,56.72398214342649
-74182,RS,Serbia,1990,NS,soil N surplus,kgN/ha,-2.556430509511506
-74183,RS,Serbia,1990,NUE,NUE arable,no unit,0.9
+74181,RS,Serbia,1990,total_N_input,soil N input from manure,%,44.867017869682975
+74182,RS,Serbia,1990,NS,soil N surplus,kgN/ha,12.669127965291684
+74183,RS,Serbia,1990,NUE,NUE arable,no unit,0.7118737887726768
 74184,RS,Serbia,1991,H_ingestion,total human ingestion,Gg N,37.165673321825444
 74185,RS,Serbia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,13.0664305
 74186,RS,Serbia,1991,E_total,total animal excretion,Gg N,137.80231
@@ -74204,9 +74204,9 @@
 74202,RS,Serbia,1991,C_total,total cereal production,Gg N,113.3692671999907
 74203,RS,Serbia,1991,PG_H,permanent grassland production,Gg N,35.45016772
 74204,RS,Serbia,1991,F_ingestion,effective fodder ingestion,Gg N,28.382353513597106
-74205,RS,Serbia,1991,total_N_input,soil N input from manure,%,56.72744216393705
-74206,RS,Serbia,1991,NS,soil N surplus,kgN/ha,-2.4512358923880067
-74207,RS,Serbia,1991,NUE,NUE arable,no unit,0.9
+74205,RS,Serbia,1991,total_N_input,soil N input from manure,%,44.34899946151577
+74206,RS,Serbia,1991,NS,soil N surplus,kgN/ha,13.62863729012971
+74207,RS,Serbia,1991,NUE,NUE arable,no unit,0.703611832171388
 74208,RS,Serbia,1992,H_ingestion,total human ingestion,Gg N,37.165673321825444
 74209,RS,Serbia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,13.0664305
 74210,RS,Serbia,1992,E_total,total animal excretion,Gg N,137.80231
@@ -77060,9 +77060,9 @@
 77058,SI,Slovenia,1990,C_total,total cereal production,Gg N,8.49097535049177
 77059,SI,Slovenia,1990,PG_H,permanent grassland production,Gg N,23.39899253008
 77060,SI,Slovenia,1990,F_ingestion,effective fodder ingestion,Gg N,3.584646853845392
-77061,SI,Slovenia,1990,total_N_input,soil N input from manure,%,78.22319861238145
-77062,SI,Slovenia,1990,NS,soil N surplus,kgN/ha,52.29886515454328
-77063,SI,Slovenia,1990,NUE,NUE arable,no unit,0.5021861859415561
+77061,SI,Slovenia,1990,total_N_input,soil N input from manure,%,38.19591151521378
+77062,SI,Slovenia,1990,NS,soil N surplus,kgN/ha,198.53913789959657
+77063,SI,Slovenia,1990,NUE,NUE arable,no unit,0.2452144563588615
 77064,SI,Slovenia,1991,H_ingestion,total human ingestion,Gg N,11.579321103912541
 77065,SI,Slovenia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.57990155
 77066,SI,Slovenia,1991,E_total,total animal excretion,Gg N,35.05504
@@ -77084,9 +77084,9 @@
 77082,SI,Slovenia,1991,C_total,total cereal production,Gg N,8.49097535049177
 77083,SI,Slovenia,1991,PG_H,permanent grassland production,Gg N,23.39899253008
 77084,SI,Slovenia,1991,F_ingestion,effective fodder ingestion,Gg N,3.584646853845392
-77085,SI,Slovenia,1991,total_N_input,soil N input from manure,%,77.18834089643161
-77086,SI,Slovenia,1991,NS,soil N surplus,kgN/ha,51.9791504407409
-77087,SI,Slovenia,1991,NUE,NUE arable,no unit,0.5047234860126439
+77085,SI,Slovenia,1991,total_N_input,soil N input from manure,%,37.59340283094704
+77086,SI,Slovenia,1991,NS,soil N surplus,kgN/ha,198.21942318579417
+77087,SI,Slovenia,1991,NUE,NUE arable,no unit,0.2458178671487725
 77088,SI,Slovenia,1992,H_ingestion,total human ingestion,Gg N,11.573340220088065
 77089,SI,Slovenia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,3.57805248
 77090,SI,Slovenia,1992,E_total,total animal excretion,Gg N,35.58934
@@ -77780,9 +77780,9 @@
 77778,SK,Slovakia,1990,C_total,total cereal production,Gg N,77.54464475991844
 77779,SK,Slovakia,1990,PG_H,permanent grassland production,Gg N,54.275
 77780,SK,Slovakia,1990,F_ingestion,effective fodder ingestion,Gg N,28.871053133266585
-77781,SK,Slovakia,1990,total_N_input,soil N input from manure,%,46.011377938414086
-77782,SK,Slovakia,1990,NS,soil N surplus,kgN/ha,-2.2989359988973628
-77783,SK,Slovakia,1990,NUE,NUE arable,no unit,0.9278429530317605
+77781,SK,Slovakia,1990,total_N_input,soil N input from manure,%,30.707077839678142
+77782,SK,Slovakia,1990,NS,soil N surplus,kgN/ha,39.37973573235906
+77783,SK,Slovakia,1990,NUE,NUE arable,no unit,0.619223919350526
 77784,SK,Slovakia,1991,H_ingestion,total human ingestion,Gg N,26.092663984626313
 77785,SK,Slovakia,1991,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.912959389999999
 77786,SK,Slovakia,1991,E_total,total animal excretion,Gg N,89.853755
@@ -77804,9 +77804,9 @@
 77802,SK,Slovakia,1991,C_total,total cereal production,Gg N,81.46570474624289
 77803,SK,Slovakia,1991,PG_H,permanent grassland production,Gg N,54.275
 77804,SK,Slovakia,1991,F_ingestion,effective fodder ingestion,Gg N,32.45616713326658
-77805,SK,Slovakia,1991,total_N_input,soil N input from manure,%,45.78996511839012
-77806,SK,Slovakia,1991,NS,soil N surplus,kgN/ha,-7.570239220050732
-77807,SK,Slovakia,1991,NUE,NUE arable,no unit,0.9884995979231452
+77805,SK,Slovakia,1991,total_N_input,soil N input from manure,%,30.499829133992318
+77806,SK,Slovakia,1991,NS,soil N surplus,kgN/ha,32.32700101480925
+77807,SK,Slovakia,1991,NUE,NUE arable,no unit,0.6584208736068158
 77808,SK,Slovakia,1992,H_ingestion,total human ingestion,Gg N,26.019781356001264
 77809,SK,Slovakia,1992,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.890856729999999
 77810,SK,Slovakia,1992,E_total,total animal excretion,Gg N,89.853755
@@ -77828,9 +77828,9 @@
 77826,SK,Slovakia,1992,C_total,total cereal production,Gg N,71.79671672741904
 77827,SK,Slovakia,1992,PG_H,permanent grassland production,Gg N,54.275
 77828,SK,Slovakia,1992,F_ingestion,effective fodder ingestion,Gg N,32.08515513326658
-77829,SK,Slovakia,1992,total_N_input,soil N input from manure,%,46.61151217070048
-77830,SK,Slovakia,1992,NS,soil N surplus,kgN/ha,-1.858671901533024
-77831,SK,Slovakia,1992,NUE,NUE arable,no unit,0.9228157095479328
+77829,SK,Slovakia,1992,total_N_input,soil N input from manure,%,30.83501943196466
+77830,SK,Slovakia,1992,NS,soil N surplus,kgN/ha,39.028873624557185
+77831,SK,Slovakia,1992,NUE,NUE arable,no unit,0.6104723706844103
 77832,SK,Slovakia,1993,H_ingestion,total human ingestion,Gg N,26.109585096462947
 77833,SK,Slovakia,1993,H_ingestion_cereals,total human ingestion of cereal,Gg N,7.91809095
 77834,SK,Slovakia,1993,E_total,total animal excretion,Gg N,89.853755

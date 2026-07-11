@@ -959,43 +959,43 @@
 957,CH,Schweiz,2019,Q_AL,quantity applied on arable land,Gg N,38.14007999604557,Estimated
 958,CH,Schweiz,2019,Q_PG,quantity applied on permanent grassland,Gg N,3.0205559003730156,Estimated
 959,CH,Schweiz,2019,Q_PC,quantity applied on permanent crops,Gg N,0.8393641035814068,Estimated
-960,CY,Cyprus,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+960,CY,Cyprus,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 961,CY,Cyprus,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
 962,CY,Cyprus,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 963,CY,Cyprus,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-964,CY,Cyprus,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+964,CY,Cyprus,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 965,CY,Cyprus,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
 966,CY,Cyprus,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 967,CY,Cyprus,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-968,CY,Cyprus,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+968,CY,Cyprus,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 969,CY,Cyprus,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
 970,CY,Cyprus,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 971,CY,Cyprus,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-972,CY,Cyprus,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+972,CY,Cyprus,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 973,CY,Cyprus,1993,Q_AL,quantity applied on arable land,Gg N,,Estimated
 974,CY,Cyprus,1993,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 975,CY,Cyprus,1993,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-976,CY,Cyprus,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+976,CY,Cyprus,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 977,CY,Cyprus,1994,Q_AL,quantity applied on arable land,Gg N,,Estimated
 978,CY,Cyprus,1994,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 979,CY,Cyprus,1994,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-980,CY,Cyprus,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+980,CY,Cyprus,1995,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 981,CY,Cyprus,1995,Q_AL,quantity applied on arable land,Gg N,,Estimated
 982,CY,Cyprus,1995,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 983,CY,Cyprus,1995,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-984,CY,Cyprus,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+984,CY,Cyprus,1996,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 985,CY,Cyprus,1996,Q_AL,quantity applied on arable land,Gg N,,Estimated
 986,CY,Cyprus,1996,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 987,CY,Cyprus,1996,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-988,CY,Cyprus,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+988,CY,Cyprus,1997,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 989,CY,Cyprus,1997,Q_AL,quantity applied on arable land,Gg N,,Estimated
 990,CY,Cyprus,1997,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 991,CY,Cyprus,1997,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-992,CY,Cyprus,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+992,CY,Cyprus,1998,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 993,CY,Cyprus,1998,Q_AL,quantity applied on arable land,Gg N,,Estimated
 994,CY,Cyprus,1998,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 995,CY,Cyprus,1998,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-996,CY,Cyprus,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,,
+996,CY,Cyprus,1999,Q,total quantity of synthetic N fertilizer applied,Gg N,10.537,interpolated
 997,CY,Cyprus,1999,Q_AL,quantity applied on arable land,Gg N,,Estimated
 998,CY,Cyprus,1999,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 999,CY,Cyprus,1999,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
@@ -1079,18 +1079,18 @@
 1077,CY,Cyprus,2019,Q_AL,quantity applied on arable land,Gg N,,Estimated
 1078,CY,Cyprus,2019,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
 1079,CY,Cyprus,2019,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-1080,CZ,Czeckia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-1081,CZ,Czeckia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-1082,CZ,Czeckia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-1083,CZ,Czeckia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-1084,CZ,Czeckia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-1085,CZ,Czeckia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-1086,CZ,Czeckia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-1087,CZ,Czeckia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-1088,CZ,Czeckia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-1089,CZ,Czeckia,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-1090,CZ,Czeckia,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-1091,CZ,Czeckia,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+1080,CZ,Czeckia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,203.161,interpolated
+1081,CZ,Czeckia,1990,Q_AL,quantity applied on arable land,Gg N,193.39538467007847,Estimated
+1082,CZ,Czeckia,1990,Q_PG,quantity applied on permanent grassland,Gg N,7.790944656813437,Estimated
+1083,CZ,Czeckia,1990,Q_PC,quantity applied on permanent crops,Gg N,1.9746706731080828,Estimated
+1084,CZ,Czeckia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,203.161,interpolated
+1085,CZ,Czeckia,1991,Q_AL,quantity applied on arable land,Gg N,193.72310511310602,Estimated
+1086,CZ,Czeckia,1991,Q_PG,quantity applied on permanent grassland,Gg N,7.530064280332415,Estimated
+1087,CZ,Czeckia,1991,Q_PC,quantity applied on permanent crops,Gg N,1.9078306065615744,Estimated
+1088,CZ,Czeckia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,203.161,interpolated
+1089,CZ,Czeckia,1992,Q_AL,quantity applied on arable land,Gg N,193.94127488490875,Estimated
+1090,CZ,Czeckia,1992,Q_PG,quantity applied on permanent grassland,Gg N,7.356368198343183,Estimated
+1091,CZ,Czeckia,1992,Q_PC,quantity applied on permanent crops,Gg N,1.863356916748081,Estimated
 1092,CZ,Czeckia,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,203.161,filled (b)
 1093,CZ,Czeckia,1993,Q_AL,quantity applied on arable land,Gg N,196.5487677859765,Estimated
 1094,CZ,Czeckia,1993,Q_PG,quantity applied on permanent grassland,Gg N,5.033577692695644,Estimated
@@ -2879,14 +2879,14 @@
 2877,DK,Denmark,2019,Q_AL,quantity applied on arable land,Gg N,218.15291160673783,Estimated
 2878,DK,Denmark,2019,Q_PG,quantity applied on permanent grassland,Gg N,6.702998130514273,Estimated
 2879,DK,Denmark,2019,Q_PC,quantity applied on permanent crops,Gg N,0.38409026274791336,Estimated
-2880,EE,Estonia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-2881,EE,Estonia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-2882,EE,Estonia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-2883,EE,Estonia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-2884,EE,Estonia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-2885,EE,Estonia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-2886,EE,Estonia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-2887,EE,Estonia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+2880,EE,Estonia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,39.0,interpolated
+2881,EE,Estonia,1990,Q_AL,quantity applied on arable land,Gg N,38.82384019659187,Estimated
+2882,EE,Estonia,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+2883,EE,Estonia,1990,Q_PC,quantity applied on permanent crops,Gg N,0.17615980340813353,Estimated
+2884,EE,Estonia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,39.0,interpolated
+2885,EE,Estonia,1991,Q_AL,quantity applied on arable land,Gg N,38.81498241623319,Estimated
+2886,EE,Estonia,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+2887,EE,Estonia,1991,Q_PC,quantity applied on permanent crops,Gg N,0.1850175837668092,Estimated
 2888,EE,Estonia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,39.0,filled (b)
 2889,EE,Estonia,1992,Q_AL,quantity applied on arable land,Gg N,38.822685231880016,Estimated
 2890,EE,Estonia,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -7799,14 +7799,14 @@
 7797,FRM0,Corse,2019,Q_AL,quantity applied on arable land,Gg N,0.2638314356978088,Estimated
 7798,FRM0,Corse,2019,Q_PG,quantity applied on permanent grassland,Gg N,0.04710023480103042,Estimated
 7799,FRM0,Corse,2019,Q_PC,quantity applied on permanent crops,Gg N,0.09704508092008447,Estimated
-7800,HR,Croatia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-7801,HR,Croatia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-7802,HR,Croatia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-7803,HR,Croatia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-7804,HR,Croatia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-7805,HR,Croatia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-7806,HR,Croatia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-7807,HR,Croatia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+7800,HR,Croatia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,133.522,interpolated
+7801,HR,Croatia,1990,Q_AL,quantity applied on arable land,Gg N,121.68043589466612,Estimated
+7802,HR,Croatia,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+7803,HR,Croatia,1990,Q_PC,quantity applied on permanent crops,Gg N,11.841564105333877,Estimated
+7804,HR,Croatia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,133.522,interpolated
+7805,HR,Croatia,1991,Q_AL,quantity applied on arable land,Gg N,121.68043589466612,Estimated
+7806,HR,Croatia,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+7807,HR,Croatia,1991,Q_PC,quantity applied on permanent crops,Gg N,11.841564105333877,Estimated
 7808,HR,Croatia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,133.522,filled (b)
 7809,HR,Croatia,1992,Q_AL,quantity applied on arable land,Gg N,123.08841343352093,Estimated
 7810,HR,Croatia,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -9239,14 +9239,14 @@
 9237,ITI,Centro Italia,2019,Q_AL,quantity applied on arable land,Gg N,92.03696406935217,Estimated
 9238,ITI,Centro Italia,2019,Q_PG,quantity applied on permanent grassland,Gg N,2.4455442362956696,Estimated
 9239,ITI,Centro Italia,2019,Q_PC,quantity applied on permanent crops,Gg N,0.0,Estimated
-9240,LT,Lithuania,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9241,LT,Lithuania,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9242,LT,Lithuania,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9243,LT,Lithuania,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9244,LT,Lithuania,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9245,LT,Lithuania,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9246,LT,Lithuania,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9247,LT,Lithuania,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+9240,LT,Lithuania,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,88.0,interpolated
+9241,LT,Lithuania,1990,Q_AL,quantity applied on arable land,Gg N,87.36367640915388,Estimated
+9242,LT,Lithuania,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9243,LT,Lithuania,1990,Q_PC,quantity applied on permanent crops,Gg N,0.6363235908461178,Estimated
+9244,LT,Lithuania,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,88.0,interpolated
+9245,LT,Lithuania,1991,Q_AL,quantity applied on arable land,Gg N,87.39833367669894,Estimated
+9246,LT,Lithuania,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9247,LT,Lithuania,1991,Q_PC,quantity applied on permanent crops,Gg N,0.6016663233010568,Estimated
 9248,LT,Lithuania,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,88.0,filled (b)
 9249,LT,Lithuania,1992,Q_AL,quantity applied on arable land,Gg N,87.47087898827066,Estimated
 9250,LT,Lithuania,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -9479,14 +9479,14 @@
 9477,LU,Luxembourg,2019,Q_AL,quantity applied on arable land,Gg N,8.47524210938646,Estimated
 9478,LU,Luxembourg,2019,Q_PG,quantity applied on permanent grassland,Gg N,5.208212976946714,Estimated
 9479,LU,Luxembourg,2019,Q_PC,quantity applied on permanent crops,Gg N,0.11154491366682609,Estimated
-9480,LV,Latvija,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9481,LV,Latvija,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9482,LV,Latvija,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9483,LV,Latvija,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9484,LV,Latvija,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9485,LV,Latvija,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9486,LV,Latvija,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9487,LV,Latvija,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+9480,LV,Latvija,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,63.0,interpolated
+9481,LV,Latvija,1990,Q_AL,quantity applied on arable land,Gg N,62.057028248576756,Estimated
+9482,LV,Latvija,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9483,LV,Latvija,1990,Q_PC,quantity applied on permanent crops,Gg N,0.942971751423242,Estimated
+9484,LV,Latvija,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,63.0,interpolated
+9485,LV,Latvija,1991,Q_AL,quantity applied on arable land,Gg N,62.16879334778774,Estimated
+9486,LV,Latvija,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9487,LV,Latvija,1991,Q_PC,quantity applied on permanent crops,Gg N,0.8312066522122558,Estimated
 9488,LV,Latvija,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,63.0,filled (b)
 9489,LV,Latvija,1992,Q_AL,quantity applied on arable land,Gg N,62.45300722524575,Estimated
 9490,LV,Latvija,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -9599,22 +9599,22 @@
 9597,LV,Latvija,2019,Q_AL,quantity applied on arable land,Gg N,80.41238302469228,Estimated
 9598,LV,Latvija,2019,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
 9599,LV,Latvija,2019,Q_PC,quantity applied on permanent crops,Gg N,0.30561697530772347,Estimated
-9600,MK,North Macedonia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9601,MK,North Macedonia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9602,MK,North Macedonia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9603,MK,North Macedonia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9604,MK,North Macedonia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9605,MK,North Macedonia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9606,MK,North Macedonia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9607,MK,North Macedonia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9608,MK,North Macedonia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9609,MK,North Macedonia,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9610,MK,North Macedonia,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9611,MK,North Macedonia,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-9612,MK,North Macedonia,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-9613,MK,North Macedonia,1993,Q_AL,quantity applied on arable land,Gg N,,Estimated
-9614,MK,North Macedonia,1993,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-9615,MK,North Macedonia,1993,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+9600,MK,North Macedonia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,36.162,interpolated
+9601,MK,North Macedonia,1990,Q_AL,quantity applied on arable land,Gg N,33.73069270275749,Estimated
+9602,MK,North Macedonia,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9603,MK,North Macedonia,1990,Q_PC,quantity applied on permanent crops,Gg N,2.431307297242515,Estimated
+9604,MK,North Macedonia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,36.162,interpolated
+9605,MK,North Macedonia,1991,Q_AL,quantity applied on arable land,Gg N,33.72474896193647,Estimated
+9606,MK,North Macedonia,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9607,MK,North Macedonia,1991,Q_PC,quantity applied on permanent crops,Gg N,2.4372510380635273,Estimated
+9608,MK,North Macedonia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,36.162,interpolated
+9609,MK,North Macedonia,1992,Q_AL,quantity applied on arable land,Gg N,33.80874315479216,Estimated
+9610,MK,North Macedonia,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9611,MK,North Macedonia,1992,Q_PC,quantity applied on permanent crops,Gg N,2.353256845207837,Estimated
+9612,MK,North Macedonia,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,36.162,interpolated
+9613,MK,North Macedonia,1993,Q_AL,quantity applied on arable land,Gg N,33.855221109402194,Estimated
+9614,MK,North Macedonia,1993,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+9615,MK,North Macedonia,1993,Q_PC,quantity applied on permanent crops,Gg N,2.3067788905978057,Estimated
 9616,MK,North Macedonia,1994,Q,total quantity of synthetic N fertilizer applied,Gg N,36.162,filled (b)
 9617,MK,North Macedonia,1994,Q_AL,quantity applied on arable land,Gg N,33.889906007803525,Estimated
 9618,MK,North Macedonia,1994,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -12359,14 +12359,14 @@
 12357,RO42,Vest Romania,2019,Q_AL,quantity applied on arable land,Gg N,82.20899492828218,Estimated
 12358,RO42,Vest Romania,2019,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
 12359,RO42,Vest Romania,2019,Q_PC,quantity applied on permanent crops,Gg N,1.9650050717178327,Estimated
-12360,RS,Serbia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12361,RS,Serbia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12362,RS,Serbia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12363,RS,Serbia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-12364,RS,Serbia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12365,RS,Serbia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12366,RS,Serbia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12367,RS,Serbia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+12360,RS,Serbia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,78.0,interpolated
+12361,RS,Serbia,1990,Q_AL,quantity applied on arable land,Gg N,75.28921863050567,Estimated
+12362,RS,Serbia,1990,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+12363,RS,Serbia,1990,Q_PC,quantity applied on permanent crops,Gg N,2.7107813694943212,Estimated
+12364,RS,Serbia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,78.0,interpolated
+12365,RS,Serbia,1991,Q_AL,quantity applied on arable land,Gg N,75.28921863050567,Estimated
+12366,RS,Serbia,1991,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
+12367,RS,Serbia,1991,Q_PC,quantity applied on permanent crops,Gg N,2.7107813694943212,Estimated
 12368,RS,Serbia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,78.0,filled (b)
 12369,RS,Serbia,1992,Q_AL,quantity applied on arable land,Gg N,75.28921863050567,Estimated
 12370,RS,Serbia,1992,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
@@ -12839,14 +12839,14 @@
 12837,SE3,Norra Sverige,2019,Q_AL,quantity applied on arable land,Gg N,11.1,Estimated
 12838,SE3,Norra Sverige,2019,Q_PG,quantity applied on permanent grassland,Gg N,0.0,Estimated
 12839,SE3,Norra Sverige,2019,Q_PC,quantity applied on permanent crops,Gg N,0.0,Estimated
-12840,SI,Slovenia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12841,SI,Slovenia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12842,SI,Slovenia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12843,SI,Slovenia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-12844,SI,Slovenia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12845,SI,Slovenia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12846,SI,Slovenia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12847,SI,Slovenia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+12840,SI,Slovenia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,47.806,interpolated
+12841,SI,Slovenia,1990,Q_AL,quantity applied on arable land,Gg N,29.047088611298474,Estimated
+12842,SI,Slovenia,1990,Q_PG,quantity applied on permanent grassland,Gg N,17.767725496356185,Estimated
+12843,SI,Slovenia,1990,Q_PC,quantity applied on permanent crops,Gg N,0.991185892345337,Estimated
+12844,SI,Slovenia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,47.806,interpolated
+12845,SI,Slovenia,1991,Q_AL,quantity applied on arable land,Gg N,29.047088611298474,Estimated
+12846,SI,Slovenia,1991,Q_PG,quantity applied on permanent grassland,Gg N,17.767725496356185,Estimated
+12847,SI,Slovenia,1991,Q_PC,quantity applied on permanent crops,Gg N,0.991185892345337,Estimated
 12848,SI,Slovenia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,47.806,filled (b)
 12849,SI,Slovenia,1992,Q_AL,quantity applied on arable land,Gg N,37.99528435066683,Estimated
 12850,SI,Slovenia,1992,Q_PG,quantity applied on permanent grassland,Gg N,8.727245218356005,Estimated
@@ -12959,18 +12959,18 @@
 12957,SI,Slovenia,2019,Q_AL,quantity applied on arable land,Gg N,22.07348901408866,Estimated
 12958,SI,Slovenia,2019,Q_PG,quantity applied on permanent grassland,Gg N,5.386262539814561,Estimated
 12959,SI,Slovenia,2019,Q_PC,quantity applied on permanent crops,Gg N,0.5882484460967725,Estimated
-12960,SK,Slovakia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12961,SK,Slovakia,1990,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12962,SK,Slovakia,1990,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12963,SK,Slovakia,1990,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-12964,SK,Slovakia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12965,SK,Slovakia,1991,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12966,SK,Slovakia,1991,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12967,SK,Slovakia,1991,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
-12968,SK,Slovakia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,,
-12969,SK,Slovakia,1992,Q_AL,quantity applied on arable land,Gg N,,Estimated
-12970,SK,Slovakia,1992,Q_PG,quantity applied on permanent grassland,Gg N,,Estimated
-12971,SK,Slovakia,1992,Q_PC,quantity applied on permanent crops,Gg N,,Estimated
+12960,SK,Slovakia,1990,Q,total quantity of synthetic N fertilizer applied,Gg N,64.883,interpolated
+12961,SK,Slovakia,1990,Q_AL,quantity applied on arable land,Gg N,60.87318488341452,Estimated
+12962,SK,Slovakia,1990,Q_PG,quantity applied on permanent grassland,Gg N,3.5178051259691094,Estimated
+12963,SK,Slovakia,1990,Q_PC,quantity applied on permanent crops,Gg N,0.49200999061636885,Estimated
+12964,SK,Slovakia,1991,Q,total quantity of synthetic N fertilizer applied,Gg N,64.883,interpolated
+12965,SK,Slovakia,1991,Q_AL,quantity applied on arable land,Gg N,61.05271707716323,Estimated
+12966,SK,Slovakia,1991,Q_PG,quantity applied on permanent grassland,Gg N,3.3716605317981245,Estimated
+12967,SK,Slovakia,1991,Q_PC,quantity applied on permanent crops,Gg N,0.45862239103863833,Estimated
+12968,SK,Slovakia,1992,Q,total quantity of synthetic N fertilizer applied,Gg N,64.883,interpolated
+12969,SK,Slovakia,1992,Q_AL,quantity applied on arable land,Gg N,60.97391980148518,Estimated
+12970,SK,Slovakia,1992,Q_PG,quantity applied on permanent grassland,Gg N,3.455960602989322,Estimated
+12971,SK,Slovakia,1992,Q_PC,quantity applied on permanent crops,Gg N,0.45311959552549086,Estimated
 12972,SK,Slovakia,1993,Q,total quantity of synthetic N fertilizer applied,Gg N,64.883,filled (b)
 12973,SK,Slovakia,1993,Q_AL,quantity applied on arable land,Gg N,62.54435947823529,Estimated
 12974,SK,Slovakia,1993,Q_PG,quantity applied on permanent grassland,Gg N,1.979097276710501,Estimated

@@ -539,11 +539,11 @@
 537,CY,Cyprus,2018,urb_typ,urban typology,no unit,URB
 538,CY,Cyprus,2019,typ,metabolic typology,no unit,DSG
 539,CY,Cyprus,2019,urb_typ,urban typology,no unit,URB
-540,CZ,Czeckia,1990,typ,metabolic typology,no unit,MXF
+540,CZ,Czeckia,1990,typ,metabolic typology,no unit,DSG
 541,CZ,Czeckia,1990,urb_typ,urban typology,no unit,
-542,CZ,Czeckia,1991,typ,metabolic typology,no unit,MXF
+542,CZ,Czeckia,1991,typ,metabolic typology,no unit,DSG
 543,CZ,Czeckia,1991,urb_typ,urban typology,no unit,
-544,CZ,Czeckia,1992,typ,metabolic typology,no unit,MXF
+544,CZ,Czeckia,1992,typ,metabolic typology,no unit,DSG
 545,CZ,Czeckia,1992,urb_typ,urban typology,no unit,
 546,CZ,Czeckia,1993,typ,metabolic typology,no unit,DSG
 547,CZ,Czeckia,1993,urb_typ,urban typology,no unit,
@@ -1439,9 +1439,9 @@
 1437,DK,Denmark,2018,urb_typ,urban typology,no unit,
 1438,DK,Denmark,2019,typ,metabolic typology,no unit,MXF
 1439,DK,Denmark,2019,urb_typ,urban typology,no unit,
-1440,EE,Estonia,1990,typ,metabolic typology,no unit,MXF
+1440,EE,Estonia,1990,typ,metabolic typology,no unit,DSG
 1441,EE,Estonia,1990,urb_typ,urban typology,no unit,
-1442,EE,Estonia,1991,typ,metabolic typology,no unit,MXF
+1442,EE,Estonia,1991,typ,metabolic typology,no unit,DSG
 1443,EE,Estonia,1991,urb_typ,urban typology,no unit,
 1444,EE,Estonia,1992,typ,metabolic typology,no unit,DSG
 1445,EE,Estonia,1992,urb_typ,urban typology,no unit,
